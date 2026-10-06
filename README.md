@@ -7,6 +7,7 @@ Junta de Andalucía, desarrollado tema a tema con el marco normativo LOMLOE y an
 
 - `pdf/` — un PDF por tema, listo para estudiar (más `Tema_00`, guía general de la oposición).
 - `fuentes/` — fuente Markdown de cada tema.
+- `educacion_fisica/` — temario completo de la **especialidad de Educación Física** (Orden de 9 de septiembre de 1993), con su propio README, fuentes y PDF.
 - `scripts/` — generación de los PDF (`node scripts/build_pdf.js fuentes/tema-XX.md pdf/salida.pdf`).
 
 ## Índice de temas
