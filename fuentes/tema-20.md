@@ -715,3 +715,144 @@ El currículo LOMLOE (RD 157/2022) y su concreción andaluza (Decreto 101/2023 y
 - GeoGebra: https://www.geogebra.org · Scratch: https://scratch.mit.edu
 - NCTM: https://www.nctm.org
 
+## 12. Esquema-resumen para memorizar
+
+**Estructura del tema (guion de examen)**
+
+| Bloque | Ideas que no pueden faltar |
+|---|---|
+| 1. Introducción | Alfabetización matemática = ciudadanía; Primaria, etapa decisiva (operaciones concretas); dimensión emocional; equivalencia LOE 2006 → LOMLOE |
+| 2. Fundamentos | Concepciones (instrumentalista, platónica, constructivista); Piaget, Dienes, Bruner/CPA, Skemp, Brousseau, Freudenthal, Polya, Van Hiele |
+| 3. Enfoque y características | Resolución de problemas como eje; seis sentidos; procesos NCTM; socioafectivo; STEM; área instrumental, secuencial, en espiral; objetivo de etapa g) |
+| 4. Intervención | Secuencia manipulación → verbalización → representación → símbolo; materiales; ABN; Polya; cálculo mental; juego; pensamiento computacional; TIC; cooperativo; ansiedad; errores; discalculia |
+| 5. Competencias | Básicas (8, LOE) → clave (8, LOMLOE, Recomendación UE 2018); STEM1-5; PISA/TIMSS; contribución a las 8; 8 competencias específicas |
+| 6. Elementos curriculares | CE + criterios por ciclo + saberes en 6 sentidos; codificación andaluza (MAT.2.1.1); evaluación global, continua y formativa |
+| 7. Otras áreas | CMNSC (STEM), Lengua, Lengua Extranjera, Artística, EF, Valores Cívicos y Éticos; planes y programas |
+| 8-9. Normativa y SdA | LOE-LOMLOE, RD 157/2022, LEA, D. 101/2023, Orden 30/05/2023, D. 328/2010, Instr. 8/03/2017; SdA “Mercado de nuestro cole” (4.º) |
+
+**Autores en una línea**
+
+| Autor (año) | Aportación clave |
+|---|---|
+| Piaget (1941, con Szeminska) | Número = clasificación + seriación + conservación; abstracción reflexiva |
+| Gelman y Gallistel (1978) | Cinco principios del conteo |
+| Dienes (años 60) | Principios dinámico, constructividad, variabilidad perceptiva y matemática; bloques multibase y lógicos |
+| Bruner (1966) | Enactivo → icónico → simbólico; currículo en espiral; andamiaje |
+| Singapur (CPA) | Concreto–pictórico–abstracto; modelo de barras; pentágono curricular |
+| Skemp (1976) | Comprensión instrumental vs. relacional |
+| Brousseau (TSD) | Acción, formulación, validación, institucionalización; contrato didáctico; efecto Topaze |
+| Chevallard (1985) | Transposición didáctica; “la edad del capitán” |
+| Vergnaud (1990) | Campos conceptuales: estructuras aditivas y multiplicativas |
+| Freudenthal (1973) | Matemáticas como actividad humana; reinvención guiada; matematización horizontal/vertical |
+| Polya (1945) | Comprender, planificar, ejecutar, revisar |
+| Schoenfeld (1985) | Recursos, heurísticas, control y creencias |
+| Van Hiele (1957) | Niveles de razonamiento geométrico (0-4) |
+| Martínez Montero (ABN, 2008-09) | Algoritmos abiertos basados en números frente a CBC |
+| Alsina | Pirámide de la educación matemática |
+| Wing (2006) / Papert (1980) | Pensamiento computacional / Logo |
+| Boaler (2016), Dweck | Mentalidad de crecimiento; tareas de suelo bajo y techo alto |
+| Kosc (1974) | Discalculia |
+
+**Las 8 competencias específicas (5 ejes)**
+
+- Resolución de problemas: **CE 1** interpretar · **CE 2** resolver.
+- Razonamiento y prueba: **CE 3** conjeturar/plantear problemas · **CE 4** pensamiento computacional.
+- Conexiones: **CE 5**.
+- Comunicación y representación: **CE 6**.
+- Destrezas socioafectivas: **CE 7** personales · **CE 8** sociales.
+
+**Los 6 sentidos (saberes básicos)**: A numérico (incluye educación financiera) · B medida · C espacial · D algebraico (incluye pensamiento computacional) · E estocástico · F socioafectivo.
+
+**Fórmula de la intervención**: situación-problema significativa → manipulación → verbalización → representación (barras, recta) → símbolo → práctica (cálculo mental, juego) → transferencia; con DUA, cooperativo, error como oportunidad y evaluación formativa con rúbricas.
+
+> **Idea clave:** si solo recuerdas tres cosas: **resolución de problemas como eje**, **de lo concreto a lo abstracto (CPA)** y **sentido socioafectivo** (CE 7-8).
+
+## 13. Preguntas de autoevaluación con respuesta
+
+1. **¿Qué términos actuales equivalen a “objetivos”, “contenidos” y “competencias básicas” del título oficial?**
+   Competencias específicas (más el objetivo de etapa g), saberes básicos organizados en sentidos y competencias clave con sus descriptores operativos del Perfil de salida.
+
+2. **¿Cuántas competencias específicas tiene el área y en qué ejes se agrupan?**
+   Ocho, en cinco ejes: resolución de problemas (CE 1-2), razonamiento y prueba (CE 3-4), conexiones (CE 5), comunicación y representación (CE 6) y destrezas socioafectivas (CE 7-8).
+
+3. **Enumera los seis sentidos de los saberes básicos.**
+   Numérico, de la medida, espacial, algebraico (con pensamiento computacional), estocástico y socioafectivo.
+
+4. **¿Qué significa el enfoque CPA y en qué autor se basa?**
+   Concreto–Pictórico–Abstracto: se parte de la manipulación, se pasa a la representación gráfica (p. ej., modelo de barras) y se llega al símbolo. Operativiza los modos enactivo, icónico y simbólico de Bruner y es el núcleo del método Singapur.
+
+5. **Diferencia entre comprensión instrumental y relacional según Skemp.**
+   La instrumental es saber aplicar reglas sin conocer su porqué (rápida pero frágil); la relacional es saber qué hacer y por qué, integrada en esquemas, duradera y transferible.
+
+6. **¿Cuáles son las fases de una situación didáctica de Brousseau?**
+   Acción, formulación, validación e institucionalización; esta última corresponde al docente, que da estatus de saber oficial a lo construido.
+
+7. **Cita las fases de Polya y una estrategia heurística para cada una.**
+   Comprender (reformular con sus palabras), concebir un plan (hacer un dibujo o tabla), ejecutar (operar y controlar cada paso) y examinar la solución (estimar y comprobar la razonabilidad).
+
+8. **¿Cómo se clasifican los problemas aritméticos de estructura aditiva?**
+   En cambio, combinación, comparación e igualación; su dificultad depende también de la posición de la incógnita.
+
+9. **¿Qué es el método ABN y en qué se diferencia de los algoritmos tradicionales?**
+   Método Abierto Basado en Números (Martínez Montero, Cádiz, 2008-2009): se opera con cantidades completas y con caminos flexibles, frente a los algoritmos CBC, cerrados y basados en cifras.
+
+10. **¿Qué es la ansiedad matemática y cómo se interviene?**
+    Tensión y miedo ante tareas numéricas que reduce la memoria de trabajo y genera un círculo vicioso de evitación. Se interviene con un clima seguro, el error como oportunidad, mentalidad de crecimiento, menos presión de tiempo, tareas abiertas, autorregulación emocional e implicación de las familias.
+
+11. **¿Qué componentes tiene el pensamiento computacional y en qué competencia aparece?**
+    Descomposición, reconocimiento de patrones, abstracción y algoritmos (con depuración). Aparece en la CE 4 y en el sentido algebraico.
+
+12. **¿Cómo se identifica en Andalucía al alumnado con discalculia?**
+    Según las Instrucciones de 8 de marzo de 2017: detección por el equipo docente, aplicación de medidas generales, evaluación psicopedagógica del EOE, informe y registro en Séneca como dificultad específica de aprendizaje (discalculia).
+
+13. **¿Qué niveles de Van Hiele se trabajan en Primaria?**
+    Fundamentalmente el 0 (visualización), el 1 (análisis) y el inicio del 2 (deducción informal); el paso de un nivel a otro depende de la enseñanza.
+
+14. **¿Qué diferencia a PISA de TIMSS?**
+    PISA (OCDE) evalúa a los 15 años con un enfoque competencial y trienal; TIMSS (IEA) evalúa 4.º de Primaria con un enfoque curricular y cuatrienal (dominios cognitivos: conocer, aplicar y razonar).
+
+15. **¿Cómo se expresan los resultados de evaluación y cuándo se decide la promoción en Primaria?**
+    Con las calificaciones IN, SU, BI, NT y SB, tomando como referente los criterios de evaluación; la promoción se decide de forma colegiada al final de cada ciclo (2.º, 4.º y 6.º).
+
+## 14. Consejos para defender el tema en el examen
+
+**Distribución del tiempo (para unas dos horas de prueba escrita)**
+
+| Parte | Tiempo aproximado | Contenido mínimo |
+|---|---|---|
+| Índice e introducción | 10 min | Índice numerado, justificación, equivalencia terminológica LOE → LOMLOE |
+| Fundamentos y enfoque | 25 min | 5-6 autores con año y una implicación de aula cada uno; enfoque del área en el currículo |
+| Intervención educativa | 30 min | Secuencia CPA, materiales (tabla), Polya, ABN, juego, pensamiento computacional, socioafectivo, errores |
+| Competencias y elementos curriculares | 25 min | Competencias clave y descriptores STEM; 8 CE; 6 sentidos; criterios; evaluación |
+| Relación con otras áreas, normativa, SdA | 20 min | Tabla de áreas; normas estatales y andaluzas; esbozo de una situación de aprendizaje |
+| Conclusión y bibliografía | 10 min | Síntesis con cita de autor; 5-8 referencias y normativa |
+
+**Citas y autores que “puntúan”**
+
+- Freudenthal: las matemáticas como **actividad humana** y la **reinvención guiada**.
+- Polya y sus cuatro fases; Schoenfeld y la metacognición.
+- Bruner y el enfoque **CPA** (método Singapur, modelo de barras).
+- Skemp (comprensión relacional) y Brousseau (situaciones didácticas, contrato didáctico).
+- Alsina (pirámide de la educación matemática) y Canals (didáctica manipulativa) como referentes españoles; Martínez Montero (ABN) como referente andaluz.
+- Boaler y Dweck para el sentido socioafectivo.
+- Datos de PISA y TIMSS formulados con prudencia (tendencias, no cifras dudosas).
+
+**Errores frecuentes que hay que evitar**
+
+- Quedarse en la terminología de 2006 sin explicar su equivalencia con la LOMLOE (o, al revés, ignorar el título oficial).
+- Confundir competencias clave, competencias específicas y descriptores operativos.
+- Presentar los sentidos como bloques estancos o olvidar el **sentido socioafectivo**.
+- Citar artículos o fechas de normas sin seguridad; mejor una referencia general correcta que una precisa inventada.
+- Enumerar autores sin extraer implicaciones didácticas para Primaria.
+- Olvidar la atención a la diversidad (DUA, discalculia, altas capacidades) y la evaluación (instrumentos y rúbricas).
+- No mencionar la normativa andaluza (Decreto 101/2023 y Orden de 30 de mayo de 2023) ni los planes y programas de la Junta.
+
+**Cómo personalizar el tema**
+
+- Incluye un ejemplo propio y breve de aula en cada epígrafe (una suma ABN, un problema con modelo de barras, un juego de estrategia).
+- Contextualiza en Andalucía: Alhambra y simetrías, productos andaluces, datos de embalses, Día de Andalucía, Sociedad Thales.
+- Relaciona el tema con tu programación didáctica: utiliza la misma situación de aprendizaje o una coherente con ella.
+- Usa tablas y esquemas (autores, sentidos, competencias específicas): facilitan la corrección y demuestran capacidad de síntesis.
+- Cierra con una conclusión que conecte la teoría con el papel del maestro: construir aprendizajes sólidos y, a la vez, una relación positiva con las matemáticas.
+
+> **Idea clave:** el tribunal valora la **estructura clara**, la **actualización normativa**, la **fundamentación con autores** y, sobre todo, la **aplicación práctica** al aula de Primaria andaluza.

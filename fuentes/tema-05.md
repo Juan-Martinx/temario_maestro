@@ -697,3 +697,165 @@ En palabras que resumen el espíritu de todo el tema: **no evaluamos para clasif
 - Instituto Nacional de Evaluación Educativa (INEE): https://www.educacionfpydeportes.gob.es/inee
 - INTEF: https://intef.es
 - Portal de evaluación educativa de Andalucía (indicadores homologados y evaluaciones de diagnóstico), accesible desde el portal de la Consejería.
+
+## 14. Esquema-resumen para memorizar
+
+### 14.1. Concepto, evolución y modelos
+
+| Bloque | Lo esencial |
+|---|---|
+| **Evaluar ≠ calificar** | Evaluar = recoger información sistemática + valorarla con referentes + **tomar decisiones de mejora**. Calificar = expresar el juicio en una escala (IN, SU, BI, NT, SB). |
+| **Cuatro generaciones** (Guba y Lincoln, 1989) | 1.ª medición → 2.ª descripción (respecto a objetivos) → 3.ª juicio → 4.ª negociación / respondiente-constructivista. |
+| **Tyler (1949)** | Evaluación por objetivos: comparar resultados con objetivos previstos. |
+| **Scriven (1967)** | Distingue evaluación **formativa** y **sumativa**. |
+| **Stufflebeam (1971)** | Modelo **CIPP**: Contexto, *Input* (entrada/diseño), Proceso, Producto. Evaluar para mejorar, no para demostrar. |
+| **Modelos comprensivos** | Stake (evaluación respondiente), Parlett y Hamilton (iluminativa), Santos Guerra (evaluación como diálogo, comprensión y mejora). |
+| **Black y Wiliam (1998)** | La evaluación formativa mejora el aprendizaje, sobre todo del alumnado con más dificultades. |
+| **Hattie y Timperley (2007)** | *Feedback*: ¿adónde voy?, ¿cómo voy?, ¿qué sigue?; niveles de tarea, proceso, autorregulación (el de la persona es el menos eficaz). |
+| **Evaluación formadora** (Jorba y Sanmartí, 1996; Nunziati) | El alumno se apropia de los objetivos y criterios y autorregula su aprendizaje. |
+
+### 14.2. Funciones, tipos y características
+
+| Criterio | Tipos |
+|---|---|
+| **Función** | Diagnóstica, formativa (reguladora), sumativa (certificadora), formadora; también pronóstica, orientadora, de control. |
+| **Momento** | Inicial, continua/procesual, final. |
+| **Agente** | Autoevaluación, coevaluación, heteroevaluación (y evaluación compartida/dialogada). |
+| **Referente** | **Criterial** (criterios de evaluación: el propio de la LOMLOE), normativa (grupo), idiográfica (progreso del propio alumno). |
+| **Extensión** | Global / parcial. |
+| **Características LOMLOE** | **Global, continua y formativa** (LOE art. 20); integradora (todas las áreas contribuyen a las competencias clave); criterial; objetiva; con instrumentos variados, diversos y accesibles. |
+
+### 14.3. Criterios de evaluación y cadena de referentes
+
+**Perfil de salida** (competencias clave + descriptores operativos) → **Competencias específicas** de cada área → **Criterios de evaluación** (vinculados a una competencia específica) → **Saberes básicos** movilizados en **situaciones de aprendizaje** → **niveles de logro** → calificación.
+
+- En Andalucía: además, **Perfil competencial al término del segundo ciclo** (Decreto 101/2023).
+- Criterio = "qué" y "cómo" + contexto; se gradúan en niveles de logro (iniciado, en proceso, adquirido, avanzado / o los que fije el centro) y se registran en el **cuaderno de Séneca**.
+- Criterios públicos al inicio del curso (proyecto educativo y programaciones).
+
+### 14.4. Estrategias, técnicas e instrumentos
+
+| Técnica | Instrumentos |
+|---|---|
+| **Observación sistemática** | Registro anecdótico, lista de control, escala de estimación, diario de clase. |
+| **Análisis de producciones** | Cuaderno, portfolio, producto final de la SA, textos, maquetas, mapas conceptuales; valorados con **rúbricas**. |
+| **Interrogación** | Entrevista, cuestionario, asamblea, debates. |
+| **Pruebas** | Orales, escritas, de ejecución; **competenciales** y contextualizadas (tipo PIRLS/TIMSS). |
+| **Auto/coevaluación** | Dianas, rúbricas compartidas, "dos estrellas y un deseo", escalera de la metacognición, diario de aprendizaje. |
+
+Requisitos de un buen instrumento: **validez, fiabilidad, objetividad, viabilidad/practicidad, accesibilidad (DUA)**, coherencia con el criterio.
+
+### 14.5. Ordenación en Andalucía (Orden de 30 de mayo de 2023)
+
+| Aspecto | Clave |
+|---|---|
+| Responsables | Equipo docente, coordinado por el tutor/a; decisiones colegiadas. |
+| Sesiones | Evaluación inicial (primer mes, sin calificación), al menos una por trimestre, final. Acta de cada sesión; información a familias por iPASEN. |
+| Calificaciones | IN (negativa); SU, BI, NT, SB (positivas). Mención Honorífica al final de etapa. |
+| Promoción | Solo al final de ciclo (2.º, 4.º, 6.º); permanencia **excepcional, una sola vez** en la etapa, con plan específico de refuerzo; se oye a las familias. |
+| Informes | Final de ciclo, final de etapa, resultados de la evaluación de diagnóstico, personal por traslado; programa de tránsito. |
+| Documentos oficiales | Expediente académico, actas, informe final de etapa, historial académico, informe personal por traslado (en Séneca). |
+| Garantías | Criterios públicos; aclaraciones; revisión/reclamación ante el centro (equipo docente y dirección). |
+
+### 14.6. Evaluaciones externas, enseñanza y NEAE
+
+| Bloque | Lo esencial |
+|---|---|
+| **Diagnóstico (LOE art. 21)** | 4.º de Primaria, censal, sin efectos académicos, formativa y orientadora; al menos CCL y competencia matemática; planes de mejora; prohibidos los *rankings*. LOMCE la había sustituido por evaluaciones de 3.º y 6.º. |
+| **Sistema educativo** | INEE; evaluaciones muestrales y plurianuales al final de 6.º; indicadores. |
+| **Internacionales** | PIRLS (lectura, 4.º, IEA), TIMSS (matemáticas y ciencias, 4.º, IEA), PISA (15 años, OCDE). |
+| **Andalucía** | LEA, AGAEVE (Decreto 435/2008), prueba ESCALA (2.º), indicadores homologados. |
+| **Evaluación de la enseñanza** | Indicadores de logro en las programaciones; Stenhouse, Schön, investigación-acción; autoevaluación de centros (Decreto 328/2010): equipo de evaluación, memoria de autoevaluación, plan de mejora. |
+| **NEAE** | Mismos principios, ajustes de acceso **sin cambiar el referente**; solo la **ACS** cambia los criterios; Instrucciones de 8 de marzo de 2017; ATAL; flexibilización para altas capacidades (RD 943/2003). |
+
+## 15. Preguntas de autoevaluación
+
+1. **¿Qué diferencia hay entre evaluar y calificar?**
+   Evaluar es un proceso sistemático de recogida de información, valoración con referentes y toma de decisiones de mejora; calificar es solo la expresión del resultado en una escala (IN-SB). Se puede evaluar sin calificar (por ejemplo, en la evaluación inicial).
+
+2. **¿Cuáles son las características de la evaluación en Educación Primaria según la LOMLOE?**
+   Global, continua y formativa (art. 20 de la LOE); además, integradora y criterial, con instrumentos variados, diversos y accesibles, y referida al grado de desarrollo de las competencias clave.
+
+3. **¿Qué aportaron Scriven y Stufflebeam a la teoría de la evaluación?**
+   Scriven (1967) distinguió entre evaluación formativa (para mejorar durante el proceso) y sumativa (para valorar el resultado). Stufflebeam (1971) propuso el modelo CIPP (contexto, entrada, proceso y producto), orientado a la toma de decisiones y a la mejora.
+
+4. **¿Qué diferencia la evaluación formativa de la formadora?**
+   En la formativa el docente regula el proceso a partir de la información recogida; en la formadora es el propio alumnado quien se apropia de los criterios y autorregula su aprendizaje (autoevaluación, coevaluación, criterios de éxito compartidos).
+
+5. **Enumera la cadena de referentes curriculares para evaluar.**
+   Perfil de salida (competencias clave y descriptores operativos) → competencias específicas → criterios de evaluación → saberes básicos movilizados en situaciones de aprendizaje; en Andalucía, también el Perfil competencial al término del segundo ciclo.
+
+6. **Diferencia entre técnica e instrumento de evaluación, con un ejemplo.**
+   La técnica es el procedimiento para obtener información (observación sistemática); el instrumento es la herramienta concreta en la que se registra y valora (lista de control, escala de estimación, rúbrica).
+
+7. **¿Qué requisitos debe cumplir un buen instrumento de evaluación?**
+   Validez (mide lo que pretende medir, ajustado al criterio), fiabilidad (consistencia), objetividad, viabilidad o practicidad y accesibilidad para todo el alumnado.
+
+8. **¿Cuándo se decide la promoción en Primaria y en qué condiciones puede un alumno permanecer un año más?**
+   Solo al final de cada ciclo (2.º, 4.º y 6.º), por decisión colegiada del equipo docente. La permanencia es excepcional, solo una vez en la etapa, tras agotar las medidas ordinarias y con un plan específico de refuerzo; se oye previamente a la familia.
+
+9. **¿Cuáles son los documentos oficiales de evaluación en Primaria?**
+   Expediente académico, actas de evaluación, informe final de etapa, historial académico e informe personal por traslado; en Andalucía se gestionan en Séneca.
+
+10. **¿Qué características tiene la evaluación de diagnóstico?**
+    Se realiza en 4.º de Primaria en todos los centros; carece de efectos académicos; tiene carácter informativo, formativo y orientador; evalúa al menos la competencia en comunicación lingüística y la matemática; da lugar a planes de mejora y no puede usarse para clasificar centros.
+
+11. **¿Qué evaluaciones internacionales afectan a Primaria?**
+    PIRLS (comprensión lectora, 4.º curso, IEA) y TIMSS (matemáticas y ciencias, 4.º curso, IEA). PISA (OCDE, 15 años) influye indirectamente.
+
+12. **¿Cómo se evalúa la práctica docente?**
+    Mediante indicadores de logro incluidos en las programaciones (programación, metodología, recursos, diversidad, clima, evaluación, resultados), con instrumentos como escalas de autoevaluación, diario del profesorado, cuestionarios al alumnado y a las familias, y análisis de resultados; las conclusiones se convierten en propuestas de mejora.
+
+13. **¿Qué regula el Decreto 328/2010 sobre la autoevaluación de centros?**
+    La autoevaluación anual del funcionamiento, los programas, los procesos de enseñanza-aprendizaje y los resultados, con indicadores homologados y propios; la realiza un equipo de evaluación y se plasma en una memoria de autoevaluación con propuestas de mejora que se integran en el Plan de Centro.
+
+14. **¿Una adaptación de acceso cambia el referente de evaluación de un alumno con NEE?**
+    No. Las adaptaciones de acceso modifican formatos, tiempos o recursos, pero el referente sigue siendo los criterios del curso. Solo la adaptación curricular significativa modifica los criterios de evaluación.
+
+15. **¿Qué puede hacer una familia que discrepa de la calificación final?**
+    Solicitar aclaraciones al tutor/a y al profesorado y, si persiste el desacuerdo, presentar solicitud de revisión en el centro; el equipo docente la estudia y la dirección comunica la decisión motivada, contra la que caben los recursos que procedan.
+
+## 16. Consejos para defender este tema en el examen
+
+### 16.1. Estructura y gestión del tiempo
+
+Para una prueba escrita de unas dos horas, una distribución orientativa es:
+
+| Parte | Tiempo aproximado | Contenido mínimo |
+|---|---|---|
+| Índice e introducción | 10-12 min | Índice numerado con todos los epígrafes del título; justificación desde los planos normativo, pedagógico y profesional. |
+| Concepto, evolución y modelos | 15-20 min | Definición propia; cuatro generaciones; Tyler, Scriven, Stufflebeam, Black y Wiliam; funciones y tipos en una tabla. |
+| Evaluación continua y global | 10-15 min | Características LOMLOE; momentos; agentes; qué evaluar. |
+| Criterios de evaluación | 10-15 min | Cadena de referentes y niveles de logro con un ejemplo de criterio. |
+| Técnicas e instrumentos | 15-20 min | Tabla técnica-instrumento; la rúbrica desarrollada; requisitos. |
+| Ordenación andaluza | 10-15 min | Sesiones, calificaciones, promoción, documentos, reclamaciones. |
+| Diagnóstico y evaluación de la enseñanza | 15 min | Diagnóstico en 4.º, PIRLS/TIMSS, AGAEVE; práctica docente y autoevaluación del centro. |
+| Aplicación al aula, conclusión y bibliografía | 10-15 min | Una situación de aprendizaje resumida con su evaluación; conclusión con idea fuerza; 6-8 referencias. |
+
+Deja siempre los últimos cinco minutos para revisar la ortografía y comprobar que has tratado **todos los epígrafes del título oficial**, incluida la evaluación del proceso de enseñanza, que muchos aspirantes olvidan.
+
+### 16.2. Citas, autores y normas que "puntúan"
+
+- **Autores**: Tyler (1949), Scriven (1967), Stufflebeam (1971), Guba y Lincoln (1989), Black y Wiliam (1998), Hattie y Timperley (2007), Sanmartí (2007), Santos Guerra (1993), Stenhouse y Schön para la práctica reflexiva. Cita el año: transmite dominio.
+- **Ideas fuerza** para encabezar o cerrar: "evaluar para aprender, no solo evaluar el aprendizaje"; "el alumnado aprende lo que se evalúa y como se evalúa"; "evaluar no es calificar".
+- **Normativa**: LOE-LOMLOE (arts. 20, 21 y 91), RD 157/2022, Decreto 101/2023, **Orden de 30 de mayo de 2023** (la norma clave del día a día), Decreto 328/2010 (autoevaluación), LEA (AGAEVE), Instrucciones de 8 de marzo de 2017 (NEAE).
+- **Terminología LOMLOE** sin errores: competencias específicas, criterios de evaluación, descriptores operativos, Perfil de salida, saberes básicos, situaciones de aprendizaje, DUA.
+
+### 16.3. Errores frecuentes
+
+1. Confundir **evaluar con calificar** o reducir la evaluación a los exámenes.
+2. Hablar de "estándares de aprendizaje evaluables" o de "evaluaciones individualizadas de 3.º y 6.º" como vigentes: son de la **LOMCE** y ya no se aplican.
+3. Afirmar que se promociona curso a curso: en la LOMLOE la promoción se decide **al final de cada ciclo**.
+4. Decir que la evaluación de diagnóstico tiene efectos académicos o sirve para clasificar centros.
+5. Olvidar la **evaluación de la práctica docente** y la autoevaluación del centro.
+6. Confundir **técnica** con **instrumento**.
+7. Citar artículos o fechas de los que no se está seguro: es preferible una formulación general correcta.
+8. Desarrollar solo teoría sin ningún ejemplo de aula de Primaria.
+
+### 16.4. Cómo personalizar el tema
+
+- Incluye **una rúbrica breve** (3-4 criterios × 4 niveles) de un producto concreto, por ejemplo la exposición oral del reportaje sobre el patrimonio: demuestra competencia práctica.
+- Contextualiza en **Andalucía**: Séneca y su cuaderno del profesorado, iPASEN, ComunicA, PLC, Transformación Digital Educativa, patrimonio andaluz, 28 de febrero.
+- Menciona brevemente cómo evaluarías a un alumno o alumna con NEAE en tu situación de aprendizaje (ajustes de acceso, DUA) y la diferencia con una ACS.
+- Relaciona el tema con la **programación didáctica** que defenderás después: el tribunal valora la coherencia entre el tema escrito y tu propuesta práctica.
+- Cierra con una conclusión propia que vincule evaluación, equidad y mejora: "no evaluamos para clasificar, sino para que todos aprendan más y mejor".

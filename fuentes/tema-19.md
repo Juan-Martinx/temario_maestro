@@ -675,3 +675,139 @@ Enseñar a escribir es enseñar a pensar, a comunicarse y a participar en la soc
 
 **Webgrafía**: BOE (www.boe.es); BOJA (www.juntadeandalucia.es/eboja); Portal de la Consejería de Desarrollo Educativo y Formación Profesional (www.juntadeandalucia.es/educacion); Portal de Planes y Programas (PLC, ComunicA, Biblioteca Escolar); INTEF (intef.es); Real Academia Española (www.rae.es); Centro Virtual Cervantes (cvc.cervantes.es); CAST, pautas DUA (udlguidelines.cast.org).
 
+## 13. Esquema-resumen para memorizar
+
+**Bloque I. Concepto y modelos**
+
+| Idea | Lo que hay que recordar |
+|---|---|
+| Escritura | Código secundario; "lenguaje sin interlocutor" (Vygotsky, 1934); triple valor: instrumental, comunicativo-social, personal-creativo |
+| Competencia escrita (Cassany, 1987) | **Código** (gramática, ortografía, propiedades textuales) + **proceso** (planificar, redactar, revisar); 4 perfiles: competente, bloqueado, sin código, no competente |
+| Propiedades textuales | Adecuación · Coherencia (macro/superestructura, van Dijk) · Cohesión · Corrección · Presentación |
+| Enfoques (Cassany, 1990) | Gramatical · Funcional · Procesual · De contenido → hoy **integración** |
+| Flower y Hayes (1981) | Contexto de la tarea + memoria a largo plazo + procesos (planificación, traducción, revisión) + **monitor**; recursivo; revisión de Hayes (1996) |
+| Bereiter y Scardamalia (1987) | *Decir el conocimiento* (novato) → *transformar el conocimiento* (experto); **facilitación procedimental** |
+| Camps (1994, 2003) | **Secuencia didáctica**: preparación – realización – evaluación; interacción oral; uso y reflexión → antecedente de la situación de aprendizaje |
+| Otros | Ferreiro y Teberosky (1979, niveles presilábico → alfabético); Cuetos (1991, 4 procesos y doble ruta); Graves (1983) y Calkins (1986, taller); Graham y Harris (SRSD) |
+
+**Bloque II. Desarrollo en la etapa**
+
+- **Procesos**: planificación (tarea, ideas, organización, objetivos) → textualización (borradores, modelos, conectores, escritura compartida, dictado al adulto) → revisión (modelado, listas de control, iguales, primero contenido y luego forma) → **edición/publicación** para destinatario real.
+- **Grafomotricidad** (Ajuriaguerra, 1964): precaligráfica (5/6-8) → caligráfica infantil (8/9-10/12) → postcaligráfica (11/12-).
+- **Ergonomía**: postura, **pinza trípode**, papel inclinado, zurdos a la izquierda y sin "gancho", luz contraria a la mano.
+- **Letra**: script / ligada / mayúsculas → decisión de centro en el **PLC**; legible, fluida y personal; manuscrita + teclado.
+- **Ciclos**: 1.º textos breves y ortografía natural → 2.º estructura, párrafos, conectores, reglas básicas → 3.º expositivos/argumentativos, autonomía, ortografía reglada y acentuación completa.
+- **Tipologías**: Werlich (1975), Adam (1992: narrativa, descriptiva, argumentativa, explicativa, dialogal); **géneros discursivos** (Bajtín) como unidad de trabajo.
+
+**Bloque III. Programación, intervención y evaluación**
+
+| Programación | Intervención | Evaluación |
+|---|---|---|
+| Funcionalidad · proceso · espiralidad · uso-reflexión · integración de destrezas · todas las áreas · regularidad diaria · DUA · evaluación formativa | Liberación gradual (Pearson y Gallagher, 1983): modelada → compartida → guiada → independiente | Continua, global, criterial y formativa (Orden 30/05/2023) |
+| CE5 (+ CE6, CE8, CE9, CE10); CCL, CD, CPSAA, CC, CCEC | Modelos de género, estrategias explícitas, facilitación procedimental, escritura cooperativa, conferencias, retroalimentación | Qué: adecuación, coherencia, cohesión, corrección, presentación, proceso |
+| Saberes: bloque B (producción escrita) y D (reflexión) | Funcional · creativa (**Rodari, 1973**; Grafein, 1981) · digital y multimodal (Kress; Nueva Londres, 1996) | Cómo: rúbricas, listas de cotejo, escalas, **portfolio**, observación, PROESC, TALE |
+| Tiempo: escritura diaria + proyectos + talleres; rincón de escritura | Técnicas: expansión, combinación de oraciones, transformación, resumen, puzles textuales | Quién: hetero-, auto- y coevaluación; código de corrección; reescritura |
+
+**Bloque IV. Dificultades**
+
+- **Disgrafía** (Portellano, 1985): motriz o específica; centrales (superficial, fonológica, profunda) y periféricas. Intervención: psicomotricidad, postura y prensión, grafomotricidad, reeducación caligráfica, accesibilidad.
+- **Disortografía**: errores naturales (ruta fonológica) / arbitrarios (ruta léxica) / reglados. Intervención: conciencia fonológica, memoria visual, vocabulario personal, autocorrección.
+- Marco: Instrucciones de 8 de marzo de 2017 (DEA); DSM-5; DUA; ATAL; medidas de la Orden de 30 de mayo de 2023.
+
+**Bloque V. Ortografía**
+
+| Aspecto | Clave |
+|---|---|
+| Norma | *Ortografía de la lengua española* (RAE y ASALE, 2010) |
+| Funciones | Social · comunicativa (unidad sobre hablas andaluzas) · semántica (homófonos) |
+| Tipos | Natural (1.er ciclo) · arbitraria · reglada (2.º-3.er ciclo); de la frase y acentual |
+| Enfoques | Tradicional → visual-léxico (Gabarró y Puigarnau, 1996) → reflexivo (Camps y otros, 1990) → comunicativo → **integración** |
+| Vocabulario básico | García Hoz (1953), Mesanza (1987); frecuencia + errores reales; 8-10 palabras/semana |
+| Estrategias | Visuales, auditivas, multisensoriales, léxico-semánticas (familias), reflexivas, autocorrección, juego |
+| Dictado | **Preparado** + autocorrección; autodictado, cooperativo, selectivo, con huecos, creativo, digital |
+| Reglas | Solo productivas, por **inducción** (corpus → regularidad → formulación → comprobación → uso → mural → revisión) |
+| Evaluación | En textos propios; categorizar errores; progreso; criterios comunes en todas las áreas (PLC) |
+
+## 14. Preguntas de autoevaluación
+
+**1. ¿Qué dos componentes distingue Cassany en la competencia escrita y qué implicación didáctica tiene?**
+El conocimiento del código (gramática, ortografía, propiedades textuales) y el dominio del proceso de composición. Implica que no basta con enseñar gramática: hay que enseñar explícitamente a planificar, redactar y revisar.
+
+**2. ¿Por qué se dice que el modelo de Flower y Hayes es recursivo?**
+Porque planificación, traducción y revisión no son etapas sucesivas: el escritor experto vuelve atrás constantemente bajo el control de un monitor metacognitivo.
+
+**3. Diferencia entre "decir el conocimiento" y "transformar el conocimiento".**
+En el primero (novatos) se vuelca lo que se sabe en el orden en que se recuerda, sin planificar ni adaptar al lector; en el segundo (expertos) interactúan el espacio del contenido y el retórico, y escribir genera conocimiento nuevo (Bereiter y Scardamalia, 1987).
+
+**4. ¿Qué es la facilitación procedimental? Pon dos ejemplos.**
+Apoyos externos que reducen la carga ejecutiva y modelan estrategias expertas: tarjetas con frases de inicio para revisar, fichas de preguntas guía para planificar, bancos de conectores.
+
+**5. Fases de la secuencia didáctica de Anna Camps.**
+Preparación (proyecto, modelos, criterios), realización (producción con interacción y actividades de aprendizaje específico) y evaluación formativa con criterios compartidos.
+
+**6. ¿Cuáles son las fases de la escritura según Ajuriaguerra?**
+Precaligráfica (5/6-8 años), caligráfica infantil (8/9-10/12) y postcaligráfica (desde 11/12).
+
+**7. ¿Qué competencia específica de Lengua Castellana y Literatura se centra en la producción escrita y qué procesos menciona?**
+La competencia específica 5: producir textos escritos y multimodales aplicando estrategias de planificación, textualización, revisión y edición, con corrección gramatical y ortográfica.
+
+**8. Describe el modelo de liberación gradual de la responsabilidad.**
+Pearson y Gallagher (1983): escritura modelada (docente), compartida (docente y grupo), guiada (alumnado con apoyo) e independiente (autonomía).
+
+**9. Cita cuatro técnicas de Rodari.**
+Binomio fantástico, hipótesis fantástica ("¿qué pasaría si...?"), piedra en el estanque y ensalada de fábulas (también cartas de Propp, error creativo, cuentos al revés).
+
+**10. ¿Qué instrumentos son más adecuados para evaluar el proceso de escritura?**
+Portfolio con borradores y versiones finales, observación sistemática, listas de control de revisión, conferencias de escritura y rúbricas que incluyan el criterio "proceso".
+
+**11. Diferencia entre disgrafía y disortografía.**
+La disgrafía afecta al trazado o forma de las letras (procesos motores); la disortografía, a la transcripción correcta del código (errores ortográficos persistentes por fallos en la ruta fonológica o léxica).
+
+**12. ¿Qué indican los errores de ortografía natural frente a los de ortografía arbitraria?**
+Los naturales (omisiones, inversiones, sustituciones) remiten a la ruta fonológica; los arbitrarios (*b/v*, *h*, *g/j*), a la ruta léxica o memoria visual de las palabras.
+
+**13. ¿Por qué el dictado tradicional no enseña ortografía y qué alternativa se propone?**
+Porque solo constata errores sin prevenirlos y expone al alumno a formas incorrectas. Se propone el dictado preparado con autocorrección y trabajo posterior de los errores.
+
+**14. ¿Cómo se enseña una regla ortográfica de forma inductiva?**
+Corpus de palabras → observación de regularidades → formulación por el alumnado → comprobación y excepciones → uso en textos → mural de reglas → revisión de textos propios.
+
+**15. ¿Qué aporta la normativa andaluza específica al tratamiento de la escritura?**
+El Decreto 101/2023 y la Orden de 30 de mayo de 2023 fijan currículo y evaluación; las Instrucciones de 21 de junio de 2023 regulan el tratamiento de la lectura (y la escritura) en el centro; el PLC y ComunicA dan coherencia de centro y recursos; las Instrucciones de 8 de marzo de 2017 regulan la detección de DEA de la escritura.
+
+## 15. Consejos para defender este tema en el examen
+
+**Distribución del tiempo (prueba de unas 2 horas)**
+
+| Tiempo | Qué hacer |
+|---|---|
+| 5-10 min | Esquema previo en borrador con los epígrafes del título oficial y los autores clave con año |
+| 10 min | Introducción: justificación, triple valor de la escritura, CCL y CE5, PLC y ComunicA |
+| 35-40 min | Concepto y modelos (Cassany, Flower y Hayes, Bereiter y Scardamalia, Camps) + desarrollo por ciclos, grafomotricidad y tipologías |
+| 30 min | Programación, intervención (liberación gradual, cooperativa, Rodari, digital) y evaluación (rúbrica, portfolio) |
+| 20 min | Ortografía: tipos, enfoques, vocabulario básico, dictado preparado, reglas inductivas |
+| 10-15 min | Normativa, mini-situación de aprendizaje, conclusión y bibliografía breve |
+
+**Lo que "puntúa"**
+
+- Respetar **literalmente los epígrafes del título**: desarrollo de la expresión escrita; programación, desarrollo y evaluación de la composición escrita; estrategias de intervención; ortografía. Que el tribunal los encuentre como apartados visibles.
+- Citar con año: Vygotsky (1934), Ajuriaguerra (1964), Rodari (1973), Ferreiro y Teberosky (1979), Flower y Hayes (1981), Graves (1983), Bereiter y Scardamalia (1987), Cassany (1987, 1993), Camps (1990, 2003), Cuetos (1991), Gabarró y Puigarnau (1996), RAE y ASALE (2010).
+- Usar la terminología LOMLOE con precisión: competencia específica 5, descriptores CCL, saberes básicos del bloque B y D, situaciones de aprendizaje, DUA, evaluación criterial.
+- Incluir **una tabla** (enfoques, procesos o tipos de ortografía) y **una rúbrica breve**: muestran dominio práctico.
+- Andaluzar el tema: hablas andaluzas y ortografía (seseo, ceceo, yeísmo, aspiración), leyendas y coplas, Día de Andalucía, PLC, ComunicA, biblioteca escolar, ATAL.
+- Cerrar con una idea fuerte: "escribir es pensar; el maestro es mediador que modela, guía y crea contextos donde escribir tiene sentido".
+
+**Errores frecuentes**
+
+- Convertir el tema en un tratado de lectoescritura inicial (métodos sintéticos/analíticos), olvidando la **composición**.
+- Presentar planificación, textualización y revisión como fases lineales.
+- Reducir la ortografía a listas de reglas y dictados o defender la copia como castigo.
+- Confundir disgrafía con disortografía o atribuirles causas intelectuales.
+- Citar normativa derogada (LOE sin LOMLOE, Decreto 97/2015, Orden de 17 de marzo de 2015) como vigente, o inventar artículos.
+- Olvidar la evaluación del proceso y la autoevaluación.
+
+**Cómo personalizarlo**
+
+- Añade una experiencia propia (periódico escolar, blog, correspondencia, antología de aula) descrita en dos o tres líneas con producto final y destinatario.
+- Adapta el ejemplo al ciclo que mejor domines y menciona un recurso concreto (código de corrección de la clase, fichero ortográfico personal, rincón de escritura).
+- Enlaza con otros temas del temario (lectura, expresión oral, literatura infantil, atención a la diversidad, TIC) para demostrar visión global.
