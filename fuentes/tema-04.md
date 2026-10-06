@@ -676,3 +676,160 @@ CEIP de una localidad de la provincia de Sevilla, **4.º de Educación Primaria 
 ## 12. Conclusión
 
 La atención a la diversidad es la traducción práctica del principio de **equidad**: garantizar que **todo el alumnado esté presente, participe y aprenda** en entornos ordinarios. Su fundamento está en los grandes acuerdos internacionales (Salamanca 1994, Convención de 2006, ODS 4) y en la LOMLOE, que asume el enfoque inclusivo y el DUA. En Andalucía se concreta en un modelo que combina un **diseño universal** de la enseñanza, un **protocolo riguroso de detección e identificación** (Instrucciones de 8 de marzo de 2017) y un **continuo de medidas** que va de lo general a lo específico (Orden de 30 de mayo de 2023), sostenido por profesionales especializados (PT, AL, PTIS, EOE) y por la colaboración con las familias. Para el maestro o la maestra de Primaria esto implica un cambio de mirada: pasar de «qué le pasa a este alumno» a **«qué barreras encuentra y cómo puedo eliminarlas»**, manteniendo altas expectativas para todos. Como recuerda Ainscow, la inclusión no es un estado que se alcanza, sino un proceso permanente de mejora de la escuela.
+
+## 13. Bibliografía y webgrafía
+
+### 13.1. Bibliografía básica
+
+- Ainscow, M. (2001). *Desarrollo de escuelas inclusivas. Ideas, propuestas y experiencias para mejorar las instituciones escolares*. Madrid: Narcea.
+- Ainscow, M., Booth, T. y Dyson, A. (2006). *Improving Schools, Developing Inclusion*. Londres: Routledge.
+- Alba Pastor, C. (coord.) (2016). *Diseño Universal para el Aprendizaje: educación para todos y prácticas de enseñanza inclusivas*. Madrid: Morata.
+- American Psychiatric Association (2014). *DSM-5. Manual diagnóstico y estadístico de los trastornos mentales* (5.ª ed.). Madrid: Editorial Médica Panamericana.
+- Arnaiz Sánchez, P. (2003). *Educación inclusiva: una escuela para todos*. Málaga: Aljibe.
+- Barkley, R. A. (2002). *Niños hiperactivos. Cómo comprender y atender sus necesidades especiales*. Barcelona: Paidós.
+- Booth, T. y Ainscow, M. (2015). *Guía para la educación inclusiva. Desarrollando el aprendizaje y la participación en los centros escolares* (adaptación española del *Index for Inclusion*). Madrid: FUHEM-OEI.
+- CAST (2018). *Universal Design for Learning Guidelines, version 2.2*. Wakefield, MA: CAST (y versión 3.0, 2024).
+- Echeita, G. (2006). *Educación para la inclusión o educación sin exclusiones*. Madrid: Narcea.
+- Frith, U. (1989/2004). *Autismo. Hacia una explicación del enigma*. Madrid: Alianza.
+- Gardner, H. (1983). *Frames of Mind: The Theory of Multiple Intelligences*. Nueva York: Basic Books.
+- Gimeno Sacristán, J. (comp.) (1999). La construcción del discurso acerca de la diversidad y sus prácticas. En *Atención a la diversidad*. Barcelona: Graó.
+- Johnson, D. W., Johnson, R. T. y Holubec, E. J. (1999). *El aprendizaje cooperativo en el aula*. Buenos Aires: Paidós.
+- Pujolàs, P. (2008). *9 ideas clave. El aprendizaje cooperativo*. Barcelona: Graó.
+- Renzulli, J. S. y Reis, S. M. (1985). *The Schoolwide Enrichment Model*. Mansfield Center: Creative Learning Press.
+- Rose, D. H. y Meyer, A. (2002). *Teaching Every Student in the Digital Age: Universal Design for Learning*. Alexandria: ASCD.
+- Schalock, R. L. et al. (2021). *Intellectual Disability: Definition, Diagnosis, Classification, and Systems of Supports* (12.ª ed.). Washington: AAIDD.
+- Stainback, S. y Stainback, W. (1999). *Aulas inclusivas. Un nuevo modo de enfocar y vivir el currículo*. Madrid: Narcea.
+- Tomlinson, C. A. (2001). *El aula diversificada. Dar respuesta a las necesidades de todos los estudiantes*. Barcelona: Octaedro.
+- Verdugo, M. Á. y Schalock, R. L. (coords.) (2013). *Discapacidad e inclusión. Manual para la docencia*. Salamanca: Amarú.
+- Warnock, M. (1978). *Special Educational Needs. Report of the Committee of Enquiry into the Education of Handicapped Children and Young People*. Londres: HMSO.
+
+### 13.2. Documentos internacionales
+
+- UNESCO (1990). *Declaración Mundial sobre Educación para Todos* (Jomtien).
+- UNESCO (1994). *Declaración de Salamanca y Marco de Acción para las Necesidades Educativas Especiales*.
+- ONU (2006). *Convención sobre los Derechos de las Personas con Discapacidad*.
+- UNESCO (2015). *Declaración de Incheon. Educación 2030* y Objetivo de Desarrollo Sostenible 4 (Agenda 2030).
+- UNESCO (2020). *Informe de seguimiento de la educación en el mundo: Inclusión y educación. Todos sin excepción*.
+
+### 13.3. Normativa
+
+- Constitución Española de 1978.
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).
+- Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+- Real Decreto 943/2003, de 18 de julio, sobre flexibilización de la duración de los niveles y etapas para el alumnado superdotado intelectualmente.
+- Real Decreto Legislativo 1/2013, de 29 de noviembre, Ley General de derechos de las personas con discapacidad y de su inclusión social.
+- Ley 9/1999, de 18 de noviembre, de Solidaridad en la Educación (Andalucía).
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA).
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de las escuelas infantiles de segundo grado, colegios de Educación Primaria, colegios de Educación Infantil y Primaria y centros públicos específicos de educación especial.
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de la Educación Primaria en Andalucía.
+- Orden de 30 de mayo de 2023, por la que se desarrolla el currículo de Educación Primaria en Andalucía, se regulan aspectos de la atención a la diversidad y las diferencias individuales, la evaluación y el tránsito entre etapas.
+- Instrucciones de 8 de marzo de 2017, de la Dirección General de Participación y Equidad, por las que se actualiza el protocolo de detección, identificación del alumnado con NEAE y organización de la respuesta educativa.
+- Orden de 15 de enero de 2007 (ATAL) y Orden de 23 de julio de 2003 (EOE).
+
+### 13.4. Webgrafía
+
+- BOE: <https://www.boe.es> · BOJA: <https://www.juntadeandalucia.es/boja>
+- Portal de Educación de la Junta de Andalucía (Atención a la diversidad, Equidad): <https://www.juntadeandalucia.es/educacion/portals/web/ced>
+- Portal de Inclusión / Orientación Andaluza y materiales de los EOE especializados.
+- Ministerio de Educación, Formación Profesional y Deportes: <https://www.educacionfpydeportes.gob.es>
+- INTEF (recursos educativos y competencia digital): <https://intef.es>
+- CAST, pautas DUA: <https://udlguidelines.cast.org>
+- Pautas DUA en castellano (Educadua): <https://www.educadua.es>
+- ARASAAC, pictogramas y materiales de comunicación aumentativa: <https://arasaac.org>
+- Plena Inclusión (lectura fácil y discapacidad intelectual): <https://www.plenainclusion.org>
+- UNESCO, educación inclusiva: <https://www.unesco.org/es/inclusion-education>
+
+## 14. Esquema-resumen para memorizar
+
+**1. Diversidad e inclusión**
+
+| Concepto | Clave para recordar |
+|---|---|
+| Diversidad | Característica de todo el alumnado (capacidades, intereses, ritmos, estilos, cultura, género, contexto) |
+| Evolución | Segregación → normalización/integración (Bank-Mikkelsen, Nirje, Wolfensberger; Informe Warnock 1978) → inclusión (Salamanca 1994) |
+| Inclusión (Ainscow, Booth) | Presencia + participación + aprendizaje; eliminar **barreras**; proceso permanente |
+| Index for Inclusion | 3 dimensiones: **culturas**, **políticas** y **prácticas** inclusivas |
+| DUA (CAST; Rose y Meyer) | 3 principios: múltiples formas de **implicación** (por qué), **representación** (qué) y **acción y expresión** (cómo) |
+| Referentes internacionales | Jomtien 1990 · Salamanca 1994 · Convención ONU 2006 (art. 24) · Incheon 2015 / ODS 4 |
+
+**2. NEAE (LOE-LOMLOE, art. 71 y ss.; Instrucciones 8/3/2017)**
+
+| Grupo | Incluye |
+|---|---|
+| NEE | Discapacidades (intelectual, auditiva, visual, física), TEA, trastornos graves de conducta, TDAH, trastornos de la comunicación, otros trastornos mentales, enfermedades raras y crónicas |
+| DIA | Dislexia, disgrafía/disortografía, discalculia; retraso en el lenguaje; capacidad intelectual límite |
+| AACCII | Sobredotación y talentos (simple, complejo) |
+| Compensación educativa | Desventaja socioeducativa, incorporación tardía, desconocimiento del español |
+
+**3. Protocolo andaluz (Instrucciones 8/3/2017)**
+
+Detección (indicios: programas de tránsito, evaluaciones, familia) → reunión del **equipo docente** y medidas generales durante **3 meses** → solicitud de **evaluación psicopedagógica** (EOE) → **informe** → si NEE, **dictamen de escolarización** → **censo Séneca** → plan de actuación, información a la familia y seguimiento.
+
+**4. Medidas (Decreto 101/2023 y Orden de 30 de mayo de 2023)**
+
+- **Generales**: segundo docente en el aula, desdobles, agrupamientos flexibles, acción tutorial, metodologías inclusivas, tránsito, absentismo.
+- **Programas**: **refuerzo** del aprendizaje (asegurar) y **profundización** (enriquecer sin adelantar). Sustituyen a las antiguas ACNS.
+- **Específicas** (requieren evaluación psicopedagógica): apoyo PT/AL dentro del aula, **AAC**, **ACS**, **PE**, **ACAI** (enriquecimiento/ampliación), **flexibilización**, **permanencia extraordinaria**, curso inferior e **ATAL**, aulas hospitalarias y atención domiciliaria.
+
+**5. Recursos y escolarización**
+
+- Generales: tutor/a, equipo docente, profesorado de apoyo, equipo de orientación del centro.
+- Específicos: **PT**, **AL**, **PTIS**, ILSE, fisioterapia, ATAL, educador social.
+- Externos: **EOE** de zona (Decreto 213/1995), **EOE especializados**, CAIT, USMIJ, servicios sociales, asociaciones, ONCE.
+- Modalidades de escolarización NEE: **A** ordinario tiempo completo · **B** ordinario con apoyos en periodos variables · **C** aula específica en centro ordinario · **D** centro específico (y escolarización combinada).
+
+> **Idea clave para el cierre:** el maestro pasa de preguntar «¿qué le pasa al alumno?» a «¿qué barreras encuentra y cómo las elimino?»: DUA para todos, medidas generales primero y específicas solo cuando sean necesarias, siempre revisables y en el aula ordinaria.
+
+## 15. Preguntas de autoevaluación
+
+1. **¿Qué diferencia hay entre integración e inclusión?** La integración incorpora al alumno con NEE a la escuela ordinaria y adapta la respuesta al individuo; la inclusión transforma la escuela entera para eliminar las barreras al aprendizaje y la participación de todo el alumnado.
+2. **¿Qué aportó el Informe Warnock (1978)?** Introdujo el concepto de **necesidades educativas especiales**, superando las categorías médicas basadas en el déficit y planteando un continuo de necesidades y de ayudas.
+3. **¿Cuáles son las tres dimensiones del *Index for Inclusion*?** Crear culturas inclusivas, elaborar políticas inclusivas y desarrollar prácticas inclusivas (Booth y Ainscow).
+4. **Enuncia los tres principios del DUA y las redes cerebrales asociadas.** Múltiples formas de implicación (redes afectivas), de representación (redes de reconocimiento) y de acción y expresión (redes estratégicas).
+5. **¿Qué grupos de NEAE contempla la normativa andaluza?** NEE, dificultades de aprendizaje, altas capacidades intelectuales y alumnado que precisa acciones de carácter compensatorio (incluida la incorporación tardía).
+6. **¿Qué ocurre si, tras detectar indicios de NEAE, las medidas generales no dan resultado?** Tras un periodo de aplicación de unos tres meses, el tutor, con el visto bueno de la dirección, solicita la evaluación psicopedagógica al EOE, que puede adelantarse si hay indicios evidentes de NEE o de urgencia.
+7. **¿Quién realiza la evaluación psicopedagógica y el dictamen de escolarización?** El orientador u orientadora del EOE; el dictamen solo se elabora para el alumnado con NEE e incluye la propuesta de modalidad de escolarización y de recursos.
+8. **¿En qué se diferencian un programa de refuerzo y un programa de profundización?** El refuerzo asegura aprendizajes no adquiridos (no promocionados, áreas pendientes, dificultades); la profundización enriquece el currículo para el alumnado muy motivado o con AACCII sin adelantar saberes de cursos superiores.
+9. **¿Qué es una ACS y quién la elabora?** Es una adaptación que modifica objetivos y criterios de evaluación de un área para alumnado con NEE con desfase curricular relevante; la elabora el maestro de PT con el profesorado del área y el asesoramiento del EOE, y se registra en Séneca.
+10. **¿Qué diferencia una ACAI de enriquecimiento de una de ampliación?** La de enriquecimiento profundiza en los saberes del propio curso; la de ampliación incorpora objetivos, saberes y criterios de cursos superiores.
+11. **¿Qué es un programa específico? Pon un ejemplo.** Actuaciones para estimular procesos implicados en el aprendizaje (atención, memoria, lenguaje, habilidades sociales...), elaboradas y aplicadas por PT y/o AL; p. ej., un programa de conciencia fonológica para un alumno de 2.º con retraso del lenguaje.
+12. **¿Qué es la permanencia extraordinaria?** La posibilidad de que el alumnado con NEE prolongue un año más su escolarización en la etapa, además de la permanencia ordinaria, si favorece su integración socioeducativa.
+13. **¿Cuáles son las modalidades de escolarización del alumnado con NEE en Andalucía?** Grupo ordinario a tiempo completo; grupo ordinario con apoyos en periodos variables; aula específica de educación especial en centro ordinario; centro específico de educación especial (y escolarización combinada).
+14. **¿Qué son las ATAL?** Aulas Temporales de Adaptación Lingüística (Orden de 15 de enero de 2007) para la enseñanza intensiva del español al alumnado inmigrante que lo desconoce, compatible con su grupo ordinario.
+15. **¿Qué funciones tiene el PTIS?** Atender la autonomía personal (aseo, alimentación, desplazamientos), la vigilancia en recreos y actividades complementarias y apoyar programas de conducta y habilidades sociales, bajo la orientación del profesorado.
+
+## 16. Consejos para defender este tema en el examen
+
+### 16.1. Distribución del tiempo (prueba de unas 2 horas)
+
+| Bloque | Tiempo orientativo | Contenido |
+|---|---|---|
+| Índice e introducción | 10 min | Índice numerado coincidente con el título; justificación (equidad, inclusión, LOMLOE, Agenda 2030) |
+| Diversidad, inclusión y DUA | 20 min | Concepto, evolución (Warnock, Salamanca), *Index*, principios, DUA |
+| NEAE y protocolo | 30 min | Clasificación andaluza, protocolo de 2017, evaluación psicopedagógica, dictamen, censo |
+| Medidas y recursos | 35 min | Generales, programas, específicas (cuadro-síntesis), recursos, modalidades |
+| Aplicación didáctica | 15 min | Situación de aprendizaje resumida con DUA y medidas concretas |
+| Conclusión y bibliografía | 10 min | Idea fuerza + 6-8 referencias bien citadas |
+
+### 16.2. Lo que «puntúa»
+
+- **Respetar los tres epígrafes del título**: diversidad, NEAE y medidas organizativas y curriculares; que el tribunal los encuentre claramente en el índice.
+- **Normativa precisa y actual**: LOE-LOMLOE (art. 71 y ss.), RD 157/2022, LEA, Decreto 101/2023, **Orden de 30 de mayo de 2023** e **Instrucciones de 8 de marzo de 2017**. Citar la Orden de 2023 demuestra actualización.
+- **Autores clave con año**: Warnock (1978), Booth y Ainscow (*Index*), Echeita, Rose y Meyer / CAST (DUA), Renzulli (modelo de los tres anillos), Gardner (1983), Johnson y Johnson y Pujolàs (cooperativo).
+- **Cuadros y esquemas**: el cuadro-síntesis de medidas y la tabla de modalidades se recuerdan bien y aportan claridad visual.
+- **Terminología actual**: «barreras para el aprendizaje y la participación», «ajustes razonables», «DUA», «situaciones de aprendizaje», «programas de refuerzo/profundización».
+
+### 16.3. Errores frecuentes
+
+- Hablar de **ACNS** como medida vigente: en Andalucía han sido sustituidas por los programas de refuerzo del aprendizaje.
+- Confundir **NEE** con **NEAE** (las NEE son un subgrupo de las NEAE) o incluir el TDAH en dificultades de aprendizaje (en el censo andaluz figura en NEE).
+- Afirmar que la ACS la elabora el tutor: la elabora el **PT** con el profesorado del área.
+- Plantear la atención de PT/AL fuera del aula como norma: es **excepcional**.
+- Presentar el diagnóstico clínico como requisito: la identificación educativa se hace mediante **evaluación psicopedagógica**.
+- Convertir el tema en un catálogo de trastornos sin respuesta educativa concreta.
+
+### 16.4. Cómo personalizarlo
+
+- Incluir un **ejemplo vivido o verosímil** de aula andaluza (un alumno con TEA con agenda visual de ARASAAC, una alumna de ATAL en un proyecto sobre el patrimonio local).
+- Vincular con **planes y programas** del centro: Plan de Igualdad, ComunicA, Transformación Digital Educativa, PROA, biblioteca escolar.
+- Cerrar con una **idea propia** coherente con la conclusión: la inclusión es un proceso, no un estado, y empieza por la programación de aula diseñada con DUA.

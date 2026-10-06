@@ -623,3 +623,226 @@ La educación literaria en la escuela primaria persigue formar **lectores litera
 Ese objetivo exige **condiciones institucionales**: un **tiempo diario de lectura**, un **plan de lectura de centro** integrado en el proyecto educativo, y una **biblioteca escolar** viva —con responsable, equipo de apoyo, plan de trabajo, colección actualizada y gestión en Biblioweb Séneca— conectada con las bibliotecas de aula y con la Red de Bibliotecas Escolares de Andalucía. La LOMLOE y el currículo andaluz recogen este enfoque mediante las competencias específicas de lectura autónoma y de lectura literaria, el bloque de saberes de Educación literaria y la presencia del patrimonio andaluz.
 
 En definitiva, como recordaba Pennac, el verbo leer no soporta el imperativo: la escuela no puede obligar a amar la lectura, pero sí puede —y debe— crear las condiciones para que cada niño y cada niña descubra el libro que lo convierta en lector.
+
+## 10. Bibliografía y webgrafía
+
+### 10.1. Bibliografía fundamental
+
+**Didáctica de la literatura y educación literaria**
+
+- Bierwisch, M. (1965). "Poetik und Linguistik". En la tradición de la competencia literaria por analogía con la competencia lingüística.
+- Cerrillo, P. C. (2007). *Literatura Infantil y Juvenil y educación literaria. Hacia una nueva enseñanza de la literatura*. Barcelona: Octaedro.
+- Cerrillo, P. C. (2016). *El lector literario*. México: Fondo de Cultura Económica.
+- Cervera, J. (1984). *La literatura infantil en la educación básica*. Madrid: Cincel.
+- Cervera, J. (1991). *Teoría de la literatura infantil*. Bilbao: Mensajero / Universidad de Deusto.
+- Colomer, T. (1998). *La formación del lector literario*. Madrid: Fundación Germán Sánchez Ruipérez.
+- Colomer, T. (2005). *Andar entre libros. La lectura literaria en la escuela*. México: Fondo de Cultura Económica.
+- Colomer, T. (2010). *Introducción a la literatura infantil y juvenil actual*. Madrid: Síntesis.
+- Eco, U. (1979). *Lector in fabula*. Barcelona: Lumen (trad. esp.).
+- Jauss, H. R. (1967). *La historia de la literatura como provocación* (trad. esp.). Barcelona: Península.
+- Mendoza Fillola, A. (2004). *La educación literaria. Bases para la formación de la competencia lecto-literaria*. Málaga: Aljibe.
+- Rosenblatt, L. (1978). *The Reader, the Text, the Poem. The Transactional Theory of the Literary Work*. Carbondale: Southern Illinois University Press.
+
+**Géneros, folclore y creatividad**
+
+- Cerrillo, P. C. (2005). *Lírica popular española de tradición infantil*. Cuenca: Ediciones de la UCLM.
+- Cervera, J. (1981). *Cómo practicar la dramatización con niños de 4 a 14 años*. Madrid: Cincel.
+- Pelegrín, A. (1996). *La flor de la maravilla. Juegos, recreos, retahílas*. Madrid: Fundación Germán Sánchez Ruipérez.
+- Propp, V. (1928). *Morfología del cuento* (trad. esp.). Madrid: Fundamentos/Akal.
+- Rodari, G. (1973). *Gramática de la fantasía. Introducción al arte de inventar historias* (trad. esp.). Barcelona: Planeta/Del Bronce.
+- Rodríguez Almodóvar, A. (1983–1984). *Cuentos al amor de la lumbre*. Madrid: Anaya.
+- Queneau, R. (1947). *Ejercicios de estilo* (trad. esp.). Madrid: Cátedra.
+
+**Lectura, animación y mediación**
+
+- Chambers, A. (1991). *El ambiente de la lectura* (trad. esp.). México: FCE.
+- Chambers, A. (1993). *Dime. Los niños, la lectura y la conversación* (trad. esp.). México: FCE.
+- Cuetos, F. (1990). *Psicología de la lectura*. Madrid: Escuela Española (ed. posteriores en Wolters Kluwer).
+- Flecha, R. (1997). *Compartiendo palabras. El aprendizaje de las personas adultas a través del diálogo*. Barcelona: Paidós.
+- Pennac, D. (1992). *Como una novela* (trad. esp.). Barcelona: Anagrama.
+- Sarto, M. (1984). *La animación a la lectura. Para hacer al niño lector*. Madrid: SM.
+- Sarto, M. (1998). *Animación a la lectura con nuevas estrategias*. Madrid: SM.
+- Solé, I. (1992). *Estrategias de lectura*. Barcelona: Graó.
+- Trelease, J. (1982). *The Read-Aloud Handbook* (*Manual de la lectura en voz alta*). Nueva York: Penguin.
+- Wolf, M. (2018). *Lector, vuelve a casa. Cómo afecta a nuestro cerebro la lectura en pantallas* (trad. esp. 2020). Barcelona: Deusto.
+
+**Escritura**
+
+- Cassany, D. (1993). *La cocina de la escritura*. Barcelona: Anagrama.
+- Flower, L. y Hayes, J. R. (1981). "A cognitive process theory of writing". *College Composition and Communication*, 32(4).
+
+**Bibliotecas escolares**
+
+- Durban, G. (2010). *La biblioteca escolar hoy. Un recurso estratégico para el centro*. Barcelona: Graó.
+- IFLA/UNESCO (1999). *Manifiesto de la Biblioteca Escolar*.
+- IFLA (2015). *Directrices de la IFLA para la biblioteca escolar* (2.ª ed.).
+- Eisenberg, M. y Berkowitz, R. (1990). *Information Problem-Solving: The Big Six Skills Approach*. Norwood: Ablex.
+- Kuhlthau, C. (1993). *Seeking Meaning: A Process Approach to Library and Information Services*. Norwood: Ablex.
+
+### 10.2. Normativa
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE), modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).
+- Ley 10/2007, de 22 de junio, de la lectura, del libro y de las bibliotecas.
+- Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+- Ley 16/2003, de 22 de diciembre, del Sistema Andaluz de Bibliotecas y Centros de Documentación.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA).
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de las escuelas infantiles de segundo grado, colegios de educación primaria, CEIP y centros públicos específicos de educación especial.
+- Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.
+- Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre etapas.
+- Acuerdo del Consejo de Gobierno de 23 de enero de 2007 (Plan de Lectura y Bibliotecas Escolares de Andalucía).
+- Instrucciones de 24 de julio de 2013 sobre la organización y funcionamiento de las bibliotecas escolares y sobre el tratamiento de la lectura, y sus actualizaciones.
+- Instrucciones de 8 de marzo de 2017 (protocolo de detección e identificación del alumnado con NEAE y organización de la respuesta educativa).
+
+### 10.3. Webgrafía
+
+- **BOE** (Boletín Oficial del Estado): https://www.boe.es
+- **BOJA** (Boletín Oficial de la Junta de Andalucía): https://www.juntadeandalucia.es/boja
+- **Portal de Bibliotecas Escolares de Andalucía** y **Portal de Lectura y Bibliotecas** de la Consejería de Desarrollo Educativo y Formación Profesional (Junta de Andalucía): guías de lectura, documentos de la Red BECREA, normativa.
+- **Portal de Programas Educativos** de la Junta de Andalucía (ComunicA, PLC, Aldea, Creciendo en Salud).
+- **Centro Andaluz de las Letras (CAL)**: programas de encuentros con autores y rutas literarias.
+- **INTEF** (Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado): https://intef.es — recursos de lectura y competencia digital.
+- **Leer.es** (Ministerio de Educación): recursos para el fomento de la lectura.
+- **Canal Lector** (Fundación Germán Sánchez Ruipérez): reseñas y selección de LIJ.
+- **CEPLI** (Centro de Estudios de Promoción de la Lectura y Literatura Infantil, UCLM).
+- **Biblioteca Virtual Miguel de Cervantes**: portal de Literatura Infantil y Juvenil.
+- **eBiblio**: servicio de préstamo digital de las bibliotecas públicas.
+- **CREA – Comunidades de Aprendizaje** y **INCLUD-ED**: materiales sobre tertulias literarias dialógicas.
+- **CAST** (Universal Design for Learning Guidelines): https://udlguidelines.cast.org
+
+## 11. Esquema-resumen para memorizar
+
+**Estructura del tema en una línea**: educación literaria (concepto, competencia literaria, LIJ, géneros, historia, selección, currículo) → lectura y escritura literarias (procesos, voz alta, animación, Chambers, tertulias, escritura creativa, oralidad) → bibliotecas (funciones, marco andaluz, organización, biblioteca de aula, usos) → plan de lectura (normativa, estructura, itinerarios, mediadores, digital) → normativa → evaluación → situación de aprendizaje.
+
+**Autores imprescindibles**
+
+| Autor/a | Aportación clave (para citar) |
+|---|---|
+| Rosenblatt (1938, 1978) | Lectura eferente vs. estética; teoría transaccional |
+| Jauss / Iser (Constanza) | Estética de la recepción; horizonte de expectativas; vacíos del texto |
+| Eco (1979) | Lector modelo; cooperación interpretativa |
+| Bierwisch (1965) | Concepto de competencia literaria |
+| Mendoza (2004) | Competencia lecto-literaria; intertexto lector |
+| Colomer (1998, 2005) | Formación del lector literario; lectura autónoma, compartida y guiada |
+| Cerrillo (2007, 2016) | Mediador; lector literario; cancionero popular infantil |
+| Cervera (1984, 1991) | Definición de LIJ; literatura ganada, creada e instrumentalizada; dramatización |
+| Propp (1928) | 31 funciones y 7 esferas de acción del cuento maravilloso |
+| Rodari (1973) | *Gramática de la fantasía*: binomio fantástico, ¿qué pasaría si...? |
+| Sarto (1984) | Estrategias de animación a la lectura |
+| Chambers (1991, 1993) | Círculo de la lectura; enfoque "Dime"; adulto facilitador |
+| Pennac (1992) | Derechos imprescriptibles del lector |
+| Flecha / CREA | Tertulias literarias dialógicas; 7 principios del aprendizaje dialógico |
+| Flower y Hayes (1981) | Procesos de escritura: planificar, textualizar, revisar |
+| Durban (2010) / García Guerrero | Biblioteca escolar como CREA; modelo BECREA |
+
+**Géneros de la LIJ**: narrativa (cuento popular, cuento de autor, fábula, leyenda, novela, álbum, cómic) · poesía (lírica popular: nanas, retahílas, corro, trabalenguas, adivinanzas, romances; poesía de autor) · teatro (para niños, de los niños, dramatización).
+
+**Andalucía literaria**: Juan Ramón (*Platero y yo*, Moguer) · Machado (Sevilla) · Lorca (*Canciones*, nanas, títeres) · Alberti (*Marinero en tierra*) · Fernán Caballero · Rodríguez Almodóvar · Carmen Gil · Eliacer Cansino.
+
+**Currículo LOMLOE**
+
+- Lengua Castellana y Literatura: 10 competencias específicas → **CE7 lectura autónoma** y **CE8 lectura literaria guiada**.
+- Bloques de saberes: A. Las lenguas y sus hablantes · B. Comunicación · **C. Educación literaria** · D. Reflexión sobre la lengua.
+- Competencias clave implicadas: CCL, CCEC, CPSAA, CC, CD, CE.
+
+**Biblioteca escolar en Andalucía**
+
+- Marco: LOE art. 113 · Ley 10/2007 · LEA · Ley 16/2003 · Plan LyB (2007) · Instrucciones de 24/07/2013 y actualizaciones.
+- Personas: responsable (designado por la dirección) + equipo de apoyo + alumnado ayudante + familias.
+- Documento: **plan de trabajo anual** dentro del Plan de Centro; memoria final.
+- Técnica: CDU con colores, tejuelo, expurgo, **Biblioweb Séneca** (OPAC), préstamo individual y colectivo.
+- Red: Red Profesional de Bibliotecas Escolares de Andalucía (redes provinciales).
+- Funciones: recursos · apoyo al currículo · fomento lector · ALFIN · compensación · espacio cultural.
+
+**Plan de lectura**: LOE art. 19.3 (tiempo diario de lectura) → Decreto 101/2023 y Orden 30/05/2023 → proyecto educativo (Decreto 328/2010) → diagnóstico, objetivos, tiempo diario, itinerarios, metodologías, todas las áreas, biblioteca, familias, diversidad, evaluación.
+
+**Situación de aprendizaje**: "Platero, Lorca y Gloria: poetas en nuestra biblioteca" · 4.º · 10 sesiones · CE7, CE8, CE3, CE5 · producto: antología ilustrada + recital + podcast con QR · DUA · rúbrica de lectura expresiva.
+
+## 12. Preguntas de autoevaluación con respuesta
+
+**1. ¿Qué diferencia hay entre "enseñanza de la literatura" y "educación literaria"?**
+La enseñanza de la literatura tradicional se centraba en la historia literaria (autores, obras, movimientos) o en el análisis formal; la educación literaria busca formar lectores competentes que comprendan, interpreten, disfruten y creen textos literarios, situando al lector y su experiencia en el centro (estética de la recepción, Rosenblatt, Colomer, Mendoza).
+
+**2. Define competencia literaria e intertexto lector.**
+La competencia literaria es el conjunto de conocimientos, convenciones y destrezas que permiten identificar, comprender, interpretar y valorar textos literarios (Bierwisch, 1965; Mendoza, 2004). El intertexto lector (Mendoza) es el conjunto de saberes y experiencias lectoras previas que el lector activa para reconocer relaciones entre textos y construir significado.
+
+**3. ¿Qué distingue Cervera entre literatura ganada, creada e instrumentalizada?**
+Ganada: obras no escritas para niños que estos han hecho suyas (cuentos populares, *Platero y yo*). Creada: escrita expresamente para la infancia (Andersen, Collodi). Instrumentalizada: libros con fines didácticos donde lo literario queda subordinado al mensaje.
+
+**4. ¿Qué tres tipos de lectura debe garantizar la escuela según Colomer y con qué competencias específicas se relacionan?**
+Lectura autónoma (libre, de disfrute), lectura compartida y lectura guiada o expandida. Se corresponden con la CE7 (lectura autónoma) y la CE8 (lectura literaria acompañada) del área de Lengua Castellana y Literatura (RD 157/2022 y Decreto 101/2023).
+
+**5. Resume la aportación de Propp y su aplicación en el aula.**
+En *Morfología del cuento* (1928) estableció que los cuentos maravillosos comparten una estructura de 31 funciones en orden constante y 7 esferas de acción (agresor, donante, auxiliar, princesa y su padre, mandatario, héroe, falso héroe). En el aula se usa para analizar cuentos, comparar versiones e inventar historias con las "cartas de Propp" de Rodari.
+
+**6. Cita cuatro técnicas de Rodari.**
+Binomio fantástico, "¿qué pasaría si...?", la piedra en el estanque, equivocar las historias, ensalada de cuentos, Caperucita Roja en helicóptero, el error creativo, el prefijo arbitrario.
+
+**7. ¿En qué consiste el enfoque "Dime" de Chambers?**
+Es una conversación literaria estructurada tras la lectura, basada en preguntas básicas (qué gustó, qué no, qué desconcertó, qué patrones se descubrieron), generales y especiales. Se prefiere "Dime" a "¿Por qué?" para invitar a compartir sin sensación de examen y construir un significado colectivo.
+
+**8. ¿Qué son las tertulias literarias dialógicas y en qué se fundamentan?**
+Son una Actuación Educativa de Éxito (INCLUD-ED, CREA, Flecha) en la que se leen clásicos de la literatura universal; cada participante selecciona un fragmento y lo comparte en un diálogo moderado. Se basan en el aprendizaje dialógico y sus siete principios (diálogo igualitario, inteligencia cultural, transformación, dimensión instrumental, creación de sentido, solidaridad, igualdad de diferencias).
+
+**9. ¿Qué establece la LOE-LOMLOE sobre el tiempo de lectura y sobre las bibliotecas escolares?**
+El art. 19.3 dispone que, para fomentar el hábito y el gusto por la lectura, se dedicará un tiempo diario a la misma en los términos del proyecto educativo. El art. 113 establece que los centros dispondrán de una biblioteca escolar que contribuya al fomento de la lectura y al acceso crítico a la información, abierta a la comunidad educativa.
+
+**10. ¿Quién organiza la biblioteca escolar en un CEIP andaluz y con qué documento?**
+Una persona responsable designada por la dirección, con horario de dedicación, apoyada por un equipo de profesorado y por colaboradores (alumnado, familias). Su actuación se planifica en el plan de trabajo anual de la biblioteca, integrado en el Plan de Centro, y se valora en una memoria final.
+
+**11. ¿Cómo se clasifica y gestiona la colección de la biblioteca escolar?**
+Mediante la CDU (adaptada con colores en Primaria) para los libros de conocimientos y franjas de edad o iconos de género para la ficción; cada ejemplar lleva su tejuelo. La gestión informatizada se realiza en Andalucía con Biblioweb Séneca, que integra catálogo, préstamo, estadísticas y OPAC.
+
+**12. ¿Qué diferencias y complementariedad hay entre biblioteca de aula y de centro?**
+La biblioteca de centro es el centro de recursos de todo el colegio, con colección amplia, catálogo, responsable y programas (fomento lector, ALFIN). La de aula ofrece acceso inmediato y cotidiano a los libros, se nutre en parte de lotes de la de centro, la gestiona el alumnado y sostiene el tiempo diario de lectura. Son complementarias, no alternativas.
+
+**13. Enumera los elementos de un plan de lectura de centro.**
+Diagnóstico, objetivos, organización del tiempo diario de lectura, itinerarios lectores por ciclos, estrategias metodológicas, lectura en todas las áreas, escritura y oralidad, papel de la biblioteca, implicación de familias y entorno, atención a la diversidad y evaluación.
+
+**14. ¿Cómo evaluar la educación literaria sin destruir el placer de leer?**
+A partir de los criterios de evaluación de las CE7 y CE8, con instrumentos variados (observación de tertulias, diario o porfolio lector, rúbricas de lectura expresiva y de escritura creativa, pruebas de fluidez, autoevaluación y coevaluación), evitando reducirla a controles de lectura literales.
+
+**15. ¿Qué medidas DUA aplicarías en una actividad de lectura literaria?**
+Representación múltiple (texto, audio, vídeo, tipografía adaptada, pictogramas, lectura fácil), acción y expresión múltiple (recitar, ilustrar, grabar, dramatizar, plantillas de escritura) e implicación múltiple (elección de lecturas, destinatarios reales, retos graduados), junto con medidas específicas como la lectura previa del texto para el alumnado con dislexia.
+
+## 13. Consejos para defender el tema en el examen
+
+### 13.1. Distribución del tiempo
+
+En una prueba de unas dos horas, una distribución orientativa es:
+
+| Parte | Tiempo aproximado | Contenido mínimo |
+|---|---|---|
+| Índice e introducción | 10 min | Índice numerado con los cuatro epígrafes del título; justificación (formativa, afectiva, cultural, de equidad, competencial); referencia a LOMLOE, RD 157/2022 y Decreto 101/2023 |
+| Educación literaria | 25 min | Paradigmas, competencia literaria (Bierwisch, Mendoza, Colomer), LIJ (Cervera), géneros con Propp y Rodari, autores andaluces, criterios de selección por edades, CE7–CE8 y bloque C |
+| Lectura y escritura literarias | 25 min | Lectura literaria (Rosenblatt, Eco), voz alta, Sarto, Chambers, tertulias dialógicas, escritura creativa (tabla de niveles), oralidad |
+| Bibliotecas | 20 min | Funciones (IFLA/UNESCO), marco andaluz, responsable y plan de trabajo, CDU y Biblioweb Séneca, biblioteca de aula, usos pedagógicos y ALFIN |
+| Plan lector | 15 min | LOE art. 19.3, tiempo diario, estructura del plan, itinerarios, familias, lectura digital |
+| Normativa, evaluación y aplicación | 15 min | Tabla normativa breve, instrumentos de evaluación y situación de aprendizaje resumida |
+| Conclusión y bibliografía | 10 min | Síntesis, idea final con Pennac, 6–8 referencias bibliográficas y normativas |
+
+### 13.2. Lo que "puntúa"
+
+- **Respetar literalmente los epígrafes del título** en el índice: el tribunal comprueba que se desarrollan los cuatro (educación literaria, lectura y escritura, bibliotecas, plan lector).
+- **Autores con año y obra**: Rosenblatt (1978), Mendoza (2004), Colomer (1998, 2005), Cervera (1984), Propp (1928), Rodari (1973), Sarto (1984), Chambers (1993), Pennac (1992), Flecha (1997). Mejor pocos y precisos que muchos y vagos.
+- **Terminología LOMLOE** correcta: competencias específicas 7 y 8, bloque C de saberes básicos, descriptores operativos, situaciones de aprendizaje, DUA, criterios de evaluación.
+- **Concreción andaluza**: Decreto 101/2023, Orden de 30 de mayo de 2023, Plan LyB, Red de Bibliotecas Escolares, Biblioweb Séneca, ComunicA, PLC, Centro Andaluz de las Letras, autores andaluces.
+- **Tablas y esquemas**: una tabla de paradigmas, otra de géneros de lírica popular, otra de técnicas de Rodari o de funciones de la biblioteca hacen el tema visualmente sólido y fácil de corregir.
+- **Ejemplos de aula** concretos en cada apartado (tertulia con *Platero y yo*, caligramas, apadrinamiento lector, pasaporte lector).
+
+### 13.3. Errores frecuentes
+
+- Convertir el tema en una **historia de la literatura** o en una lista de libros sin fundamentación didáctica.
+- Confundir **animación a la lectura** con actividades sueltas sin continuidad; hay que encuadrarla en el plan de lectura y en el plan de trabajo de la biblioteca.
+- Citar normativa derogada como vigente (por ejemplo, el Decreto 97/2015 o la Orden de 15 de enero de 2021 para Primaria en Andalucía) o hablar de "competencias básicas" sin explicar su equivalencia actual con las competencias clave.
+- Inventar artículos o fechas de instrucciones: si no se recuerda el dato exacto, formularlo en términos generales ("las instrucciones de la Consejería sobre bibliotecas escolares").
+- Olvidar la **biblioteca de aula** o tratar la biblioteca solo como almacén de libros, sin su dimensión de ALFIN y de compensación.
+- Presentar una situación de aprendizaje sin **producto final**, sin **criterios de evaluación** o sin **medidas DUA**.
+
+### 13.4. Cómo personalizar el tema
+
+- Incluir **experiencias propias**: una tertulia dialógica realizada, el club de lectura del centro, la organización de la biblioteca con colores, un proyecto de radio escolar o un encuentro con un autor.
+- Adaptar los autores andaluces a la **provincia** del opositor (poetas, ilustradores o leyendas locales) y mencionar la **biblioteca municipal** de la localidad como aliada.
+- Vincular el tema con otros del temario: Tema 12 o 13 (lectura y escritura, comprensión lectora), Tema 14 (lectoescritura), Tema 15 (literatura infantil, si el tribunal lo relaciona) y temas de atención a la diversidad y TIC.
+- Cerrar con una **frase memorable** propia o de referencia (Pennac: "el verbo leer no soporta el imperativo") y con una idea de compromiso docente: el maestro como lector y mediador.
+
+> **Idea clave:** el tema se gana demostrando que se sabe **por qué** (fundamentación teórica), **qué** (currículo y normativa), **dónde** (biblioteca de aula y de centro), **cuándo** (tiempo diario, plan de lectura) y **cómo** (estrategias, situación de aprendizaje y evaluación) se forma un lector literario en un colegio andaluz.

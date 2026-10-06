@@ -654,3 +654,176 @@ Las tecnologías de la información y la comunicación han transformado la socie
 
 La clave está en el **criterio pedagógico** del maestro o maestra: elegir recursos de calidad, accesibles, seguros y legales; equilibrar lo digital y lo manipulativo; desarrollar el **pensamiento computacional** y la alfabetización en **inteligencia artificial**; cuidar la **privacidad, el bienestar y la ciudadanía digital**; y compensar la **brecha digital** para que la tecnología sea un factor de equidad y no de desigualdad. Como recordaba Papert, no se trata de que el ordenador programe al niño, sino de que el niño programe al ordenador: que el alumnado sea **creador y ciudadano crítico** en el mundo digital.
 
+## 11. Bibliografía y webgrafía
+
+### 11.1. Bibliografía
+
+- Adell, J. y Castañeda, L. (2010). Los Entornos Personales de Aprendizaje (PLEs): una nueva manera de entender el aprendizaje. En R. Roig y M. Fiorucci (eds.), *Claves para la investigación en innovación y calidad educativas*. Alcoy: Marfil.
+- Anderson, L. W. y Krathwohl, D. R. (2001). *A Taxonomy for Learning, Teaching, and Assessing*. Nueva York: Longman.
+- Area Moreira, M. (2009). *Introducción a la Tecnología Educativa*. Universidad de La Laguna.
+- Area Moreira, M., Gutiérrez, A. y Vidal, F. (2012). *Alfabetización digital y competencias informacionales*. Madrid: Ariel / Fundación Telefónica.
+- Bergmann, J. y Sams, A. (2012). *Flip Your Classroom: Reach Every Student in Every Class Every Day*. ISTE.
+- Brennan, K. y Resnick, M. (2012). *New frameworks for studying and assessing the development of computational thinking*. AERA, Vancouver.
+- Cabero, J. (coord.) (2007). *Nuevas tecnologías aplicadas a la educación*. Madrid: McGraw-Hill.
+- Castells, M. (1996-1998). *La era de la información: economía, sociedad y cultura* (3 vols.). Madrid: Alianza.
+- Churches, A. (2008). *Bloom's Digital Taxonomy*. Educational Origami.
+- Kapp, K. M. (2012). *The Gamification of Learning and Instruction*. San Francisco: Pfeiffer.
+- Marquès Graells, P. (2000). *Los medios didácticos*. Universidad Autónoma de Barcelona (DIM-UAB).
+- Mayer, R. E. (2001). *Multimedia Learning*. Cambridge University Press.
+- Meyer, A., Rose, D. H. y Gordon, D. (2014). *Universal Design for Learning: Theory and Practice*. Wakefield, MA: CAST.
+- Mishra, P. y Koehler, M. J. (2006). Technological Pedagogical Content Knowledge: A framework for teacher knowledge. *Teachers College Record*, 108(6), 1017-1054.
+- Papert, S. (1980). *Mindstorms: Children, Computers, and Powerful Ideas*. Nueva York: Basic Books (trad. esp.: *Desafío a la mente*).
+- Prensky, M. (2001). Digital Natives, Digital Immigrants. *On the Horizon*, 9(5).
+- Redecker, C. (2017). *European Framework for the Digital Competence of Educators: DigCompEdu*. Luxemburgo: Publications Office of the European Union.
+- Reig, D. y Vílchez, L. F. (2013). *Los jóvenes en la era de la hiperconectividad: tendencias, claves y miradas*. Madrid: Fundación Telefónica.
+- Resnick, M. (2017). *Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play*. MIT Press.
+- Ribble, M. (2015). *Digital Citizenship in Schools* (3.ª ed.). ISTE.
+- Siemens, G. (2004). *Connectivism: A Learning Theory for the Digital Age*.
+- Vuorikari, R., Kluzer, S. y Punie, Y. (2022). *DigComp 2.2: The Digital Competence Framework for Citizens*. Luxemburgo: Publications Office of the European Union.
+- Werbach, K. y Hunter, D. (2012). *For the Win: How Game Thinking Can Revolutionize Your Business*. Wharton Digital Press.
+- Wing, J. M. (2006). Computational Thinking. *Communications of the ACM*, 49(3), 33-35.
+- UNESCO (2005). *Hacia las sociedades del conocimiento*. París: UNESCO.
+- UNESCO (2023). *Guía para el uso de IA generativa en educación e investigación*. París: UNESCO.
+
+### 11.2. Normativa
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).
+- Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+- Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+- Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
+- Real Decreto Legislativo 1/1996, de 12 de abril, Texto Refundido de la Ley de Propiedad Intelectual.
+- Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
+- Resolución de 4 de mayo de 2022, de la Dirección General de Evaluación y Cooperación Territorial, sobre la actualización del Marco de Referencia de la Competencia Digital Docente.
+- Reglamento (UE) 2016/679 (RGPD) y Reglamento (UE) 2024/1689 (Reglamento de Inteligencia Artificial).
+- Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de las escuelas infantiles de segundo grado, colegios de educación primaria, colegios de educación infantil y primaria y centros públicos específicos de educación especial.
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de la Educación Primaria en Andalucía.
+- Orden de 30 de mayo de 2023, que desarrolla el currículo de Educación Primaria en Andalucía, regula la atención a la diversidad, la evaluación y el tránsito entre etapas.
+- Orden de 20 de junio de 2011 (protocolos de convivencia y acoso escolar) e Instrucciones de 8 de marzo de 2017 (NEAE), en su versión actualizada.
+- Instrucciones de la Consejería sobre la Transformación Digital Educativa (desde el curso 2019-2020) y sobre el uso del teléfono móvil en los centros (2024).
+
+### 11.3. Webgrafía
+
+- BOE: https://www.boe.es · BOJA: https://www.juntadeandalucia.es/eboja
+- Portal de la Consejería de Desarrollo Educativo y Formación Profesional: https://www.juntadeandalucia.es/educacion/portals/web/ced
+- Transformación Digital Educativa (Portal TDE de la Consejería) y Séneca: https://www.juntadeandalucia.es/educacion/seneca
+- Recursos Educativos Abiertos de Andalucía (REA / CREA) y Blogsaverroes.
+- INTEF: https://intef.es · Procomún: https://procomun.intef.es · CEDEC: https://cedec.intef.es
+- eXeLearning: https://exelearning.net
+- INCIBE / Internet Segura for Kids: https://www.is4k.es · AEPD: https://www.aepd.es
+- ARASAAC: https://arasaac.org · CAST (DUA): https://www.cast.org
+- DigComp, DigCompEdu y SELFIE (JRC, Comisión Europea): https://joint-research-centre.ec.europa.eu
+- Scratch: https://scratch.mit.edu · Code.org · CS Unplugged: https://www.csunplugged.org
+- eTwinning / European School Education Platform: https://school-education.ec.europa.eu
+- Creative Commons: https://creativecommons.org
+
+## 12. Esquema-resumen para memorizar
+
+**Estructura del tema en una línea:** sociedad del conocimiento → concepto y evolución (TIC-TAC-TEP) → modelos (TPACK, SAMR) → competencias (CD1-CD5, DigComp, DigCompEdu/MRCDD) → aplicación didáctica (metodologías, pensamiento computacional, IA, ciudadanía digital, datos, brecha, DUA, evaluación) → recursos (clasificación, licencias, ecosistema andaluz, criterios) → TDE en Andalucía → normativa → situación de aprendizaje.
+
+| Bloque | Lo imprescindible |
+|---|---|
+| **Sociedad** | Castells (sociedad red, 1996); UNESCO 2005 (sociedades del conocimiento); McLuhan (aldea global); Prensky 2001 (nativos digitales, criticado); White y Le Cornu (residentes/visitantes). |
+| **Características (Cabero)** | Inmaterialidad, interactividad, instantaneidad, innovación, digitalización, interconexión, diversidad + ubicuidad, datificación, IA. |
+| **Evolución** | TIC (instrumento) → TAC (Lozano, aprendizaje) → TEP (Reig, participación). |
+| **Funciones (Marquès)** | Expresión, comunicación, proceso de información, fuente, instrumento cognitivo, gestión, diagnóstico/NEAE, evaluación, nuevos escenarios, lúdica. |
+| **Teorías** | Skinner, Papert (construccionismo, Logo, 1980), Vygotsky, Mayer (multimedia, 2001), Sweller, Siemens (conectivismo, 2004), CAST (DUA). |
+| **Modelos** | ACOT (acceso→invención); TPACK (Mishra y Koehler, 2006; Shulman); SAMR (Puentedura); Bloom digital (Churches, 2008). |
+| **CD alumnado** | CD1 información · CD2 creación · CD3 comunicación/colaboración · CD4 seguridad/bienestar · CD5 resolución de problemas/programación. |
+| **DigComp 2.2 (2022)** | 5 áreas · 21 competencias · 8 niveles; incluye IA. |
+| **DigCompEdu (2017)** | 6 áreas · 22 competencias · A1 Novel-C2 Pionero. |
+| **MRCDD (2022)** | 6 áreas · 23 competencias · A1-C2 en etapas Acceso, Profundización, Transformación; base de la acreditación. |
+| **Metodologías** | Flipped (Bergmann y Sams, 2012), gamificación (Werbach y Hunter; Kapp), ABP (Kilpatrick), WebQuest (Dodge, 1995), cooperativo, eTwinning, Design Thinking, ApS. |
+| **Pensamiento computacional** | Wing (2006): descomposición, patrones, abstracción, algoritmos, depuración. Brennan y Resnick (2012). Unplugged → Bee-Bot/ScratchJr → Scratch → micro:bit. Código Escuela 4.0. |
+| **IA** | UNESCO 2019 y 2023; Reglamento (UE) 2024/1689 (alto riesgo en educación); aprender sobre, con (mediado por el docente) y a vivir con la IA. |
+| **Seguridad** | Ribble (9 elementos); ciberacoso, grooming, desinformación, uso excesivo; INCIBE-IS4K (017); móviles restringidos en Andalucía (2024). |
+| **Datos** | RGPD + LOPDGDD: consentimiento a partir de 14 años (art. 7); art. 83 educación digital; imágenes con consentimiento; solo plataformas corporativas. |
+| **Brecha** | Acceso, uso, resultados (van Dijk; van Deursen y Helsper) + género, territorial, generacional. |
+| **DUA** | Implicación (porqué), representación (qué), acción y expresión (cómo); SAAC con ARASAAC; WCAG (perceptible, operable, comprensible, robusto); RD 1112/2018. |
+| **Recursos** | Marquès: ejercitación, tutoriales, bases de datos, simuladores, constructores, herramientas. REA (UNESCO 2019; 5R de Wiley). Creative Commons: BY, NC, ND, SA. |
+| **Andalucía** | And@red/Guadalinex (2003) → Escuela TIC 2.0 (2009) → TDE (2018-2019; Instrucciones 31/07/2019) → Rúbrica TDE + Test CDD + SELFIE → PAD en Séneca → coordinación TDE. Séneca, iPASEN, Moodle Centros, eXeLearning, REA Andalucía. |
+| **Normativa clave** | LOE-LOMLOE arts. 17.i, 19.2, 111 bis; RD 157/2022; LEA; Decreto 101/2023; Orden 30/05/2023; Decreto 328/2010; LOPDGDD; LOPIVI. |
+| **SA ejemplo** | "Guardianes digitales de nuestro patrimonio" (5.º): guía accesible con QR + juego Scratch; CMNSC CE1 y CE3. |
+
+## 13. Preguntas de autoevaluación
+
+1. **¿Qué diferencia hay entre sociedad de la información y sociedad del conocimiento?**
+   La primera pone el acento en la circulación masiva de información (Castells, sociedad red); la segunda (UNESCO, 2005) en la capacidad de seleccionar, contrastar y transformar la información en conocimiento de forma equitativa. La escuela debe enseñar ese paso.
+
+2. **Explica la evolución TIC-TAC-TEP.**
+   TIC: dominio instrumental. TAC (Lozano): uso metodológico para aprender. TEP (Reig): uso para participar y transformar la sociedad. Supone pasar de "aprender a usar" a "aprender con" y "participar gracias a" la tecnología.
+
+3. **¿Qué propone el modelo TPACK?**
+   Mishra y Koehler (2006), a partir de Shulman: la integración eficaz exige combinar conocimiento del contenido, pedagógico y tecnológico, y sus intersecciones, en un contexto concreto. Evita el tecnocentrismo.
+
+4. **Describe los niveles del modelo SAMR con un ejemplo.**
+   Sustitución y Aumento (mejora); Modificación y Redefinición (transformación). Ej.: de copiar un resumen en un procesador (S) a crear un mapa interactivo geolocalizado publicado para las familias (R).
+
+5. **¿Cuáles son los descriptores operativos de la competencia digital?**
+   CD1 búsqueda y tratamiento de la información; CD2 creación de contenidos respetando la propiedad intelectual; CD3 comunicación y colaboración en entornos supervisados; CD4 seguridad, salud y bienestar; CD5 soluciones digitales sencillas (programación, robótica).
+
+6. **¿En qué se diferencian DigComp, DigCompEdu y el MRCDD?**
+   DigComp 2.2 (2022) es para la ciudadanía (5 áreas, 21 competencias, 8 niveles). DigCompEdu (2017) para docentes (6 áreas, 22 competencias, A1-C2). El MRCDD (2022) es la versión española oficial (6 áreas, 23 competencias) y sirve para acreditar la competencia digital docente.
+
+7. **¿Qué es el pensamiento computacional y cómo se trabaja en el primer ciclo?**
+   Forma de resolver problemas con conceptos de la informática (Wing, 2006): descomposición, patrones, abstracción, algoritmos y depuración. En 1.º-2.º se trabaja con actividades desenchufadas, robots de suelo (Bee-Bot) y ScratchJr.
+
+8. **¿Dónde aparece el pensamiento computacional en el currículo LOMLOE?**
+   En Matemáticas (competencia específica de pensamiento computacional y sentido computacional), en CMNSC (CE3, proyectos de diseño; bloque "Tecnología y digitalización") y en el descriptor CD5.
+
+9. **¿Qué pautas debe seguir el maestro sobre la IA generativa en Primaria?**
+   Alfabetizar en IA (qué es, cómo aprende, sesgos), usarla de forma mediada por el docente revisando siempre los resultados, no introducir datos personales del alumnado en herramientas no autorizadas y respetar las edades mínimas (UNESCO, 2023; Reglamento UE 2024/1689).
+
+10. **¿Necesita el centro consentimiento para publicar fotos del alumnado en su blog?**
+    Sí. La función educativa ampara el tratamiento de datos necesarios sin consentimiento, pero la difusión de imágenes requiere el de las familias (menores de 14 años, art. 7 LOPDGDD; art. 92).
+
+11. **¿Cuáles son los tres niveles de la brecha digital y cómo responde la escuela?**
+    Acceso (préstamo de dispositivos, tareas sin conexión en casa), uso/competencias (enseñanza explícita de la CD, formación a familias) y resultados (compensación educativa, tutoría). Además, brechas de género, territorial y generacional.
+
+12. **¿Cómo contribuyen las TIC a aplicar el DUA?**
+    Ofrecen múltiples formas de implicación (elección, retroalimentación), representación (síntesis de voz, subtítulos, pictogramas) y acción y expresión (dictado, vídeo, programación, productos de apoyo).
+
+13. **Cita cinco criterios para seleccionar un recurso digital.**
+    Coherencia curricular y adecuación a la edad; rigor y ausencia de estereotipos; usabilidad técnica; accesibilidad (WCAG); cumplimiento de la protección de datos, sin publicidad y con licencia clara (preferencia REA).
+
+14. **¿Qué es el Plan de Actuación Digital en Andalucía?**
+    Documento de planificación de la Transformación Digital Educativa, elaborado en Séneca a partir del diagnóstico (Rúbrica TDE, Test CDD, SELFIE), con líneas de actuación en organización, comunicación y enseñanza-aprendizaje; forma parte del Plan de Centro y se evalúa en la memoria de autoevaluación.
+
+15. **¿Qué significan las condiciones BY, NC, ND y SA de Creative Commons?**
+    BY: reconocimiento del autor; NC: no comercial; ND: sin obras derivadas; SA: compartir igual. Combinadas dan seis licencias, más CC0 (dominio público).
+
+## 14. Consejos para defender este tema en el examen
+
+**Distribución del tiempo (prueba escrita de unas 2 horas):**
+
+| Parte | Tiempo orientativo | Contenido |
+|---|---|---|
+| Índice e introducción | 10-15 min | Índice numerado; justificación (normativa, social, didáctica); Castells y art. 17.i / 19.2 / 111 bis LOE. |
+| Marco conceptual y modelos | 20-25 min | Concepto y características; TIC-TAC-TEP; TPACK y SAMR (con un ejemplo propio). |
+| Competencias | 20 min | Recomendación 2018; CD1-CD5; DigComp 2.2; contribución a otras competencias; DigCompEdu/MRCDD. |
+| Aplicación didáctica | 25 min | Principios, metodologías, pensamiento computacional, IA, ciudadanía digital, datos, brecha, DUA, evaluación. |
+| Recursos y Andalucía | 15-20 min | Clasificación, REA y licencias, ecosistema andaluz, criterios de selección; TDE y PAD. |
+| Situación de aprendizaje, conclusión y bibliografía | 15 min | SA resumida en tabla; conclusión con idea fuerza; 5-6 referencias. |
+
+**Citas y autores que "puntúan":** Castells (1996), UNESCO (2005), Papert (1980), Wing (2006), Mishra y Koehler (2006), Puentedura (SAMR), Mayer (2001), Area Moreira, Cabero, Marquès, Resnick (Scratch), Redecker (DigCompEdu, 2017), Ribble (ciudadanía digital), CAST (DUA). Normativa: art. 111 bis LOE, RD 157/2022 (descriptores CD), Decreto 101/2023 y Orden de 30 de mayo de 2023, Resolución de 4 de mayo de 2022 (MRCDD), art. 83 LOPDGDD, Instrucciones TDE.
+
+**Errores frecuentes que restan nota:**
+
+- Centrar el tema en aparatos y aplicaciones comerciales (un listado de apps) en lugar de en criterios pedagógicos.
+- Hablar de "competencias básicas" o de "Conocimiento del Medio" sin explicar la equivalencia con la terminología LOMLOE (competencias clave, CMNSC).
+- Confundir DigComp (alumnado/ciudadanía) con DigCompEdu (profesorado) o equivocar sus cifras.
+- Asumir que el alumnado es competente por ser "nativo digital" sin mencionar las críticas a Prensky.
+- Olvidar la protección de datos, la seguridad y el bienestar digital, o proponer usos de IA o de redes sociales no adecuados a la edad.
+- No mencionar la realidad andaluza (TDE, PAD, Séneca, iPASEN, Moodle Centros, eXeLearning, REA).
+- Proponer tareas que exijan conexión en casa sin contemplar la brecha digital.
+- Inventar artículos o fechas: mejor formular de forma general que equivocarse.
+
+**Cómo personalizarlo:**
+
+- Incluye una experiencia propia o del centro de prácticas (radio escolar, robótica, eTwinning, Moodle Centros).
+- Adapta la situación de aprendizaje a tu provincia (patrimonio, espacios naturales como Doñana, Sierra Nevada o Cabo de Gata, tradiciones locales).
+- Vincula el tema con otros del temario: atención a la diversidad (DUA), evaluación, convivencia (ciberacoso), áreas curriculares.
+- Cierra con una frase propia que sintetice tu enfoque, por ejemplo: "la tecnología no mejora la educación por sí sola; la mejora el maestro que la integra con sentido pedagógico".
+
+> **Idea clave:** un tema "de 10" en TIC combina **rigor conceptual** (modelos y marcos con autores y años), **dominio normativo** (CD1-CD5, art. 111 bis, TDE), **visión crítica** (seguridad, datos, brecha, IA) y **aplicación práctica andaluza** con una situación de aprendizaje concreta.
