@@ -477,10 +477,113 @@ Integrar en el **Plan de Orientación y Acción Tutorial** un programa de educac
 | Situación | Claves de la respuesta |
 |---|---|
 | Alumno con TDAH disruptivo en 3.º | Coordinación con EOE; si ya tiene informe, medidas específicas; economía de fichas, contrato conductual, autoinstrucciones (Meichenbaum), ubicación, tareas fragmentadas; colaboración con familia; no confundir con problema "de mala conducta" |
-| Alumna con altas capacidades desmotivada | Protocolo de detección (cuestionarios de screening en 1.º y 6.º según la normativa andaluza, a confirmar); programa de profundización, ACAI, flexibilización si procede; enriquecimiento; modelo de Renzulli |
+| Alumna con altas capacidades desmotivada | Protocolo andaluz de detección de altas capacidades (cuestionarios a familias y tutores en 1.º de Primaria y 1.º de ESO; comprobar instrucciones vigentes); programa de profundización, ACAI, flexibilización si procede; enriquecimiento; modelo de Renzulli |
 | Alumno sin conocimiento del castellano | Plan de acogida, aulas temporales de adaptación lingüística (ATAL) en Andalucía, compañero tutor, apoyos visuales, evaluación inicial en su lengua si es posible |
 | Bajo nivel en resolución de problemas | Método de Polya (comprender, planificar, ejecutar, revisar); problemas contextualizados; manipulación; verbalización; rúbricas |
 | Familia que no acude a tutorías | Diversificar canales (iPASEN, llamada, horario flexible), averiguar causas, implicar al equipo de orientación y, si hay riesgo, servicios sociales; protocolo de absentismo si procede |
 | Diseñar la evaluación inicial | Finalidad diagnóstica y orientadora; instrumentos variados; sesión de evaluación inicial del equipo docente; adopción de medidas |
 | Discrepancia de una familia con la calificación | Derecho a la información y aclaraciones; procedimiento de reclamación establecido por la normativa y el proyecto educativo; criterios públicos |
+
+## 7. Cómo escribir un tema en el examen
+
+### 7.1. Elección del tema
+
+Al conocer las bolas extraídas, dedica uno o dos minutos a decidir. Elige el tema que **mejor puedas desarrollar completo** (todos los epígrafes), no el que más te guste. Si dudas entre dos, prefiere aquel en el que puedas aportar más **normativa actual y ejemplos de aula**, que son los que diferencian una nota media de una alta.
+
+### 7.2. Estructura y gestión del tiempo
+
+| Parte | Contenido | Proporción orientativa |
+|---|---|---|
+| **Índice** | Epígrafes numerados, que reproducen el título oficial | 2-3 % del tiempo |
+| **Introducción** | Justificación del tema, importancia para la etapa, relación con la LOMLOE y con la práctica docente; anticipación de la estructura | 8-10 % |
+| **Desarrollo** | Todos los epígrafes del título oficial, en su orden, con conceptos, autores, clasificaciones, normativa y ejemplos | 70-75 % |
+| **Aplicación didáctica** (puede integrarse en el desarrollo) | Ejemplo de situación de aprendizaje o de actividades en el aula andaluza | Incluida en el desarrollo o 5 % |
+| **Conclusión** | Síntesis, valoración personal y profesional, proyección | 5 % |
+| **Bibliografía, webgrafía y normativa** | Autores y normas citados | 3-5 % |
+| **Revisión** | Ortografía, epígrafes, números | Últimos minutos |
+
+Calcula el tiempo real en función de lo que establezca la convocatoria y entrena para escribir **a mano** a un ritmo sostenido; mide cuántas páginas escribes por hora de forma legible.
+
+### 7.3. Qué hace que un tema "puntúe"
+
+- **Respeta el título oficial**: todos los epígrafes, con sus palabras. Un epígrafe omitido es una pérdida segura.
+- **Introducción potente**: una idea de partida (dato, cita de autor bien atribuida, referencia normativa) y la justificación del tema dentro del currículo.
+- **Actualización**: terminología LOMLOE, referencia al Decreto 101/2023 y a la Orden de 30 de mayo de 2023, conexión con la Agenda 2030, DUA, competencia digital.
+- **Autores con año** y bien relacionados con el contenido (Piaget, Vygotsky, Ausubel, Bruner, Gardner…). Calidad antes que cantidad.
+- **Ejemplos de aula** concretos y andaluces (localidades, patrimonio, efemérides, planes y programas de la Junta).
+- **Esquemas y tablas** breves dentro del texto para clasificaciones (sin abusar).
+- **Conexión con la práctica docente**: cómo se traduce el tema en decisiones de aula.
+- **Conclusión personal** que no repita la introducción, y **bibliografía** coherente con lo citado.
+- **Presentación**: letra legible, márgenes, epígrafes destacados, sin tachones excesivos; ortografía y acentuación impecables (la ortografía forma parte de los criterios de corrección).
+
+### 7.4. Errores frecuentes
+
+- Estructuras que no coinciden con el título oficial.
+- Introducciones larguísimas que dejan sin tiempo el desarrollo.
+- Teoría sin aplicación o aplicación sin fundamento.
+- Normativa derogada (LOMCE, Decreto 97/2015) presentada como vigente; mezclar "estándares" o "competencias básicas" sin explicar la evolución.
+- Citas textuales inventadas o atribuidas erróneamente.
+- Temas "memorizados" idénticos a los de una academia: el tribunal los reconoce. Personaliza introducción, ejemplos y conclusión.
+- Dejar el tema sin terminar: si vas mal de tiempo, cierra los epígrafes que faltan con un desarrollo esquemático y escribe la conclusión.
+
+### 7.5. Si hay lectura pública
+
+Si la convocatoria establece la lectura ante el tribunal, ensaya la lectura en voz alta: ritmo pausado, vocalización, pausas en los epígrafes, sin añadir contenido que no esté escrito.
+
+## 8. Planificación del estudio
+
+### 8.1. Principios
+
+- **Constancia antes que intensidad**: un horario estable de lunes a sábado vale más que jornadas maratonianas.
+- **Estudio activo**: la **práctica de recuperación** (intentar recordar sin mirar) consolida la memoria más que releer (Roediger y Karpicke, 2006, "efecto test").
+- **Repetición espaciada**: repasar a intervalos crecientes contrarresta la curva del olvido descrita por Ebbinghaus (1885).
+- **Práctica intercalada**: alternar temas, supuestos y programación en la misma semana mejora la discriminación y la transferencia.
+- **Elaboración y codificación dual**: explicar con tus palabras, relacionar con ejemplos y apoyarte en esquemas visuales (Paivio).
+- **Simulacros cronometrados** en condiciones de examen: la única forma de ajustar tiempos.
+- **Autocuidado**: sueño, ejercicio y descanso semanal son condiciones del rendimiento cognitivo.
+
+### 8.2. Técnicas concretas
+
+| Técnica | Cómo aplicarla |
+|---|---|
+| **Esquema maestro por tema** | Un folio con índice, autores-año, normativa y ejemplos clave; base para repasar y para el examen |
+| **Tarjetas de recuperación (flashcards)** | Pregunta por una cara, respuesta por otra; con sistema de cajas (Leitner) o aplicaciones de repetición espaciada |
+| **Escritura en blanco** | Escribir el esquema del tema de memoria y luego comparar |
+| **Técnica Pomodoro** (Cirillo) | Bloques de 25-50 minutos con pausas breves |
+| **Mnemotecnias** | Acrónimos para las competencias clave (CCL, CP, STEM, CD, CPSAA, CC, CE, CCEC), listas de autores, pasos de protocolos |
+| **Grabaciones de audio** | Grabar los temas o las SA para repasar en desplazamientos y ensayar la exposición |
+| **Banco de introducciones y conclusiones** | Fragmentos personalizados reutilizables (inclusión, LOMLOE, Agenda 2030, cultura andaluza) |
+| **Grupo de estudio** | Corrección cruzada de supuestos, simulación de tribunal para la defensa oral |
+| **Diario de errores** | Registrar fallos de normativa, ortografía o tiempos y revisarlo semanalmente |
+
+### 8.3. Calendario orientativo de 6 a 9 meses
+
+El calendario siguiente está pensado para unas pruebas a partir de junio. Ajusta las fases a tu disponibilidad y a la fecha real de la convocatoria; con menos meses, comprime la fase 1 y reduce el número de temas a dominar en profundidad (sin renunciar a tener un esquema de todos).
+
+| Fase | Meses (aprox.) | Objetivos | Tareas semanales |
+|---|---|---|---|
+| **0. Diagnóstico** | Semana 1 (septiembre u octubre) | Conocer requisitos, leer la última convocatoria, reunir normativa y méritos | Plan personal, calendario, materiales |
+| **1. Base** | Octubre–diciembre | Estudiar la normativa clave (LOE-LOMLOE, RD 157/2022, Decreto 101/2023, Orden de 30 de mayo de 2023, Decreto 328/2010, Instrucciones NEAE, convivencia); primera vuelta del temario (2-3 temas por semana); decidir curso y área de la programación | Estudio de temas; 1 supuesto semanal; esquema de la programación |
+| **2. Profundización** | Enero–marzo | Segunda vuelta del temario; redactar la programación y las SA; supuestos por tipologías | Escribir 1-2 temas completos a mano por semana; 2 supuestos; 1-2 SA |
+| **3. Consolidación** | Abril–mayo | Programación terminada y revisada; tercera vuelta del temario con esquemas; simulacros completos | Simulacro semanal de tema + supuesto cronometrado; ensayo oral de defensa |
+| **4. Afinado** | Mayo–junio | Repaso espaciado, ensayos orales ante otras personas, preparar materiales permitidos, revisar convocatoria y criterios del tribunal | Repasos cortos diarios de todos los temas; 2 ensayos orales semanales; descanso |
+| **5. Pruebas** | Junio–julio | Rendir: dormir, llevar documentación, gestionar nervios | Entre pruebas, concentrarse en la defensa de programación y SA |
+
+**Semana tipo (fase 2), unas 25-30 horas:**
+
+| Día | Mañana o primer bloque | Tarde o segundo bloque |
+|---|---|---|
+| Lunes | Tema nuevo: lectura y esquema | Tarjetas de repaso |
+| Martes | Tema nuevo: elaboración | Supuesto práctico (NEAE) |
+| Miércoles | Programación: redacción | Repaso espaciado de 3 temas |
+| Jueves | Escribir un tema a mano cronometrado | Corrección y diario de errores |
+| Viernes | Situación de aprendizaje | Supuesto práctico (convivencia/tutoría) |
+| Sábado | Simulacro breve o ensayo oral | Repaso global |
+| Domingo | Descanso | Descanso |
+
+### 8.4. Prioridades si el tiempo es escaso
+
+1. Normativa y supuesto práctico (aparecen siempre).
+2. Programación y SA (sin ellas no se puede superar la segunda prueba).
+3. Temas: asegurar un número suficiente para que la probabilidad de que salga al menos uno dominado sea alta, y tener esquemas del resto. Calcula la probabilidad con el número de bolas de tu convocatoria.
 

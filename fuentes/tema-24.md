@@ -764,7 +764,6 @@ La tarea del maestro o maestra consiste en diseñar experiencias que partan del 
 - Castelnuovo, E. (1963). *Didáctica de la matemática moderna*. (Ed. española: México, Trillas).
 - Hannoun, H. (1977). *El niño conquista el medio*. Buenos Aires: Kapelusz.
 - Polya, G. (1945). *How to Solve It*. Princeton University Press. (Ed. española: *Cómo plantear y resolver problemas*, Trillas).
-- Dienes, Z. P. y Golding, E. W. (1966). *La geometría a través de las transformaciones*. Barcelona: Teide.
 
 **Didáctica de la geometría**
 
@@ -803,3 +802,81 @@ La tarea del maestro o maestra consiste en diseñar experiencias que partan del 
 - Instituto de Estadística y Cartografía de Andalucía (IECA).
 - MathCityMap: mathcitymap.eu · Scratch: scratch.mit.edu
 
+## 14. Esquema-resumen para memorizar
+
+**1. Evolución de la percepción espacial**
+
+| Modelo | Etapas / niveles |
+|---|---|
+| Piaget e Inhelder (1948) | Topológico (vecindad, separación, orden, cerramiento, continuidad; hasta 6-7) → Proyectivo (puntos de vista, tres montañas) y Euclídeo (medida, coordenadas, conservaciones) (7-12) |
+| Hannoun (1977) | Espacio vivido (1.er ciclo) → percibido (2.º) → concebido (3.º) |
+| Orientación | Corporal → otros objetos → puntos cardinales → coordenadas |
+| Representación | Dibujo → croquis → plano → mapa (título, orientación, leyenda, escala) |
+| Van Hiele (1957) | Niveles: visualización, análisis, deducción informal, deducción formal, rigor. Fases: información, orientación dirigida, explicitación, orientación libre, integración. Depende de la instrucción |
+
+**2. Elementos y formas**
+
+- Ángulos: nulo, agudo, recto, obtuso, llano, cóncavo, completo; complementarios (90º), suplementarios (180º).
+- Polígonos: suma de ángulos (n − 2)·180º; diagonales n(n − 3)/2; regulares/irregulares; convexos/cóncavos.
+- Triángulos: equilátero, isósceles, escaleno / acutángulo, rectángulo, obtusángulo; suman 180º; rígidos.
+- Cuadriláteros: paralelogramos (cuadrado, rectángulo, rombo, romboide), trapecios, trapezoides; suman 360º; clasificación inclusiva.
+- Circunferencia (línea) ≠ círculo (superficie); L = 2πr; A = πr².
+- Cuerpos: poliedros (5 regulares, prismas, pirámides) y redondos (cilindro, cono, esfera); Euler C + V = A + 2.
+- Representación: desarrollos (11 del cubo), vistas (planta, alzado, perfil), perspectiva, secciones.
+
+**3. Relaciones**
+
+- Medida: perímetro (longitud), área (u²), volumen (u³); 1 dm³ = 1 L; perímetro y área independientes.
+- Isometrías: traslación (vector), giro (centro y ángulo), simetría axial (eje), central (180º).
+- Mosaicos regulares: solo triángulo, cuadrado, hexágono. Alhambra: pajarita, hueso, estrellas; Escher (1922, 1936).
+- Semejanza: ángulos iguales, lados proporcionales; áreas ×k², volúmenes ×k³; Tales; escalas.
+
+**4. Intervención educativa**
+
+- Principios: entorno y cuerpo, manipulativo → gráfico → simbólico, 3D → 2D, fases de Van Hiele, resolución de problemas, lenguaje, cooperación, TIC, DUA.
+- Recursos: geoplano (Gattegno), tangram (7 piezas), policubos, pentominós (12; Golomb), espejos, bloques lógicos, mecanos, Polydron, GeoGebra, robots, Scratch, mapas.
+- Errores: prototipos (Hershkowitz), confusiones terminológicas, rechazo de la inclusión, ángulo y longitud de lados, perímetro/área, fórmulas mecánicas, 3D, lateralidad.
+- Normativa: LOMLOE, RD 157/2022, LEA, Decreto 101/2023, Orden 30/05/2023 → sentido espacial (figuras 2D/3D; localización y representación; movimientos y transformaciones; visualización, razonamiento y modelización).
+- Evaluación: inicial (nivel Van Hiele), continua, final; observación, rúbricas, portfolio, entrevistas, autoevaluación.
+
+## 15. Preguntas de autoevaluación
+
+1. **¿Cuáles son las tres etapas de construcción del espacio según Piaget e Inhelder?** Topológica (relaciones cualitativas de vecindad, separación, orden, cerramiento y continuidad), proyectiva (coordinación de puntos de vista) y euclídea (medida, distancias, ángulos, coordenadas). Las dos últimas se construyen en paralelo desde los 7-8 años.
+2. **¿Qué demuestra la prueba de las tres montañas?** El egocentrismo espacial: hasta los 7 años el niño no puede representarse lo que ve un observador situado en otra posición; la coordinación de perspectivas se logra hacia los 9-10 años.
+3. **Diferencia entre espacio vivido, percibido y concebido (Hannoun).** Vivido: se conoce recorriéndolo con el cuerpo; percibido: se capta por la observación sin recorrerlo; concebido: se razona sobre él a partir de representaciones abstractas (planos, mapas).
+4. **Enumera los niveles de Van Hiele y la principal característica del nivel 2.** Visualización, análisis, deducción informal, deducción formal y rigor. En el de análisis se reconocen propiedades de las figuras de forma experimental, pero sin relacionarlas ni aceptar clasificaciones inclusivas.
+5. **¿Cuáles son las fases de aprendizaje de Van Hiele?** Información, orientación dirigida, explicitación, orientación libre e integración.
+6. **¿En qué se diferencia el modelo de Van Hiele de los estadios de Piaget?** El paso de nivel depende de la instrucción y la experiencia, no de la edad o la maduración; además, cada nivel tiene su propio lenguaje.
+7. **¿Es un cuadrado un rectángulo?** Sí, en la clasificación inclusiva: tiene cuatro ángulos rectos. También es un rombo. Aceptarlo es propio del nivel 3 de Van Hiele.
+8. **Enuncia la fórmula de Euler y compruébala en una pirámide hexagonal.** C + V = A + 2; pirámide hexagonal: 7 caras + 7 vértices = 12 aristas + 2.
+9. **¿Por qué solo existen cinco poliedros regulares?** Porque en cada vértice deben concurrir al menos tres caras y la suma de sus ángulos debe ser menor de 360º; solo es posible con 3, 4 o 5 triángulos equiláteros, 3 cuadrados o 3 pentágonos regulares.
+10. **¿Qué polígonos regulares forman mosaicos regulares y por qué?** El triángulo equilátero, el cuadrado y el hexágono regular, porque sus ángulos (60º, 90º y 120º) son divisores de 360º.
+11. **Define los tres movimientos del plano y sus elementos.** Traslación (vector), giro (centro, ángulo y sentido) y simetría axial (eje); las dos primeras conservan la orientación y la simetría la invierte.
+12. **¿Qué es un prototipo geométrico y cómo se evita?** Una imagen estereotipada (figura en posición estándar) que el alumnado identifica con el concepto; se evita presentando figuras variadas en posición, tamaño y forma, con ejemplos y no ejemplos, y apoyándose en propiedades.
+13. **¿Qué bloques incluye el sentido espacial en el currículo LOMLOE?** Figuras geométricas de dos y tres dimensiones; localización y sistemas de representación; movimientos y transformaciones; visualización, razonamiento y modelización geométrica.
+14. **¿Qué ocurre con el área de un cuadrado si duplicamos su lado?** Se multiplica por cuatro (k² = 4), porque en la semejanza las áreas varían con el cuadrado de la razón.
+15. **Cita tres recursos para trabajar la simetría.** Espejos y libros de espejos, papel doblado y recortado (o manchas de tinta) y GeoGebra; también el geoplano y el papel cuadriculado.
+
+## 16. Consejos para defender este tema en el examen
+
+**Estructura y tiempo.** En una prueba de unas dos horas, distribuye aproximadamente: índice y introducción (10 min); evolución de la percepción espacial con Piaget, Hannoun y Van Hiele (30 min); elementos, formas y relaciones con sus clasificaciones (35 min); intervención educativa con normativa, recursos, errores, evaluación y una situación de aprendizaje resumida (30 min); conclusión y bibliografía (10 min). Reserva 5 minutos para revisar.
+
+**Lo que "puntúa":**
+
+- Comenzar con un **índice** que reproduzca los tres bloques del título oficial: evolución de la percepción espacial / elementos, formas y relaciones (clasificación y representación) / intervención educativa.
+- Citar con precisión a **Piaget e Inhelder (1948)**, **Hannoun (1977)** y **Van Hiele (1957)**, y añadir al menos dos autores de didáctica (Alsina, Burgués y Fortuny; Freudenthal; Castelnuovo; Gutiérrez y Jaime; Hershkowitz).
+- Incluir **tablas de clasificación** (triángulos, cuadriláteros, poliedros regulares, movimientos): son visuales y demuestran dominio.
+- Mencionar la **fórmula de Euler**, los **tres mosaicos regulares** y la **clasificación inclusiva**.
+- Vincular la teoría con el **sentido espacial** y sus bloques, las competencias específicas (sobre todo CE3, CE5 y CE6) y el **Decreto 101/2023** y la **Orden de 30 de mayo de 2023**.
+- Personalizar con la **Alhambra** y Escher, y con el patrimonio de tu provincia (la Mezquita de Córdoba, el Alcázar de Sevilla, Úbeda y Baeza, la azulejería de tu localidad).
+- Cerrar la intervención con una **situación de aprendizaje** breve pero completa, con producto final, fases de Van Hiele y DUA.
+
+**Errores frecuentes del opositor:**
+
+- Quedarse solo en la parte matemática (definiciones y fórmulas) y olvidar la evolución psicológica o la intervención educativa: el título tiene tres partes y las tres se evalúan.
+- Confundir círculo y circunferencia, o rombo y romboide, en el propio examen.
+- Presentar los niveles de Van Hiele como si dependieran de la edad.
+- Citar normativa derogada (LOE sin LOMLOE, Decreto 97/2015, Orden de 17 de marzo de 2015) como vigente, o hablar de "bloques de contenido" en lugar de **saberes básicos**.
+- Inventar artículos concretos o fechas: es preferible una formulación general correcta.
+
+**Cómo personalizarlo:** incorpora una experiencia propia (un taller de mosaicos, un geoplano construido en clase, una ruta matemática por tu pueblo), menciona el contexto del centro (rural o urbano) y adapta los ejemplos del entorno: el tema gana fuerza cuando el tribunal percibe que sabes llevar la geometría al aula real.
