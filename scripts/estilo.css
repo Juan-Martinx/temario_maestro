@@ -1,0 +1,26 @@
+@page { size: A4; margin: 22mm 18mm 22mm 18mm; }
+html { font-family: "DejaVu Serif", Georgia, serif; font-size: 10.5pt; line-height: 1.5; color: #1d1d1f; }
+body { margin: 0; }
+h1 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 20pt; color: #0b4f6c; border-bottom: 3px solid #0b4f6c; padding-bottom: 6px; margin-top: 0; }
+h2 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 14.5pt; color: #0b4f6c; border-bottom: 1px solid #c9d6de; padding-bottom: 3px; margin-top: 22px; page-break-after: avoid; }
+h3 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 12pt; color: #1b6f8f; margin-top: 16px; page-break-after: avoid; }
+h4 { font-family: "DejaVu Sans", Arial, sans-serif; font-size: 10.5pt; color: #333; page-break-after: avoid; }
+p { text-align: justify; margin: 6px 0; }
+blockquote { margin: 10px 0; padding: 8px 12px; background: #eef6f9; border-left: 4px solid #1b6f8f; border-radius: 3px; }
+blockquote p { margin: 3px 0; }
+table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0b4f6c; color: #fff; padding: 5px 6px; text-align: left; }
+td { border: 1px solid #c9d6de; padding: 4px 6px; vertical-align: top; }
+tr:nth-child(even) td { background: #f5f8fa; }
+code { font-family: "DejaVu Sans Mono", monospace; font-size: 9pt; background: #f2f2f2; padding: 0 3px; }
+ul, ol { margin: 4px 0 6px 0; padding-left: 22px; }
+li { margin: 2px 0; }
+hr { border: 0; border-top: 1px solid #c9d6de; margin: 16px 0; }
+#TOC { background: #f5f8fa; border: 1px solid #c9d6de; padding: 8px 16px; margin-bottom: 18px; font-family: "DejaVu Sans", Arial, sans-serif; font-size: 9.5pt; page-break-after: always; }
+#TOC ul { list-style: none; padding-left: 14px; }
+#TOC a { color: #0b4f6c; text-decoration: none; }
+.portada { text-align: center; padding-top: 60mm; page-break-after: always; font-family: "DejaVu Sans", Arial, sans-serif; }
+.portada .etiqueta { font-size: 11pt; letter-spacing: 2px; color: #1b6f8f; text-transform: uppercase; }
+.portada .numero { font-size: 48pt; font-weight: bold; color: #0b4f6c; margin: 10mm 0 6mm; }
+.portada .titulo { font-size: 13pt; line-height: 1.5; color: #1d1d1f; max-width: 150mm; margin: 0 auto; }
+.portada .pie { margin-top: 40mm; font-size: 9.5pt; color: #666; }
