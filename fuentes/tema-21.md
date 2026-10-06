@@ -619,7 +619,7 @@ Las **pruebas de evaluación de diagnóstico** (en Andalucía, en 4.º de Primar
 - *Comprobar*: 9 + 6 = 15 ✓. *Responder*: "Al principio iban 9 niños."
 - *Valor didáctico*: la palabra "subieron" sugiere sumar, pero la operación es una resta; la representación evita el error.
 
-**Problema de lógica/patrón:** "Continúa la serie: 🔴🔵🔵🔴🔵🔵... ¿De qué color será la bola número 12?" — El patrón se repite cada 3; la 12 es la última de un grupo (12 = 3 × 4) → azul.
+**Problema de lógica/patrón:** "Continúa la serie de bolas: roja, azul, azul, roja, azul, azul... ¿De qué color será la bola número 12?" — El patrón se repite cada 3; la 12 es la última de un grupo (12 = 3 × 4) → azul.
 
 ### 11.2. Segundo ciclo (3.º y 4.º)
 
@@ -718,3 +718,143 @@ La resolución de problemas constituye el **núcleo de la actividad matemática*
 
 Pero ningún modelo funciona si se convierte en un ritual. Las **estrategias de intervención** eficaces combinan contextos significativos, la progresión concreto-pictórico-abstracto, la enseñanza explícita de estrategias, la verbalización, el trabajo cooperativo, la invención de problemas, el tratamiento constructivo del error, la atención a la **metacognición** y a los **factores afectivos**, y una evaluación formativa centrada en los procesos. Todo ello requiere un compromiso de centro, plasmado en un plan de resolución de problemas coordinado y evaluado. Como escribió Polya, si queremos que nuestros alumnos aprendan a resolver problemas, debemos darles **la oportunidad de resolver problemas** de verdad: ese es el reto profesional del maestro y la maestra de Primaria.
 
+## 15. Bibliografía y webgrafía
+
+### 15.1. Bibliografía
+
+- Alsina, À. (2011). *Educación matemática en contexto: de 3 a 6 años*. Barcelona: ICE-Horsori.
+- Albarracín, L. y Gorgorió, N. (2014). Devising a plan to solve Fermi problems involving large numbers. *Educational Studies in Mathematics*, 86(1).
+- Baruk, S. (1985). *L'âge du capitaine. De l'erreur en mathématiques*. París: Seuil.
+- Boaler, J. (2016). *Mathematical Mindsets* (trad. *Mentalidades matemáticas*, 2020). San Francisco: Jossey-Bass.
+- Brousseau, G. (1986). Fondements et méthodes de la didactique des mathématiques. *Recherches en Didactique des Mathématiques*, 7(2).
+- Brown, S. I. y Walter, M. I. (1983). *The Art of Problem Posing*. Filadelfia: Franklin Institute Press.
+- Carpenter, T. P. y Moser, J. M. (1983). The acquisition of addition and subtraction concepts. En R. Lesh y M. Landau (eds.), *Acquisition of mathematics concepts and processes*. Nueva York: Academic Press.
+- Castro, E., Rico, L. y Castro, E. (1995). *Estructuras aritméticas elementales y su modelización*. Bogotá: Una Empresa Docente / Grupo Editorial Iberoamérica.
+- Chamorro, M. C. (coord.) (2003). *Didáctica de las Matemáticas para Primaria*. Madrid: Pearson.
+- Echenique, I. (2006). *Matemáticas. Resolución de problemas. Educación Primaria*. Pamplona: Gobierno de Navarra.
+- Flavell, J. H. (1976). Metacognitive aspects of problem solving. En L. B. Resnick (ed.), *The nature of intelligence*. Hillsdale: Erlbaum.
+- Gómez Chacón, I. M. (2000). *Matemática emocional. Los afectos en el aprendizaje matemático*. Madrid: Narcea.
+- Guzmán, M. de (1991). *Para pensar mejor*. Barcelona: Labor. (Reed. Pirámide, 1995).
+- Mason, J., Burton, L. y Stacey, K. (1982). *Thinking Mathematically*. Londres: Addison-Wesley. (Trad.: *Pensar matemáticamente*, Barcelona: Labor/MEC, 1988).
+- Mayer, R. E. (1986). *Pensamiento, resolución de problemas y cognición*. Barcelona: Paidós.
+- McLeod, D. B. (1992). Research on affect in mathematics education: a reconceptualization. En D. A. Grouws (ed.), *Handbook of Research on Mathematics Teaching and Learning*. Nueva York: Macmillan.
+- NCTM (2000). *Principles and Standards for School Mathematics* (trad. *Principios y Estándares para la Educación Matemática*, SAEM Thales, 2003). Reston: NCTM.
+- Polya, G. (1945). *How to Solve It*. Princeton University Press. (Trad.: *Cómo plantear y resolver problemas*, México: Trillas, 1965).
+- Puig, L. (1996). *Elementos de resolución de problemas*. Granada: Comares.
+- Puig, L. y Cerdán, F. (1988). *Problemas aritméticos escolares*. Madrid: Síntesis.
+- Schoenfeld, A. H. (1985). *Mathematical Problem Solving*. Orlando: Academic Press.
+- Smith, M. S. y Stein, M. K. (2011). *5 Practices for Orchestrating Productive Mathematics Discussions*. Reston: NCTM.
+- Stoyanova, E. y Ellerton, N. F. (1996). A framework for research into students' problem posing in school mathematics. En P. Clarkson (ed.), *Technology in Mathematics Education*. Melbourne: MERGA.
+- Vergnaud, G. (1990). La théorie des champs conceptuels. *Recherches en Didactique des Mathématiques*, 10(2-3).
+- Verschaffel, L., Greer, B. y De Corte, E. (2000). *Making Sense of Word Problems*. Lisse: Swets & Zeitlinger.
+
+### 15.2. Normativa
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre (BOE).
+- Real Decreto 157/2022, de 1 de marzo, ordenación y enseñanzas mínimas de la Educación Primaria (BOE).
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (BOJA).
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de los CEIP (BOJA).
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de Educación Primaria en Andalucía (BOJA).
+- Orden de 30 de mayo de 2023, desarrollo del currículo de Educación Primaria en Andalucía (BOJA).
+- Instrucciones de 8 de marzo de 2017, protocolo de detección e identificación del alumnado NEAE (Junta de Andalucía).
+
+### 15.3. Webgrafía
+
+- BOE: https://www.boe.es · BOJA: https://www.juntadeandalucia.es/boja
+- Portal de la Consejería de Desarrollo Educativo y Formación Profesional: https://www.juntadeandalucia.es/educacion
+- Portal Averroes y Colabora 3.0 (recursos y redes del profesorado andaluz).
+- INTEF, recursos educativos abiertos: https://intef.es
+- SAEM Thales (Sociedad Andaluza de Educación Matemática): https://thales.cica.es
+- NCTM, Illuminations y recursos de resolución de problemas: https://www.nctm.org
+- NRICH (Universidad de Cambridge), problemas ricos de suelo bajo y techo alto: https://nrich.maths.org
+- GeoGebra: https://www.geogebra.org
+
+## 16. Esquema-resumen para memorizar
+
+**1. Concepto**
+
+| Problema | Ejercicio |
+|---|---|
+| Camino no inmediato; relativo al sujeto; implicación afectiva | Procedimiento conocido; práctica y automatización |
+| Polya, Schoenfeld, De Guzmán, Krulik-Rudnick | Butts (1980): reconocimiento → algorítmico → aplicación → búsqueda abierta → situaciones problemáticas |
+
+**2. Currículo:** CE1 interpretar · CE2 resolver · CE3 conjeturar/plantear · CE4 pensamiento computacional · CE5 conexiones · CE6 comunicar · CE7 emociones · CE8 equipo. Sentidos: numérico, medida, espacial, algebraico, estocástico, socioafectivo. Enseñar *para*, *sobre* y *a través de* (Schroeder y Lester, 1989).
+
+**3. Clases (estructura semántica)**
+
+| Estructura | Tipos | Subtipos |
+|---|---|---|
+| **Aditiva** (Vergnaud; Carpenter-Moser; Puig-Cerdán, 1988) | Cambio | 6 (aumento/disminución × final/cambio/inicial) |
+| | Combinación | 2 (todo/parte) |
+| | Comparación | 6 (diferencia/comparada/referente × más/menos) |
+| | Igualación | 6 |
+| **Multiplicativa** (Vergnaud) | Proporcionalidad simple | Multiplicación · división partitiva (reparto) · división cuotitiva (agrupamiento) |
+| | Comparación multiplicativa | Comparada · escalar · referente |
+| | Producto cartesiano | Producto · factor |
+
+Otras: lógica, geométricos, abiertos, estimación, Fermi, patrones, combinatoria, estadística, datos superfluos/insuficientes, sin números, invención, situaciones reales.
+
+**4. Modelos**
+
+| Autor | Fases / componentes | Énfasis |
+|---|---|---|
+| Polya (1945) | Comprender · plan · ejecutar · examinar | Preguntas heurísticas |
+| Schoenfeld (1985) | Recursos · heurísticas · control · creencias | Metacognición |
+| Mason-Burton-Stacey (1982) | Abordaje · ataque · revisión | Particularizar-generalizar; conjeturar-justificar; "¡atascado!/¡ajá!" |
+| M. de Guzmán (1991) | Familiarizarse · estrategias · llevar adelante · revisar | Afectividad, juego, bloqueos |
+| Mayer (1986) | Traducción · integración · planificación · ejecución | Representación |
+
+**5. Heurísticas:** ensayo-error · dibujo/esquema/barras · tabla · patrón · empezar por el final · problema más simple · descomponer · analogía · lista sistemática · dramatizar · eliminar posibilidades · estimar.
+
+**6. Proceso:** comprender y **representar** (Bruner: enactiva-icónica-simbólica; CPA; Duval) → **planificar** → **gestionar recursos** (cognitivos, materiales, temporales, sociales, afectivos) → ejecutar → **interpretar** (unidad, resto, contexto) → **valorar** (razonabilidad, otra vía, generalizar). Peligro: suspensión del sentido (Verschaffel, 2000; "edad del capitán").
+
+**7. Afectivo y metacognición:** McLeod (1992): creencias, actitudes, emociones · Gómez Chacón (2000) · Dweck/Boaler · Flavell (1976) · autoinstrucciones (Meichenbaum).
+
+**8. Intervención:** contextos · CPA · variedad · enseñanza explícita · comprensión antes que cálculo · verbalización · cooperativo (lápices al centro, 1-2-4, roles) · ayudas graduadas · invención (Brown-Walter "¿y si no?"; Stoyanova-Ellerton: libre, semiestructurada, estructurada) · error como oportunidad · DUA · plan de centro (Decreto 328/2010) · TIC.
+
+**9. Evaluación:** criterial, continua, formativa (Orden 30/05/2023) · procesos · rúbrica por fases · observación, diario, portfolio, entrevista, auto/coevaluación · diagnóstico en 4.º.
+
+## 17. Preguntas de autoevaluación
+
+1. **¿Qué diferencia un problema de un ejercicio?** — En el problema el camino de resolución no es inmediato para el sujeto y exige buscar estrategias; el ejercicio aplica un procedimiento conocido para automatizarlo. La distinción es relativa al resolutor.
+2. **Enumera las cuatro categorías de problemas aditivos y su número de subtipos.** — Cambio (6), combinación (2), comparación (6) e igualación (6): 20 subtipos (Carpenter y Moser; Puig y Cerdán).
+3. **¿Por qué son difíciles los problemas de comparación con referente desconocido?** — Porque el lenguaje es inconsistente con la operación ("más que" exige restar) y requieren invertir la relación.
+4. **Distingue división partitiva y cuotitiva.** — Partitiva: se conoce el total y el número de partes, se busca el valor de cada parte (reparto). Cuotitiva: se conoce el total y el valor de cada grupo, se busca el número de grupos (agrupamiento).
+5. **¿Qué es un problema de producto cartesiano? Pon un ejemplo.** — El que combina todos los elementos de dos conjuntos: 3 camisetas y 4 pantalones forman 12 conjuntos.
+6. **Fases del modelo de Polya.** — Comprender el problema, concebir un plan, ejecutar el plan y examinar la solución obtenida (visión retrospectiva).
+7. **¿Qué aportó Schoenfeld respecto a Polya?** — Que las heurísticas no bastan: el éxito depende también de los recursos, del control (metacognición) y del sistema de creencias.
+8. **¿Qué son los problemas de Fermi?** — Problemas de estimación de cantidades difíciles de medir directamente, que exigen descomponer, hacer suposiciones razonables y estimar; inician en la modelización.
+9. **Cita cinco heurísticas adecuadas para Primaria.** — Ensayo-error, hacer un dibujo, organizar en una tabla, buscar un patrón, empezar por el final (también problema más simple, descomponer, lista sistemática).
+10. **¿Qué es la "suspensión del sentido"?** — La tendencia a operar con los datos sin considerar el realismo de la respuesta (Verschaffel, Greer y De Corte); ejemplo: "la edad del capitán".
+11. **¿Qué competencias específicas de Matemáticas se vinculan directamente con la resolución y la invención de problemas?** — CE1 (interpretar), CE2 (resolver) y CE3 (conjeturar y plantear problemas), apoyadas por CE6, CE7 y CE8.
+12. **Componentes del dominio afectivo según McLeod.** — Creencias, actitudes y emociones.
+13. **¿Qué tipos de invención de problemas distinguen Stoyanova y Ellerton?** — Libre, semiestructurada y estructurada.
+14. **¿Por qué es perjudicial la estrategia de la palabra clave?** — Porque sustituye la comprensión de la estructura por indicadores superficiales y falla en problemas con lenguaje inconsistente.
+15. **¿Qué debe incluir un plan de resolución de problemas de centro?** — Modelo común de fases, vocabulario y estrategias secuenciados por ciclos, tiempo regular, banco de problemas, actividades de centro, coordinación (ciclos, ETCP), evaluación y participación de las familias.
+
+## 18. Consejos para defender este tema en el examen
+
+**Distribución del tiempo (prueba de unas 2 horas):**
+
+| Bloque | Tiempo | Contenido mínimo |
+|---|---|---|
+| Introducción | 10 min | Importancia (Halmos, NCTM, PISA/TIMSS), enfoque LOMLOE, índice |
+| Problema vs. ejercicio | 10 min | 2-3 definiciones con autor y año; tabla comparativa; Butts |
+| Clases de problemas | 25 min | Clasificación aditiva con los 20 subtipos (al menos ejemplos de cada categoría) y multiplicativa; otras clases |
+| Métodos y heurísticas | 25 min | Polya (tabla), Schoenfeld, Mason-Burton-Stacey, De Guzmán; 6-8 heurísticas con ejemplo |
+| Planificación... valoración | 15 min | Representación (Bruner, CPA), gestión de recursos, interpretación del resto, suspensión del sentido |
+| Intervención y evaluación | 20 min | Principios, sesión tipo, cooperativo, invención, errores, plan de centro, rúbrica |
+| Normativa, situación de aprendizaje breve y conclusión | 15 min | CE1-CE8, Decreto 101/2023, Orden 30/05/2023; SA resumida |
+
+**Citas y autores que "puntúan":** Polya (1945) y sus cuatro fases; Schoenfeld (1985) y el control; Mason, Burton y Stacey (1982) con "¡atascado!" y "¡ajá!"; Miguel de Guzmán (1991) como referente español; Puig y Cerdán (1988) y Vergnaud para las clasificaciones; Verschaffel, Greer y De Corte (2000) y "la edad del capitán"; McLeod (1992) y Gómez Chacón (2000) para el dominio afectivo; Brown y Walter (1983) para la invención; Bruner y el método Singapur para la representación.
+
+**Errores frecuentes que restan puntos:**
+
+- Reducir el tema a "las fases de Polya" sin clasificaciones ni intervención.
+- Confundir comparación e igualación, o reparto y agrupamiento.
+- Presentar solo ejemplos de problemas "fáciles" (cambio-final).
+- No desarrollar cada uno de los epígrafes del título (planificación, gestión de recursos, representación, interpretación y valoración deben aparecer **explícitamente**).
+- Usar terminología derogada sin explicar la equivalencia (en el título no aparece, pero conviene vincular con competencias específicas, saberes básicos y situaciones de aprendizaje).
+- Citar normativa inexistente o inventar números de artículos.
+
+**Cómo personalizarlo:** incluir un ejemplo propio de cada subtipo con contextos andaluces (aceite de Jaén, feria, Semana Santa, Doñana, Alhambra, mercado de abastos); dibujar un modelo de barras y una tabla de ensayo-error (la representación gráfica en la hoja de examen causa muy buena impresión); mencionar experiencias de aula (mural de estrategias, problema de la semana, diario de matemáticas) y el plan de problemas del centro; cerrar con una conclusión que conecte la resolución de problemas con la formación de una ciudadanía crítica y con la gestión emocional del alumnado.

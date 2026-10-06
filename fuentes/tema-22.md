@@ -6,7 +6,7 @@
 
 El número es, probablemente, la primera gran abstracción que la escuela ayuda a construir. Contar, comparar cantidades, repartir, medir o decidir si el dinero alcanza para una compra son actividades que acompañan a la persona desde la infancia y que, en la sociedad actual, se han hecho todavía más presentes: datos, porcentajes, ofertas, préstamos, estadísticas sanitarias o deportivas. La **alfabetización numérica** (*numeracy*) es hoy una condición de ciudadanía crítica, y la Educación Primaria es la etapa en la que se asientan sus cimientos.
 
-El título oficial del tema (Orden ECI/592/2007, de 12 de marzo) reúne tres núcleos: **los conjuntos numéricos** que se trabajan en Primaria (naturales, fraccionarios y decimales, a los que el currículo actual añade un primer contacto con los enteros y los porcentajes); **los sistemas de numeración**, con especial atención al decimal posicional; **las relaciones entre los números** (orden, equivalencia, divisibilidad, composición y descomposición); y **los métodos para desarrollar el cálculo** en sus cuatro modalidades: escrito, mental, estimativo y con calculadora. Cierra con la **intervención educativa**, es decir, con la traducción didáctica de todo lo anterior.
+El título oficial del tema (Orden ECI/592/2007, de 12 de marzo) reúne cuatro núcleos: **los conjuntos numéricos** que se trabajan en Primaria (naturales, fraccionarios y decimales, a los que el currículo actual añade un primer contacto con los enteros y los porcentajes); **los sistemas de numeración**, con especial atención al decimal posicional; **las relaciones entre los números** (orden, equivalencia, divisibilidad, composición y descomposición); y **los métodos para desarrollar el cálculo** en sus cuatro modalidades: escrito, mental, estimativo y con calculadora. Cierra con la **intervención educativa**, es decir, con la traducción didáctica de todo lo anterior.
 
 En la terminología LOMLOE, este tema se corresponde casi íntegramente con el **sentido numérico**, primer bloque de saberes básicos del área de Matemáticas en el **Real Decreto 157/2022**, de 1 de marzo, y en el **Decreto 101/2023**, de 9 de mayo, y la **Orden de 30 de mayo de 2023** en Andalucía, con conexiones fuertes con el **sentido algebraico** (patrones, relaciones, propiedades de las operaciones) y con el **sentido socioafectivo** (gestión de emociones, ansiedad matemática, perseverancia). El sentido numérico se entiende como la comprensión flexible de los números y de las operaciones y la capacidad de usarlos de manera razonada para resolver problemas, algo muy distinto de la mera ejecución mecánica de algoritmos.
 
@@ -183,7 +183,7 @@ El conjunto de los **números naturales** (ℕ = {0, 1, 2, 3...}, incluyendo o n
 - **Vía cardinal** (Cantor, Frege, Russell): el número es la propiedad común a todos los conjuntos coordinables (equipotentes) entre sí. Didácticamente: correspondencia término a término, comparación de colecciones.
 - **Vía ordinal** (axiomas de **Peano**, 1889): el 0 (o el 1) es natural; todo natural tiene un siguiente; no hay dos naturales con el mismo siguiente; el 0 no es siguiente de ninguno; principio de inducción. Didácticamente: la serie numérica, el "uno más", el conteo.
 
-Propiedades relevantes en Primaria: ℕ es **infinito** (siempre hay un siguiente), **discreto** (entre dos naturales consecutivos no hay otro), **totalmente ordenado** y tiene **primer elemento**. Estas propiedades contrastan con las de las fracciones y decimales (densidad), lo que origina errores típicos (véase 8.6).
+Propiedades relevantes en Primaria: ℕ es **infinito** (siempre hay un siguiente), **discreto** (entre dos naturales consecutivos no hay otro), **totalmente ordenado** y tiene **primer elemento**. Estas propiedades contrastan con las de las fracciones y decimales (densidad), lo que origina errores típicos (véase 8.4).
 
 Contenidos de Primaria: lectura y escritura, orden y comparación (signos <, >, =), anterior y posterior, series ascendentes y descendentes, redondeo, números ordinales (hasta el vigésimo o el trigésimo, en el lenguaje cotidiano), números romanos, números grandes (millones) en contextos reales (población de Andalucía, distancias, presupuestos), y potencias.
 
@@ -410,7 +410,7 @@ Un alumno más avanzado podría hacerlo en un solo paso (pasar 37 → 85) o en d
 
 ### 7.5. El cálculo mental
 
-El **cálculo mental** es el cálculo exacto realizado "de cabeza", sin recurrir al algoritmo escrito. Se distinguen (Gómez Alfonso, *Cálculo mental*, 1995; Parra, 1994):
+El **cálculo mental** es el cálculo exacto realizado "de cabeza", sin recurrir al algoritmo escrito. Se distinguen (Gómez Alfonso, 1995; Parra, 1994):
 
 - **Cálculo mental automático o memorístico**: recuperación inmediata de hechos numéricos (tablas, complementos a 10 y a 100, dobles y mitades).
 - **Cálculo mental reflexivo o pensado**: aplicación consciente de estrategias basadas en las propiedades y en las relaciones numéricas.
@@ -607,7 +607,7 @@ Según la Orden de 30 de mayo de 2023, la evaluación en Primaria es **criterial
 | **Competencias específicas** | CE1 (interpretar situaciones de la vida cotidiana), CE2 (resolver problemas con diferentes estrategias), CE5 (conexiones con otras áreas), CE6 (comunicar y representar), CE8 (destrezas sociales y trabajo en equipo) |
 | **Criterios de evaluación** (tercer ciclo) | Los asociados a dichas competencias: comprender e interpretar problemas de la vida cotidiana; emplear y comparar estrategias de cálculo; obtener soluciones y comprobar su razonabilidad; comunicar procesos con lenguaje matemático y representaciones; trabajar en equipo asumiendo responsabilidades |
 | **Saberes básicos** | **Sentido numérico**: números decimales hasta las centésimas en contexto monetario; porcentajes (descuentos del 10 %, 25 %, 50 %); fracciones de una cantidad; estrategias de cálculo mental (redondeo, compensación, completar para dar el cambio); estimación; uso de la calculadora y la hoja de cálculo; **educación financiera** (ingresos, gastos, beneficio, presupuesto, consumo responsable). **Sentido estocástico**: tablas y gráficos de ventas. **Sentido socioafectivo**: trabajo en equipo, gestión de emociones |
-| **Descriptores operativos** | STEM1, STEM2, CCL1, CD2, CPSAA3, CC3, CE1 (competencia emprendedora) |
+| **Descriptores operativos** | STEM1, STEM2, CCL1, CD2, CPSAA3, CC3 y CE1 (descriptor de la competencia emprendedora) |
 | **Conexiones** | Lengua Castellana y Literatura (carteles publicitarios, informe oral), Educación Artística (diseño de productos y carteles), Educación en Valores Cívicos y Éticos (solidaridad, consumo responsable), Conocimiento del Medio (sector servicios, economía local) |
 | **ODS** | ODS 1 (fin de la pobreza), ODS 12 (producción y consumo responsables) |
 
@@ -645,3 +645,102 @@ Según la Orden de 30 de mayo de 2023, la evaluación en Primaria es **criterial
 | **Diana de autoevaluación** y escala de coevaluación | Participación, responsabilidad, cooperación, gestión emocional | Alumnado |
 
 La calificación se obtiene a partir de los criterios de evaluación implicados, registrados en el cuaderno del profesorado en Séneca. La **evaluación de la práctica docente** se realiza con un cuestionario a los alumnos y una reflexión del equipo de ciclo.
+
+## 11. Conclusión
+
+El aprendizaje de los números y del cálculo es el eje vertebrador de las matemáticas en Primaria, pero su enseñanza ha cambiado profundamente. De un modelo centrado en la memorización de la numeración y la ejecución mecánica de algoritmos cerrados, hemos pasado a un enfoque que pone en el centro el **sentido numérico**: comprender el número (Piaget, Gelman y Gallistel, Kamii), dominar el sistema decimal posicional por contraste con otros sistemas, entender los distintos significados de fracciones y decimales, establecer relaciones entre los números y disponer de un repertorio flexible de estrategias de cálculo —escrito, mental, estimativo y con calculadora— para elegir la más adecuada en cada situación.
+
+El currículo LOMLOE y su concreción andaluza (Decreto 101/2023 y Orden de 30 de mayo de 2023) consolidan este enfoque competencial: saberes básicos de sentido numérico y algebraico, competencias específicas centradas en resolver problemas, razonar y comunicar, y atención al sentido socioafectivo. Andalucía, cuna del método **ABN**, es además un referente de innovación en el cálculo. Al maestro le corresponde diseñar situaciones de aprendizaje contextualizadas, utilizar materiales con criterio, analizar los errores como fuente de información, atender a la diversidad desde el DUA —incluida la discalculia— y evaluar no solo los resultados, sino la comprensión y las estrategias. Solo así lograremos ciudadanos que no teman a los números y sepan usarlos para comprender y transformar su mundo.
+
+## 12. Bibliografía y webgrafía
+
+**Autores y obras de referencia**
+
+- Baroody, A. J. (1988). *El pensamiento matemático de los niños*. Madrid: Visor/MEC.
+- Behr, M., Lesh, R., Post, T. y Silver, E. (1983). Rational number concepts. En R. Lesh y M. Landau (eds.), *Acquisition of mathematics concepts and processes*. Nueva York: Academic Press.
+- Boaler, J. (2016). *Mathematical Mindsets*. San Francisco: Jossey-Bass (trad. esp.: *Mentalidades matemáticas*).
+- Butterworth, B. (1999). *The Mathematical Brain*. Londres: Macmillan.
+- Castro, E., Rico, L. y Castro, E. (1995). *Estructuras aritméticas elementales y su modelización*. Bogotá: Una Empresa Docente.
+- Chamorro, M. C. (coord.) (2005). *Didáctica de las Matemáticas para Primaria*. Madrid: Pearson.
+- Dehaene, S. (1997). *The Number Sense* (trad. esp.: *El cerebro matemático*).
+- Fuson, K. C. (1988). *Children's counting and concepts of number*. Nueva York: Springer.
+- Gelman, R. y Gallistel, C. R. (1978). *The child's understanding of number*. Cambridge (MA): Harvard University Press.
+- Gómez Alfonso, B. (1988). *Numeración y cálculo*. Madrid: Síntesis.
+- Gómez Alfonso, B. (1995). *Los métodos de cálculo mental vertidos por la tradición reflejada en los libros de aritmética* (tesis doctoral). Universitat de València.
+- Kamii, C. (1985). *El niño reinventa la aritmética*. Madrid: Visor.
+- Kieren, T. (1976). On the mathematical, cognitive and instructional foundations of rational numbers. En R. Lesh (ed.), *Number and Measurement*. ERIC/SMEAC.
+- Llinares, S. y Sánchez, M. V. (1988). *Fracciones*. Madrid: Síntesis.
+- Martínez Montero, J. (2008). *Competencias básicas en matemáticas. Una nueva práctica*. Madrid: Wolters Kluwer.
+- Martínez Montero, J. y Sánchez Cortés, C. (varias obras sobre el método ABN y el desarrollo de la competencia matemática con recursos lúdico-manipulativos).
+- Piaget, J. y Szeminska, A. (1941). *La génesis del número en el niño*. Buenos Aires: Guadalupe (trad. esp.).
+- Parra, C. y Saiz, I. (comps.) (1994). *Didáctica de matemáticas. Aportes y reflexiones*. Buenos Aires: Paidós.
+- Segovia, I., Castro, E., Castro, E. y Rico, L. (1989). *Estimación en cálculo y medida*. Madrid: Síntesis.
+- Vergnaud, G. (1990). La théorie des champs conceptuels. *Recherches en Didactique des Mathématiques*, 10(2-3).
+- NCTM (2000). *Principles and Standards for School Mathematics*. Reston (VA): NCTM.
+
+**Normativa**
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre.
+- Real Decreto 157/2022, de 1 de marzo, enseñanzas mínimas de la Educación Primaria.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- Decreto 328/2010, de 13 de julio (ROC de los CEIP).
+- Decreto 101/2023, de 9 de mayo (ordenación y currículo de Primaria en Andalucía).
+- Orden de 30 de mayo de 2023 (desarrollo curricular, atención a la diversidad, evaluación y tránsito en Andalucía).
+- Instrucciones de 8 de marzo de 2017 (protocolo NEAE en Andalucía).
+
+**Webgrafía**
+
+- BOE: https://www.boe.es · BOJA: https://www.juntadeandalucia.es/eboja
+- Portal de Educación de la Junta de Andalucía: https://www.juntadeandalucia.es/educacion/portals/web/ced
+- INTEF (recursos educativos abiertos): https://intef.es
+- Sociedad Andaluza de Educación Matemática Thales: https://thales.cica.es
+- Federación Española de Sociedades de Profesores de Matemáticas (FESPM): https://fespm.es
+- NCTM, manipulativos y recursos: https://www.nctm.org
+- NRICH (University of Cambridge), problemas y juegos numéricos: https://nrich.maths.org
+
+## 13. Esquema-resumen para memorizar
+
+| Bloque | Contenido esencial |
+|---|---|
+| **Construcción del número** | Usos: cardinal, ordinal, medida, código. **Piaget** (1941): clasificación + seriación + conservación (identidad, reversibilidad, compensación). **Gelman y Gallistel** (1978): 5 principios (uno a uno, orden estable, cardinalidad, abstracción, irrelevancia del orden). **Fuson**: niveles de la secuencia (cuerda → bidireccional). **Kamii**: el niño reinventa la aritmética; algoritmos prematuros perjudiciales. Subitización; Dehaene |
+| **Sistemas de numeración** | Aditivos (egipcio, romano con principio sustractivo), híbridos (chino), posicionales (babilónico base 60, maya base 20 con cero, indoarábigo base 10). Al-Juarismi, al-Ándalus, *Codex Vigilanus* (976), Fibonacci (1202) |
+| **Sistema decimal** | Base 10, diez cifras, posición (valor absoluto/relativo), cero, descomposición polinómica, periodos (billón = 10¹²). Unitización; descomposiciones no canónicas; multibase, ábaco, dinero |
+| **Fracciones** | 5 significados (Kieren; Behr y otros; Llinares y Sánchez): parte-todo, cociente, razón, operador, medida. Equivalencia, comparación, recta numérica |
+| **Decimales y %** | Extensión posicional; dinero y medida; errores "más largo = mayor". % = /100; referentes 10, 25, 50 % |
+| **Enteros** | Iniciación en contexto: temperaturas, plantas, nivel del mar, saldo |
+| **Relaciones** | Orden, equivalencia, composición, parte-todo, referencia, multiplicativas; igual como equivalencia (early algebra). Divisibilidad: múltiplos, divisores, primos, criterios, m.c.m., M.C.D., criba de Eratóstenes |
+| **Operaciones** | Aditivos: cambio, combinación, comparación, igualación (Vergnaud; Carpenter y Moser; Puig y Cerdán). Multiplicativos: grupos iguales, comparación, producto cartesiano, área; división partitiva y cuotitiva. Propiedades como herramientas |
+| **Cálculo escrito** | CBC (Cerrados Basados en Cifras) vs **ABN** (Martínez Montero, 2008; Cádiz): números completos, izquierda-derecha, transparencia, ritmo propio. Algoritmos alternativos: celosía, egipcio, cocientes parciales |
+| **Cálculo mental** | Automático y pensado. Descomposición, compensación, dobles y mitades, redondeo, completar, asociar, distributiva. Práctica diaria, *number talks* |
+| **Estimación** | Redondeo, frontal, compatibles, agrupamiento, referentes. Control de razonabilidad |
+| **Calculadora** | Herramienta, patrones, valor posicional (tecla rota), comprobación; estimar antes |
+| **Intervención** | CPA, contexto, juego, verbalización, DUA. Materiales: regletas, multibase, ábaco, recta (vacía), tabla 100, marcos de diez. Errores como información. Discalculia (DSM-5; DIA en Instrucciones 8/3/2017). Evaluación criterial con observación, entrevista, rúbricas |
+| **Normativa** | LOE-LOMLOE art. 17 g); RD 157/2022 (8 CE; sentido numérico, algebraico, socioafectivo; STEM); Decreto 101/2023; Orden 30/5/2023; Decreto 328/2010; Instrucciones 8/3/2017 |
+
+## 14. Preguntas de autoevaluación
+
+1. **¿Cuáles son los cinco principios del conteo de Gelman y Gallistel?** Correspondencia uno a uno, orden estable, cardinalidad, abstracción e irrelevancia del orden.
+2. **¿Qué dos estructuras lógicas sintetiza el número según Piaget?** La clasificación (inclusión de clases) y la seriación, además de requerir la conservación de la cantidad.
+3. **¿Qué tesis central defiende Kamii?** Que el número es conocimiento lógico-matemático que el niño construye y que, si no se le imponen algoritmos prematuros, inventa procedimientos de cálculo propios basados en el valor posicional.
+4. **Diferencia un sistema aditivo de uno posicional.** En el aditivo cada símbolo tiene un valor fijo y se suman (egipcio); en el posicional el valor depende de la posición y se necesita el cero (decimal, maya).
+5. **¿Qué es una descomposición no canónica y para qué sirve?** Expresar un número con agrupamientos distintos de los estándar (245 = 24 D + 5 U); fundamenta las llevadas, los préstamos y el cálculo mental.
+6. **Enumera los cinco significados de la fracción.** Parte-todo, cociente o reparto, razón, operador y medida.
+7. **Cita tres errores típicos con decimales.** "Más cifras = mayor" (3,25 > 3,5), ignorar el cero (0,05 = 0,5) y creer que multiplicar siempre aumenta.
+8. **¿Cuáles son las categorías de problemas aditivos?** Cambio, combinación, comparación e igualación.
+9. **Distingue división partitiva y cuotitiva.** Partitiva: se conoce el número de grupos y se busca el tamaño de cada uno (reparto); cuotitiva: se conoce el tamaño del grupo y se busca cuántos grupos (agrupamiento).
+10. **¿Qué significan las siglas CBC y ABN?** Cerrados Basados en Cifras (tradicionales) y Abiertos Basados en Números (Martínez Montero).
+11. **Resuelve 63 − 28 con compensación y explica la propiedad.** 65 − 30 = 35; si se suma lo mismo a minuendo y sustraendo, la diferencia no varía.
+12. **Cita cuatro estrategias de estimación.** Redondeo, estrategia frontal, números compatibles y agrupamiento o referentes.
+13. **Propón dos usos didácticos de la calculadora.** Explorar el valor posicional ("tecla rota", convertir 4.739 en 4.039) e investigar patrones con la función constante.
+14. **¿Cómo se encuadra la discalculia en la normativa andaluza?** Como dificultad de aprendizaje (DIA), dificultad específica del cálculo, según las Instrucciones de 8 de marzo de 2017.
+15. **¿En qué bloques de saberes del RD 157/2022 se sitúa este tema?** Fundamentalmente en el sentido numérico, con conexiones con el sentido algebraico y el socioafectivo.
+
+## 15. Consejos para defender este tema en el examen
+
+- **Distribución del tiempo** (para unas 2 horas): introducción y justificación normativa (10 min); construcción del número y sistemas de numeración (25 min); conjuntos numéricos y relaciones (25 min); métodos de cálculo con ABN (30 min); intervención educativa, normativa y situación de aprendizaje resumida (20 min); conclusión y bibliografía (10 min).
+- **Respeta los epígrafes del título oficial** y nómbralos literalmente en los apartados: el tribunal comprueba que se han tratado *números naturales, fraccionarios y decimales*, *sistemas de numeración*, *relaciones entre los números* y los **cuatro tipos de cálculo**.
+- **Autores que puntúan** (con año): Piaget y Szeminska (1941), Gelman y Gallistel (1978), Kamii (1985), Fuson (1988), Baroody (1988), Dienes, Bruner (CPA), Vergnaud (1990), Kieren (1976), Llinares y Sánchez (1988), Martínez Montero (2008), Gómez Alfonso, Dehaene, Boaler.
+- **Incluye ejemplos numéricos breves** (una suma ABN en tabla, una estrategia de compensación, una tabla de significados de la fracción): demuestran dominio práctico y se recuerdan bien.
+- **Errores frecuentes**: limitarse a la parte matemática sin didáctica; olvidar la calculadora o la estimación; citar el currículo de 2014 ("bloques de contenido", "estándares") o el antiguo Decreto 97/2015 en vez del Decreto 101/2023; confundir billón y *billion*; presentar el ABN como "el único método válido" sin una valoración crítica.
+- **Personaliza**: menciona tu experiencia o la de tu centro con el ABN, el cálculo mental diario o un mercadillo; alude a la historia de al-Ándalus en la difusión de las cifras; vincula con planes de la Junta (TDE, ComunicA, Creciendo en Salud).
+- **Cierra con una idea fuerza**: "enseñar a calcular es enseñar a pensar con números".
