@@ -98,3 +98,78 @@ Esta línea anticipa planteamientos actuales como el **ABN**, el **cálculo pens
 | Tercer ciclo (10-12) | Números grandes; fracciones equivalentes y operaciones; decimales hasta milésimas; porcentajes; divisibilidad; potencias; números enteros en contextos; proporcionalidad |
 
 > **Idea clave:** Piaget (lógica: clasificación + seriación + conservación), Gelman y Gallistel (cinco principios del conteo) y Kamii (el niño reinventa la aritmética; rechazo de los algoritmos prematuros) son el **trío de autores imprescindible** del tema. Hoy se integran: el número se construye contando con sentido y estableciendo relaciones lógicas.
+
+## 3. Sistemas de numeración
+
+### 3.1. Concepto y evolución histórica
+
+Un **sistema de numeración** es un conjunto de **símbolos** (cifras o guarismos) y de **reglas** que permiten representar y nombrar los números. La humanidad ha pasado por varias etapas: correspondencia con objetos (piedras, *calculi*), muescas en huesos (el hueso de Ishango, de hace unos 20.000 años), agrupamientos (por cinco, por diez, por veinte, según los dedos de las manos o de manos y pies) y, finalmente, sistemas escritos cada vez más económicos.
+
+Conocer los sistemas históricos tiene un **valor didáctico** doble: ayuda a comprender, por contraste, las ventajas del sistema decimal posicional (que el alumnado suele usar sin reflexionar sobre él) y conecta las matemáticas con la **historia y la cultura** (competencia en conciencia y expresión culturales, saberes de Conocimiento del Medio).
+
+Elementos de todo sistema:
+
+- **Base**: número de unidades de un orden que forman una unidad del orden inmediato superior (10 en el decimal; 60 en el babilónico; 20 en el maya).
+- **Símbolos**: los signos empleados.
+- **Reglas de formación**: aditiva, multiplicativa, posicional, sustractiva.
+
+### 3.2. Clasificación de los sistemas de numeración
+
+| Tipo | Principio | Ejemplos | Ventajas / inconvenientes |
+|---|---|---|---|
+| **Aditivos** | Cada símbolo tiene un valor fijo; el número es la suma de los valores de los símbolos; se repiten los símbolos | Egipcio jeroglífico, griego ático, romano (con matices) | Fáciles de leer; escritura larga; sin cero; cálculo escrito muy difícil |
+| **Híbridos o multiplicativos** | Se combinan cifras de 1 a 9 con símbolos de las potencias de la base, que se multiplican | Chino tradicional, nuestra forma oral ("tres mil doscientos") | Más económicos; necesitan muchos símbolos para las potencias |
+| **Posicionales** | El valor de cada cifra depende de su posición; requieren el **cero** | Babilónico (base 60, sin cero inicial verdadero), maya (base 20 modificada), indoarábigo (base 10) | Con pocos símbolos se escriben todos los números; permiten algoritmos escritos eficientes; más abstractos |
+
+### 3.3. Sistemas históricos
+
+**Egipcio (jeroglífico, c. 3000 a. C.)**: aditivo de base 10. Símbolos para 1 (bastón), 10 (asa o herradura), 100 (cuerda enrollada), 1.000 (flor de loto), 10.000 (dedo), 100.000 (renacuajo) y 1.000.000 (dios con brazos alzados, Heh). Cada símbolo se repite hasta nueve veces; el orden no altera el valor. Los egipcios multiplicaban por **duplicaciones** sucesivas (papiro de Rhind, c. 1650 a. C.) y usaban fracciones unitarias (1/n).
+
+**Babilónico (mesopotámico)**: sexagesimal (base 60), con solo dos símbolos cuneiformes (cuña vertical = 1 y "espiga" = 10) combinados aditivamente dentro de cada posición, pero **posicional** entre posiciones. Durante mucho tiempo no tuvo cero, lo que generaba ambigüedad; más tarde se introdujo un signo separador. Su herencia pervive en la medida del tiempo (60 minutos, 60 segundos) y de los ángulos (360°).
+
+**Romano**: símbolos I (1), V (5), X (10), L (50), C (100), D (500), M (1.000). Básicamente aditivo con un **principio sustractivo** (IV = 4, IX = 9, XL = 40, XC = 90, CD = 400, CM = 900) y un **principio multiplicativo** (una raya horizontal sobre un símbolo multiplica su valor por 1.000). Reglas escolares: I, X, C y M pueden repetirse hasta tres veces; V, L y D no se repiten; solo I, X y C restan, y únicamente al símbolo de los dos inmediatamente superiores. Pervive en siglos, capítulos, nombres de reyes y papas, relojes, monumentos. Recurso de aula: buscar numeración romana en inscripciones de monumentos andaluces (por ejemplo, en Itálica o en el teatro romano de Málaga) en conexión con Conocimiento del Medio.
+
+**Griego**: el ático (aditivo, similar al romano) y el jónico o alfabético (24 letras más tres arcaicas para unidades, decenas y centenas).
+
+**Maya**: **vigesimal** (base 20) y **posicional**, con escritura vertical (las posiciones se leen de abajo arriba). Usaba tres símbolos: punto (1), raya (5) y concha (**cero**). En el cómputo calendárico el tercer orden valía 18 × 20 = 360 (no 400), por la relación con el año. Es uno de los primeros sistemas con un **cero** propio, desarrollado de forma independiente.
+
+**Chino**: tradicional multiplicativo-híbrido; los numerales con varillas permitían el cálculo posicional en tableros, antecedente del ábaco (*suanpan*).
+
+**Indoarábigo (decimal posicional)**: desarrollado en la India (con un cero plenamente operativo hacia los siglos V-VII; Brahmagupta, 628, formula reglas para operar con el cero), transmitido por los árabes (**al-Juarismi**, siglo IX, cuyo nombre origina la palabra "algoritmo" y cuya obra da nombre al "álgebra") y llegado a Europa a través de **al-Ándalus**. El *Codex Vigilanus* o Albeldense (976), copiado en el monasterio riojano de San Martín de Albelda, contiene la representación más antigua conocida de las nueve cifras indoarábigas en Occidente. **Gerberto de Aurillac** (futuro papa Silvestre II), que estudió en Cataluña, contribuyó a su difusión, y **Leonardo de Pisa (Fibonacci)** la popularizó con el *Liber Abaci* (1202). Su conexión con la historia de Andalucía es un excelente recurso para contextualizar el tema.
+
+### 3.4. El sistema de numeración decimal
+
+Características del sistema decimal:
+
+1. **Base 10**: diez unidades de un orden forman una unidad del orden inmediato superior (10 unidades = 1 decena; 10 decenas = 1 centena; 10 centenas = 1 unidad de millar...).
+2. **Diez símbolos o cifras**: 0, 1, 2, 3, 4, 5, 6, 7, 8 y 9.
+3. **Principio de posición**: cada cifra tiene un **valor absoluto** (el que tiene por sí misma) y un **valor relativo o posicional** (el que tiene por el lugar que ocupa). En 3.333, el primer 3 vale 3.000 y el último, 3.
+4. **Papel del cero**: indica la ausencia de unidades en un orden y mantiene las posiciones (305 ≠ 35).
+5. **Principio aditivo-multiplicativo**: el número es la suma de los productos de cada cifra por la potencia de la base correspondiente: 4.507 = 4 × 1.000 + 5 × 100 + 0 × 10 + 7 = 4 × 10³ + 5 × 10² + 7 × 10⁰ (**descomposición polinómica**, tercer ciclo).
+6. **Extensión a los decimales**: el principio de posición continúa a la derecha de la coma: décimas (1/10), centésimas (1/100), milésimas (1/1.000).
+7. **Agrupación por periodos** para la lectura: unidades, miles, millones (grupos de seis cifras: el **billón** en español es un millón de millones, 10¹², a diferencia del *billion* anglosajón, 10⁹, fuente de errores en la interpretación de noticias).
+
+**Numeración oral y numeración escrita**: no coinciden. La oral es un sistema híbrido (aditivo-multiplicativo) con irregularidades: once, doce... quince (frente a dieciséis, diecisiete), veinte (en lugar de "dos dieces"), quinientos. Esta falta de transparencia explica errores como escribir "100206" para "ciento veintiséis" o "3004" para "trescientos cuatro" (escritura **por yuxtaposición** de lo que se oye). Lerner y Sadovsky (1994) mostraron que los niños elaboran **hipótesis** sobre la escritura numérica ("cuantas más cifras, mayor es el número"; "el primero es el que manda") antes de comprender el valor posicional, y que la escuela debe aprovecharlas en vez de ignorarlas. Las lenguas asiáticas (chino, japonés, coreano) tienen numeraciones orales regulares ("diez-uno" para 11), lo que algunos estudios relacionan con una comprensión más temprana de la decena.
+
+### 3.5. Didáctica del valor posicional
+
+El **valor posicional** es el concepto más importante, y más difícil, de la numeración en Primaria. Su comprensión exige que el alumno entienda que una decena es **a la vez** "una" (unidad de orden superior) y "diez" (unidades); es la llamada **unitización** (Fosnot y Dolk, 2001).
+
+Secuencia didáctica recomendada:
+
+1. **Agrupar y desagrupar** objetos reales: palillos atados en haces de diez, garbanzos en vasos de diez, cubos encajables formando barras.
+2. **Material estructurado proporcional**: bloques multibase de Dienes (unidad, barra, placa, bloque), regletas.
+3. **Material no proporcional**: dinero (monedas de 1 €, billetes de 10 € y 100 €), ábaco vertical, fichas de colores con valor convencional. Es un paso más abstracto porque el tamaño no refleja el valor.
+4. **Representación gráfica**: tablas de valor posicional (C | D | U), dibujos esquemáticos (puntos, palitos, cuadrados).
+5. **Representación simbólica**: lectura, escritura, descomposiciones múltiples.
+
+Actividades clave:
+
+- **Descomposiciones no canónicas**: 245 = 2C + 4D + 5U, pero también = 24D + 5U = 1C + 14D + 5U = 245U. Son imprescindibles para comprender las "llevadas" y los préstamos en los algoritmos y para el cálculo mental.
+- **Tabla del 100** y patrones: al bajar una fila se suma 10; al avanzar una columna, 1.
+- **Juegos de base distinta de 10** (base 3, base 5 con multibase o con "el planeta de los marcianos de tres dedos"): ayudan a comprender la estructura del sistema sin el automatismo de la base 10. Deben usarse con moderación y con sentido.
+- **Contadores y cuentakilómetros**: observar qué pasa al llegar a 9, 99, 999.
+- **Cambiar en el banco**: juegos de intercambio de diez fichas de un color por una de otro.
+- **Composición con tarjetas de valor posicional** (*arrow cards*): superponer 300 + 40 + 7 para formar 347.
+
+> **Idea clave:** el sistema decimal es **posicional, de base 10, con cero** y aditivo-multiplicativo. Su comprensión se construye agrupando y desagrupando materiales, practicando **descomposiciones canónicas y no canónicas** y contrastándolo con sistemas aditivos (egipcio, romano) y con otras bases.

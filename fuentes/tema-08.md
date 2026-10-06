@@ -702,7 +702,7 @@ En definitiva, enseñar tiempo histórico es formar **ciudadanos y ciudadanas co
 
 - **1.º ciclo**: tiempo vivido; rutinas, calendario, reloj, historia personal, antes/ahora.
 - **2.º ciclo**: tiempo percibido; historia familiar y local, década/siglo, líneas a escala, fuentes orales y materiales, Prehistoria y Edad Antigua.
-- **3.er ciclo**: hacia el tiempo concebido; edades de la Historia, a.C./d.C., simultaneidad, causalidad múltiple, España y Andalucía contemporáneas.
+- **3.er ciclo**: transición al tiempo concebido; edades de la Historia, a.C./d.C., simultaneidad, causalidad múltiple, España y Andalucía contemporáneas.
 
 **6. Fuentes** → por origen: primarias / secundarias (terciarias) · por soporte: materiales, escritas, orales, iconográficas, audiovisuales, digitales, estadísticas-cartográficas · por intención: voluntarias / involuntarias · el patrimonio como fuente viva. Análisis: **¿qué es? ¿quién, cuándo, para qué? ¿qué nos dice? ¿es fiable? ¿qué no dice?**
 
@@ -729,7 +729,7 @@ En definitiva, enseñar tiempo histórico es formar **ciudadanos y ciudadanas co
    Que la Historia no podría enseñarse hasta el pensamiento formal. Calvani, Egan, Cooper y Pagès mostraron que la narración, la experiencia y las fuentes permiten comprender el pasado desde los primeros cursos, aunque con límites en las operaciones más abstractas.
 
 5. **Explique la secuencia de Hannoun.**
-   Tiempo vivido (experiencia subjetiva, Infantil y 1.º ciclo), tiempo percibido (exterior, observable y medible, 2.º ciclo) y tiempo concebido (abstracto y conceptual, desde el final de la etapa).
+   Tiempo vivido (hasta los 6-7 años: experiencia subjetiva ligada a la acción), tiempo percibido (aprox. 7-11/12 años: cambios observables y medida con instrumentos y apoyos concretos) y tiempo concebido (desde 11-12 años: abstracto, independiente de la experiencia, que permite el tiempo histórico pleno).
 
 6. **Diferencie tiempo cronológico y tiempo histórico.**
    El cronológico es instrumental (medida, orden, datación); el histórico es comprensivo (cambio y continuidad, causalidad, ritmos, periodización, conciencia histórica). El primero es necesario, pero no suficiente.

@@ -133,3 +133,107 @@ En la elaboración de cuestionarios conviene enseñar criterios de calidad: preg
 - **Registro corporal o con objetos**: en Infantil y primer ciclo los niños pueden formar "gráficos humanos" colocándose en filas según su respuesta, o apilar cubos encajables (*multilink*) por categorías, lo que constituye un paso intermedio muy potente entre el objeto y el gráfico.
 
 > **Idea clave:** la recogida debe partir de preguntas reales del alumnado y respetar el ciclo PPDAC. Los datos "de verdad", con su desorden y sus errores, enseñan más que los datos ficticios de los libros.
+
+## 4. Organización de la información: tablas estadísticas
+
+### 4.1. De los datos brutos a la tabla
+
+Organizar es **transformar los datos brutos en información**. El proceso habitual es: lista desordenada → ordenación (alfabética, numérica) → agrupación por valores o categorías → recuento → tabla de frecuencias. Wild y Pfannkuch llaman a este cambio de representación **transnumeración**: cada nueva representación permite ver algo que antes estaba oculto.
+
+En Primaria se trabajan varios tipos de tablas:
+
+- **Tablas de recuento** (con marcas).
+- **Tablas de frecuencias** de una variable.
+- **Tablas de doble entrada** (dos variables cualitativas cruzadas: por ejemplo, deporte favorito por sexo o por curso), muy útiles para comparar y para introducir la idea de asociación. También aparecen en horarios, calendarios, tablas de multiplicar o tablas de precios, lo que permite trabajar su lectura de forma transversal.
+- **Tablas de datos de fuentes oficiales** (tablas del IECA, del INE o de AEMET), cuya lectura exige identificar título, filas, columnas, unidades, fuente y fecha.
+
+### 4.2. Frecuencias
+
+Dado un conjunto de N datos, para cada valor o modalidad *xᵢ* se definen:
+
+| Frecuencia | Definición | Cálculo | Propiedad |
+|---|---|---|---|
+| **Absoluta (fᵢ o nᵢ)** | Número de veces que aparece el valor | Recuento | La suma de todas es N |
+| **Relativa (hᵢ)** | Proporción de veces que aparece | hᵢ = fᵢ / N | Entre 0 y 1; la suma es 1 |
+| **Porcentaje (%)** | Frecuencia relativa expresada sobre 100 | hᵢ × 100 | La suma es 100 % |
+| **Absoluta acumulada (Fᵢ)** | Número de datos menores o iguales que el valor (variables ordenables) | Suma de las fᵢ hasta ese valor | La última es N |
+| **Relativa acumulada (Hᵢ)** | Proporción acumulada | Fᵢ / N | La última es 1 |
+
+Ejemplo de 4.º curso, "Número de hermanos" en una clase de 25 alumnos:
+
+| Nº de hermanos (xᵢ) | Recuento | fᵢ | hᵢ | % | Fᵢ |
+|---|---|---|---|---|---|
+| 0 | ////  // | 7 | 7/25 = 0,28 | 28 % | 7 |
+| 1 | ////  ////  // | 12 | 0,48 | 48 % | 19 |
+| 2 | //// | 4 | 0,16 | 16 % | 23 |
+| 3 o más | // | 2 | 0,08 | 8 % | 25 |
+| **Total** | | **25** | **1** | **100 %** | |
+
+Secuencia curricular orientativa en Primaria:
+
+- **Primer ciclo (1.º-2.º)**: recuento y frecuencia absoluta; tablas sencillas con dibujos o palabras.
+- **Segundo ciclo (3.º-4.º)**: frecuencia absoluta en tablas, tablas de doble entrada sencillas; inicio de la comparación "la mitad", "la cuarta parte".
+- **Tercer ciclo (5.º-6.º)**: frecuencia relativa en forma de fracción, decimal y porcentaje, lo que conecta el bloque con el sentido numérico (fracciones, decimales, porcentajes). La frecuencia relativa es además el puente hacia la probabilidad frecuencial.
+
+La frecuencia relativa es esencial para **comparar grupos de distinto tamaño**: si a 12 de 25 alumnos de 4.º A y a 14 de 30 de 4.º B les gusta leer, no se puede concluir que "en 4.º B gusta más la lectura" sin comparar 48 % frente a 46,7 %. Este razonamiento proporcional es una de las grandes dificultades del alumnado y uno de los aprendizajes más valiosos del bloque.
+
+### 4.3. Agrupación en intervalos
+
+Cuando la variable es continua (o discreta con muchos valores), se agrupa en **intervalos o clases** de igual amplitud: por ejemplo, alturas en [120, 125), [125, 130)... cm. Cada intervalo se representa por su **marca de clase** (punto medio). En Primaria su uso es introductorio (tercer ciclo) y conviene hacerlo con datos medidos por el propio alumnado; el convenio de incluir el extremo izquierdo y excluir el derecho debe explicitarse para evitar que un dato se cuente dos veces.
+
+## 5. Representación de la información: gráficos estadísticos
+
+### 5.1. Función de los gráficos y elementos comunes
+
+Un gráfico estadístico es una representación visual que permite **captar de un vistazo la forma de una distribución, comparar valores y detectar tendencias**. Todo gráfico correcto debe incluir: **título**, **ejes rotulados** con el nombre de la variable y las unidades, **escala** adecuada y uniforme (que empiece en cero en gráficos de barras), **leyenda** si hay varias series y **fuente** de los datos. Enseñar a construir gráficos completos es también enseñar a exigir esos elementos cuando se leen gráficos ajenos.
+
+### 5.2. Tipos de gráficos y cuándo usar cada uno
+
+**a) Pictograma.** Representa las frecuencias mediante dibujos o iconos alusivos a la variable, todos del mismo tamaño y alineados. Cada icono puede valer una unidad (primer ciclo) o varias (segundo ciclo: "cada ⚽ representa 2 alumnos"), lo que exige interpretar fracciones de icono (medio balón = 1 alumno) y conecta con la multiplicación y la división. Es el primer gráfico que se enseña por su carácter concreto. Error típico: dibujar iconos de distinto tamaño o espaciado, lo que distorsiona la comparación.
+
+**b) Diagrama de barras.** Barras de igual anchura y separadas entre sí, cuya **altura (longitud) es proporcional a la frecuencia**. Adecuado para variables **cualitativas** y **cuantitativas discretas**. Puede ser vertical u horizontal (este último útil cuando las etiquetas son largas). Variantes: **barras agrupadas** o dobles (comparar dos grupos, por ejemplo chicos y chicas o dos cursos) y **barras apiladas**. Es el gráfico más versátil y el más presente en Primaria. Sus precursores manipulativos son las torres de cubos encajables y los "gráficos humanos".
+
+**c) Diagrama de sectores (gráfico circular o "de tarta").** Divide un círculo en sectores cuya **amplitud angular es proporcional a la frecuencia**: ángulo = hᵢ × 360°. Sirve para mostrar la **relación de cada parte con el todo** en variables cualitativas con pocas categorías. Exige conocimiento de fracciones, porcentajes y ángulos, por lo que su construcción con transportador es propia del tercer ciclo (6.º); su lectura cualitativa ("la mitad", "un cuarto") puede iniciarse antes. No sirve para comparar dos distribuciones de distinto tamaño ni para muchas categorías, ni tiene sentido para variables que no forman un todo.
+
+**d) Gráfico de líneas (poligonal o de evolución).** Une con segmentos los puntos que representan valores de una variable a lo largo del **tiempo** (serie temporal). Muestra **tendencias, crecimientos y decrecimientos**: temperatura de cada día de la semana, crecimiento de una planta, evolución de la población de un municipio andaluz según el IECA. Solo tiene sentido unir los puntos cuando la variable del eje horizontal es ordenada y continua (tiempo); unir con líneas las categorías "perro, gato, pez" es un error frecuente. El **polígono de frecuencias** une las marcas de clase de un histograma.
+
+**e) Histograma.** Rectángulos **adyacentes** (sin separación) cuya base es el intervalo de clase y cuya **área** es proporcional a la frecuencia (con intervalos iguales, también la altura). Se usa para **variables cuantitativas continuas agrupadas en intervalos**. Se introduce en el tercer ciclo de forma intuitiva y diferenciándolo del diagrama de barras: en el histograma la ausencia de huecos expresa la continuidad de la variable.
+
+**f) Diagrama de puntos (*dot plot*).** Sobre una recta numérica se coloca un punto (o una cruz, o un gomet) por cada dato encima de su valor. Es muy recomendado por la investigación (GAISE, Batanero) para Primaria porque **conserva cada dato individual**, muestra de un vistazo la **forma, el centro y la dispersión** de la distribución, los valores atípicos y los huecos, y es muy fácil de construir (un gomet por alumno en una recta dibujada en la pizarra). Prepara el terreno para los conceptos de distribución, moda, mediana y rango.
+
+**g) Otros gráficos de interés.** El **diagrama de tallo y hojas** (Tukey) organiza los datos conservando su valor; los **climogramas** (barras de precipitación y línea de temperatura) son un excelente puente con Conocimiento del Medio; los **diagramas de Venn y de Carroll** organizan clasificaciones con dos criterios; los **diagramas de árbol** se usan en combinatoria y probabilidad; los **mapas temáticos** (cartogramas) del IECA o del INE representan datos por provincias o municipios.
+
+Tabla de decisión:
+
+| Pregunta / situación | Variable | Gráfico más adecuado | Curso de introducción orientativo |
+|---|---|---|---|
+| Comparar cantidades de varias categorías | Cualitativa o discreta | Pictograma, barras | 1.º-2.º (pictograma, barras sencillas) |
+| Comparar dos grupos | Cualitativa | Barras agrupadas, tabla de doble entrada | 3.º-4.º |
+| Ver la parte respecto al todo | Cualitativa con pocas categorías | Sectores | 5.º-6.º (construcción) |
+| Mostrar evolución en el tiempo | Cuantitativa en función del tiempo | Líneas | 3.º-4.º lectura; 5.º-6.º construcción |
+| Ver la forma de una distribución numérica | Cuantitativa | Diagrama de puntos; histograma si es continua y hay muchos datos | Puntos desde 2.º-3.º; histograma 6.º |
+| Clasificar con dos criterios | Cualitativas | Diagrama de Venn / Carroll | 1.º-3.º |
+
+### 5.3. Medidas de centralización y dispersión
+
+Las medidas estadísticas **resumen** un conjunto de datos en un único número. En Primaria se trabajan:
+
+- **Moda (Mo)**: valor con mayor frecuencia absoluta. Es la única medida válida para variables cualitativas nominales. Puede haber más de una (distribución bimodal) o ninguna clara. Es la más intuitiva: "lo que más se repite", la barra más alta.
+- **Media aritmética (x̄)**: suma de todos los datos dividida entre el número de datos: x̄ = Σxᵢ / N (o Σxᵢfᵢ / N con frecuencias). Solo para variables cuantitativas. Se introduce con su significado de **reparto equitativo** ("igualar las torres de cubos": si cinco torres tienen 3, 5, 2, 6 y 4 cubos, al igualarlas cada una tendrá 4) y de **punto de equilibrio**. Es sensible a los valores extremos.
+- **Mediana (Me)**: valor central de los datos ordenados; deja la mitad por debajo y la mitad por encima. Con N impar es el dato central; con N par, la media de los dos centrales. Es **robusta** frente a valores atípicos. Puede trabajarse físicamente ordenando al alumnado por altura y buscando "el del medio".
+- **Rango o recorrido**: diferencia entre el valor máximo y el mínimo. Es la medida de **dispersión** más sencilla y transmite la idea de variabilidad: dos clases pueden tener la misma media y distinto rango.
+
+Ejemplo: tiempos (en segundos) de 7 alumnos en una carrera de 60 m: 10, 11, 11, 12, 13, 14, 26.
+
+| Medida | Cálculo | Resultado | Comentario |
+|---|---|---|---|
+| Moda | Valor más repetido | 11 s | |
+| Mediana | Dato central de los 7 ordenados | 12 s | No le afecta el 26 |
+| Media | 97 / 7 | ≈ 13,9 s | Arrastrada por el 26 (alumno lesionado) |
+| Rango | 26 − 10 | 16 s | Muy influido por el atípico |
+
+El ejemplo muestra por qué **ningún promedio es "el correcto" en abstracto**: la elección depende de la variable y del propósito. En los medios se usa a veces la media donde sería más honesta la mediana (por ejemplo, en salarios o precios de vivienda).
+
+Secuenciación orientativa en Primaria: moda desde el primer ciclo de manera intuitiva ("lo que más hay"); moda, rango y media como reparto en el segundo ciclo; media, mediana, moda y rango con cálculo y elección razonada en el tercer ciclo, con apoyo de calculadora y hoja de cálculo.
+
+> **Idea clave:** cada gráfico responde a un tipo de variable y a una pregunta. Barras (comparar categorías), sectores (parte-todo), líneas (evolución temporal), histograma (continua agrupada), diagrama de puntos (forma de la distribución). La media es reparto equitativo; la mediana, el valor central robusto; la moda, el más frecuente; el rango, la variabilidad.
