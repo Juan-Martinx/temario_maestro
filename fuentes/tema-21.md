@@ -95,3 +95,150 @@ Entre los principios metodológicos que recogen la normativa estatal y andaluza 
 
 > **Idea clave:** en el currículo LOMLOE la resolución de problemas recorre las competencias específicas como un ciclo completo: **interpretar** (CE1) → **resolver** (CE2) → **conjeturar y plantear** (CE3) → **algoritmizar** (CE4) → **conectar** (CE5) → **comunicar** (CE6), todo ello sostenido por la **gestión emocional** (CE7) y el **trabajo en equipo** (CE8).
 
+## 4. Diferentes clases de problemas
+
+No existe una única clasificación; cada una responde a un criterio. Para el maestro, conocer las clasificaciones no es un fin erudito: permite **diagnosticar** qué tipos domina el alumnado, **secuenciar** la enseñanza de menor a mayor dificultad y **garantizar la variedad** (evitando que el alumnado solo resuelva un tipo de problema que acaba convirtiéndose en ejercicio).
+
+### 4.1. Criterios generales de clasificación
+
+| Criterio | Tipos |
+|---|---|
+| **Finalidad** (Polya, 1945) | Problemas *por resolver* (encontrar la incógnita) y problemas *por demostrar* (decidir si una afirmación es verdadera o falsa) |
+| **Grado de apertura** | **Cerrados** (datos completos, solución única) y **abiertos** (varias soluciones, varios caminos, o datos que hay que decidir) |
+| **Contexto** | Reales, realistas, fantasiosos, puramente matemáticos (Blanco Nieto) |
+| **Número de operaciones** | De una etapa (simples) y de varias etapas (combinados o compuestos) |
+| **Contenido matemático** | Aritméticos, geométricos, de medida, de lógica, de estadística y probabilidad, algebraicos (patrones, relaciones) |
+| **Naturaleza de los datos** | Con datos suficientes, superfluos, insuficientes o contradictorios |
+| **Formato** | Enunciado verbal, gráfico, con tabla, manipulativo, oral, digital, con imagen ("fotoproblemas") |
+| **Estructura semántica** | Aditivos (cambio, combinación, comparación, igualación) y multiplicativos (proporcionalidad simple, comparación multiplicativa, producto cartesiano) |
+| **Origen** | Propuestos por el docente, por el libro de texto o **inventados por el alumnado** |
+
+### 4.2. Problemas aritméticos de estructura aditiva
+
+Los trabajos de **Vergnaud** (1982, 1990, teoría de los campos conceptuales), **Carpenter y Moser** (1983), **Heller y Greeno** (1978), **Riley, Greeno y Heller** (1983), **Nesher** (1982) y, en España, **Puig y Cerdán** (1988, *Problemas aritméticos escolares*) y **Castro, Rico y Castro** demostraron que la dificultad de un problema aditivo de una etapa no depende tanto de la operación (sumar o restar) como de su **estructura semántica** y de **cuál es la cantidad desconocida**. El **campo conceptual aditivo** incluye las situaciones que se resuelven con sumas, restas o combinaciones de ambas. Se distinguen cuatro categorías:
+
+#### 4.2.1. Problemas de cambio
+
+Una cantidad inicial sufre una transformación (aumento o disminución) a lo largo del tiempo y da lugar a una cantidad final. Hay acción y secuencia temporal. Tres cantidades: **inicial (Ci)**, **cambio (C)** y **final (Cf)**. Combinando el sentido del cambio (crecer o decrecer) y la incógnita, resultan **seis subtipos**:
+
+| Subtipo | Incógnita | Sentido | Ejemplo | Operación |
+|---|---|---|---|---|
+| **CA1** | Final | Aumento | Lucía tenía 7 cromos. Su abuela le regala 5. ¿Cuántos tiene ahora? | 7 + 5 |
+| **CA2** | Final | Disminución | Lucía tenía 12 cromos. Pierde 5. ¿Cuántos le quedan? | 12 − 5 |
+| **CA3** | Cambio | Aumento | Lucía tenía 7 cromos. Su abuela le regala algunos y ahora tiene 12. ¿Cuántos le ha regalado? | 12 − 7 |
+| **CA4** | Cambio | Disminución | Lucía tenía 12 cromos. Pierde algunos y le quedan 7. ¿Cuántos ha perdido? | 12 − 7 |
+| **CA5** | Inicial | Aumento | Lucía tenía algunos cromos. Su abuela le regala 5 y ahora tiene 12. ¿Cuántos tenía al principio? | 12 − 5 |
+| **CA6** | Inicial | Disminución | Lucía tenía algunos cromos. Pierde 5 y le quedan 7. ¿Cuántos tenía? | 7 + 5 |
+
+Los subtipos con incógnita en la cantidad inicial (CA5, CA6) son los más difíciles: exigen **invertir mentalmente la transformación** (reversibilidad, en términos piagetianos) y, a menudo, la operación es **incongruente** con la palabra del enunciado (en CA6 "pierde" sugiere restar, pero se suma).
+
+#### 4.2.2. Problemas de combinación
+
+Describen una relación estática entre un conjunto y sus dos partes disjuntas (relación **parte-parte-todo**). No hay acción ni tiempo.
+
+| Subtipo | Incógnita | Ejemplo | Operación |
+|---|---|---|---|
+| **CO1** | El todo | En la clase hay 13 niñas y 11 niños. ¿Cuántos alumnos hay? | 13 + 11 |
+| **CO2** | Una parte | En la clase hay 24 alumnos; 13 son niñas. ¿Cuántos niños hay? | 24 − 13 |
+
+CO2 requiere comprender la inclusión jerárquica de clases (el todo contiene a las partes), lo que Piaget sitúa en la etapa de las operaciones concretas.
+
+#### 4.2.3. Problemas de comparación
+
+Se establece una relación estática de comparación entre dos cantidades mediante expresiones como "más que" o "menos que". Cantidades: **referente**, **comparada** y **diferencia**. Seis subtipos:
+
+| Subtipo | Incógnita | Expresión | Ejemplo | Operación |
+|---|---|---|---|---|
+| **CM1** | Diferencia | más que | Ana tiene 9 canicas y Pablo 5. ¿Cuántas tiene Ana más que Pablo? | 9 − 5 |
+| **CM2** | Diferencia | menos que | Ana tiene 9 canicas y Pablo 5. ¿Cuántas tiene Pablo menos que Ana? | 9 − 5 |
+| **CM3** | Comparada | más que | Pablo tiene 5 canicas. Ana tiene 4 más que Pablo. ¿Cuántas tiene Ana? | 5 + 4 |
+| **CM4** | Comparada | menos que | Ana tiene 9 canicas. Pablo tiene 4 menos que Ana. ¿Cuántas tiene Pablo? | 9 − 4 |
+| **CM5** | Referente | más que | Ana tiene 9 canicas; tiene 4 más que Pablo. ¿Cuántas tiene Pablo? | 9 − 4 |
+| **CM6** | Referente | menos que | Pablo tiene 5 canicas; tiene 4 menos que Ana. ¿Cuántas tiene Ana? | 5 + 4 |
+
+CM5 y CM6 son los problemas aditivos más difíciles de toda la clasificación: el lenguaje es **inconsistente** con la operación ("más" → restar; "menos" → sumar) y obligan a reformular la relación ("si Ana tiene 4 más que Pablo, Pablo tiene 4 menos que Ana"). Son el ejemplo paradigmático de por qué la **estrategia de la palabra clave** es perjudicial.
+
+#### 4.2.4. Problemas de igualación
+
+Combinan cambio y comparación: se pregunta qué transformación haría falta para que una cantidad se iguale a otra ("¿cuántas le faltan para tener tantas como...?").
+
+| Subtipo | Incógnita | Ejemplo | Operación |
+|---|---|---|---|
+| **IG1** | Igualación (aumentar la menor) | Ana tiene 9 canicas y Pablo 5. ¿Cuántas tiene que ganar Pablo para tener tantas como Ana? | 9 − 5 |
+| **IG2** | Igualación (disminuir la mayor) | Ana tiene 9 canicas y Pablo 5. ¿Cuántas tiene que perder Ana para tener las mismas que Pablo? | 9 − 5 |
+| **IG3** | Comparada (aumentando) | Pablo tiene 5 canicas. Si gana 4, tendrá tantas como Ana. ¿Cuántas tiene Ana? | 5 + 4 |
+| **IG4** | Comparada (disminuyendo) | Ana tiene 9 canicas. Si Pablo pierde 3, tendrá tantas como Ana. ¿Cuántas tiene Pablo? | 9 + 3 |
+| **IG5** | Referente (aumentando) | Pablo tiene 5 canicas. Si Ana gana 2, tendrá tantas como Pablo. ¿Cuántas tiene Ana? | 5 − 2 |
+| **IG6** | Referente (disminuyendo) | Ana tiene 9 canicas. Si Ana pierde 3, tendrá tantas como Pablo. ¿Cuántas tiene Pablo? | 9 − 3 |
+
+En total, **20 subtipos** de problemas aditivos simples (6 + 2 + 6 + 6). Las investigaciones coinciden en un orden aproximado de dificultad: cambio con incógnita final y combinación-todo son los más fáciles (accesibles en Educación Infantil y 1.º); cambio con incógnita en el cambio, combinación-parte y comparación-diferencia, de dificultad media; y cambio con incógnita inicial, comparación-referente e igualación con referente desconocido, los más complejos (2.º–4.º curso).
+
+> **Idea clave:** el maestro debe **presentar los veinte subtipos a lo largo del primer y segundo ciclo**, no solo los "fáciles" que predominan en los libros de texto (cambio-final y combinación-todo). La variedad semántica es la mejor vacuna contra la resolución mecánica.
+
+#### 4.2.5. Problemas aditivos de varias etapas
+
+Combinan dos o más relaciones simples (p. ej., cambio + combinación). Puig y Cerdán (1988) los analizan mediante **diagramas de árbol** que encadenan las relaciones. Ejemplo (2.º ciclo): "En el autobús viajan 28 personas. En una parada bajan 9 y suben 14. ¿Cuántas personas hay ahora?" (dos cambios consecutivos; puede resolverse como 28 − 9 + 14 o, con un razonamiento más elegante, 28 + (14 − 9)). La dificultad aumenta con el número de etapas, con la presencia de **datos intermedios ocultos** (que el enunciado no pregunta explícitamente) y con el orden de presentación de los datos.
+
+### 4.3. Problemas aritméticos de estructura multiplicativa
+
+El **campo conceptual multiplicativo** (Vergnaud, 1983, 1988) comprende las situaciones que se resuelven con multiplicaciones, divisiones o combinaciones de ambas. Vergnaud distingue tres grandes clases, que en la literatura didáctica española (Castro, Rico y Castro, 1995; Puig y Cerdán) se concretan así:
+
+#### 4.3.1. Proporcionalidad simple (isomorfismo de medidas)
+
+Relación de proporcionalidad directa entre dos espacios de medida (personas y caramelos, cajas y botellas, kilos y euros). Una de las cantidades es siempre la **unidad** o valor unitario. Según la incógnita, aparecen tres problemas:
+
+| Tipo | Incógnita | Ejemplo | Operación |
+|---|---|---|---|
+| **Multiplicación** | Total | Cada caja trae 6 botellas de aceite. ¿Cuántas botellas hay en 8 cajas? | 8 × 6 |
+| **División partitiva o de reparto** | Valor de cada parte | Repartimos 48 botellas en 8 cajas iguales. ¿Cuántas van en cada caja? | 48 : 8 |
+| **División cuotitiva o de agrupamiento (medida)** | Número de partes | Tenemos 48 botellas y en cada caja caben 6. ¿Cuántas cajas llenamos? | 48 : 6 |
+
+Distinguir **reparto** y **agrupamiento** es clave: son dos significados distintos de la división que el alumnado modeliza de forma diferente con material (repartir de uno en uno frente a formar grupos). En situaciones de división también hay que interpretar el **resto** (Silver, 1988): "Hay 50 alumnos y en cada autobús caben 12, ¿cuántos autobuses hacen falta?" exige responder 5, no 4,16 ni "4 y sobran 2". Incluye también los problemas de **razón o tasa** (precio por unidad, velocidad, consumo).
+
+#### 4.3.2. Comparación multiplicativa (escalar)
+
+Se comparan dos cantidades de la misma magnitud mediante un factor escalar ("veces más", "veces menos", "el doble", "la mitad", "la tercera parte").
+
+| Incógnita | Ejemplo | Operación |
+|---|---|---|
+| Cantidad comparada | Marta tiene 6 años; su padre tiene 7 veces su edad. ¿Cuántos años tiene su padre? | 6 × 7 |
+| Escalar (factor) | Marta tiene 6 años y su padre 42. ¿Cuántas veces mayor es la edad del padre? | 42 : 6 |
+| Referente | El padre de Marta tiene 42 años, que son 7 veces la edad de Marta. ¿Cuántos años tiene Marta? | 42 : 7 |
+
+Al igual que en la comparación aditiva, el caso de **referente desconocido** genera el mayor número de errores por la inconsistencia léxica ("veces más" → dividir). Debe cuidarse además la ambigüedad lingüística de "veces menos", poco recomendable.
+
+#### 4.3.3. Producto cartesiano (producto de medidas)
+
+Una tercera cantidad resulta de combinar todos los elementos de dos conjuntos (combinatoria) o del producto de dos magnitudes (área = largo × ancho).
+
+| Incógnita | Ejemplo | Operación |
+|---|---|---|
+| Producto | En el menú del comedor hay 3 primeros y 4 segundos. ¿Cuántos menús distintos se pueden formar? | 3 × 4 |
+| Un factor | Con varias camisetas y 3 pantalones se pueden formar 15 conjuntos. ¿Cuántas camisetas hay? | 15 : 3 |
+
+Es la estructura más abstracta: no hay "grupos iguales" visibles y su representación natural es la **tabla de doble entrada** o el **diagrama de árbol**. Se introduce de forma manipulativa en el segundo ciclo y se consolida en el tercero (iniciación a la combinatoria).
+
+#### 4.3.4. Problemas de proporcionalidad múltiple y mixtos
+
+En el tercer ciclo aparecen problemas que combinan estructuras aditivas y multiplicativas, porcentajes (proporcionalidad con base 100), escalas en planos y mapas, regla de tres simple directa y repartos proporcionales. Su resolución se apoya en la **tabla de proporcionalidad**, la reducción a la unidad y el modelo de barras.
+
+### 4.4. Otras clases de problemas
+
+Además de los aritméticos de enunciado verbal, el currículo LOMLOE exige trabajar una tipología mucho más rica, ligada a todos los sentidos matemáticos:
+
+- **Problemas de lógica y razonamiento**: deducción a partir de pistas (tablas lógicas tipo "¿quién vive en cada casa?"), problemas de verdad/mentira, criptogramas, cuadrados mágicos, pesadas con balanza, problemas de cerillas. Desarrollan el razonamiento deductivo y la organización de la información. Ejemplo (2.º ciclo): "Tres amigas, Inés, Carmen y Rocío, practican fútbol, natación y baloncesto. Inés no juega con balón. Carmen no practica fútbol. ¿Qué deporte practica cada una?" (Inés: natación; Carmen: baloncesto; Rocío: fútbol).
+- **Problemas geométricos y espaciales**: construcción con tangram, pentominós o geoplano; recuentos (¿cuántos triángulos hay en esta figura?); recorridos en planos; visualización de cuerpos (desarrollos planos del cubo); simetrías y teselados (mosaicos de la Alhambra). Ejemplo: "¿Cuántos cuadrados hay en un tablero de 3 × 3?" (9 + 4 + 1 = 14).
+- **Problemas abiertos**: admiten varias soluciones o varios caminos ("Escribe todas las formas de pagar 1 € con monedas de 10, 20 y 50 céntimos"; "Diseña un horario para el torneo de fútbol del recreo"). Favorecen la creatividad, la búsqueda sistemática y la atención a la diversidad (suelo bajo y techo alto, *low floor, high ceiling*).
+- **Problemas de estimación**: el objetivo es obtener un valor aproximado razonable sin cálculo exacto ("¿Cuántas lentejas hay en este bote?", "¿Cuánto pesará la mochila de la clase entera?"). Desarrollan el sentido numérico y de la medida y la capacidad de juzgar la razonabilidad de un resultado.
+- **Problemas de Fermi**: llamados así por el físico Enrico Fermi, que los proponía a sus estudiantes. Son preguntas aparentemente imposibles de contestar con exactitud que exigen descomponer el problema en subproblemas, hacer suposiciones razonables y estimar ("¿Cuántos litros de agua gasta nuestro colegio en un mes?", "¿Cuántas personas caben en la plaza del pueblo durante la feria?"). Albarracín y Gorgorió (2014) los han estudiado como vía de iniciación a la **modelización matemática**.
+- **Problemas de patrones y regularidades (pensamiento algebraico)**: continuar secuencias, descubrir la regla y generalizar ("¿Cuántos palillos necesito para construir 10 cuadrados en fila? ¿Y para 100?": 3 × n + 1 → 31 y 301). Vinculados a la CE4 (pensamiento computacional) y al sentido algebraico.
+- **Problemas de recuento y combinatoria**: "¿De cuántas maneras pueden sentarse 3 amigos en un banco?" (6).
+- **Problemas de estadística y probabilidad**: interpretar gráficos, recoger datos para responder una pregunta, juegos de azar ("¿es justo este juego de dados?").
+- **Problemas de medida**: tiempo, dinero, longitudes, capacidades, masas; con unidades convencionales y no convencionales; ligados a contextos como la compra, las recetas o los viajes.
+- **Problemas con datos superfluos, insuficientes o sin solución**: obligan a una lectura crítica ("¿Se puede responder? ¿Qué dato falta?").
+- **Problemas sin números o con pregunta abierta**: "Inventa la pregunta"; "¿Qué operación harías? No calcules". Centran la atención en la comprensión, no en el cálculo.
+- **Retos, juegos de estrategia y problemas recreativos**: Nim, juegos de "el que llegue a 20 gana", problemas de cruces del río; muy utilizados por Miguel de Guzmán como "juegos de matemáticas".
+- **Situaciones problemáticas reales o proyectos de modelización**: organizar la excursión, presupuestar la fiesta de fin de curso, diseñar el huerto escolar. Integran varios contenidos y competencias y son el núcleo natural de las **situaciones de aprendizaje**.
+
+> **Idea clave:** una buena programación de aula combina **problemas rutinarios** (para consolidar los significados de las operaciones) con **problemas no rutinarios** (lógica, patrones, Fermi, abiertos), que son los que realmente desarrollan heurísticas y pensamiento flexible.
+

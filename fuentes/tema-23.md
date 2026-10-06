@@ -106,3 +106,125 @@ La didáctica de la medida recomienda una progresión que reproduce, en cierto m
 
 Introducir el metro sin haber pasado por las unidades no convencionales priva al alumnado de comprender **por qué** existen las unidades convencionales y **qué hace** un instrumento de medida (que no es otra cosa que una unidad iterada y graduada).
 
+## 3. Unidades de medida: sistemas de unidades
+
+### 3.1. Las medidas antiguas y la diversidad de unidades
+
+Antes del siglo XIX, cada reino, e incluso cada comarca, tenía sus propias unidades, generalmente de origen **antropométrico** (codo, pie, palmo, pulgada, paso, braza) o ligadas a actividades agrícolas (la **fanega** como superficie que podía sembrarse con una fanega de grano; la **yugada** como tierra que una yunta de bueyes podía arar en un día). Las unidades no seguían una estructura decimal, sino divisiones en mitades, tercios y cuartos (la vara castellana se dividía en 3 pies, el pie en 12 pulgadas...), lo que dificultaba el cálculo y favorecía el fraude en el comercio.
+
+En Castilla, la unificación se intentó en varias ocasiones tomando como patrón la **vara de Burgos** (aproximadamente 0,836 m). En Andalucía todavía perviven en el habla y en el mundo rural unidades tradicionales como la **fanega** y la **aranzada** (superficie agraria, de valor variable según la comarca), la **arroba** (unos 11,5 kg de peso, o una medida de capacidad para vino y aceite), la **libra**, la **cuartilla** o la **legua**. Trabajar estas unidades con el alumnado, preguntando a los abuelos o visitando una almazara o un mercado, es una excelente forma de conectar la medida con la **cultura andaluza** y de mostrar el carácter histórico y convencional de las unidades.
+
+### 3.2. El Sistema Métrico Decimal: origen e historia
+
+El **Sistema Métrico Decimal (SMD)** nació en Francia durante la Revolución, con el ideal ilustrado de un sistema de medidas «para todos los tiempos y para todos los pueblos», basado en la naturaleza y no en el cuerpo de un monarca. Hitos fundamentales:
+
+- **1790-1791**: la Asamblea Nacional encarga a la Academia de Ciencias de París un sistema uniforme. La comisión (con científicos como Borda, Lagrange, Laplace, Monge y Condorcet) propone definir el **metro** como **la diezmillonésima parte del cuadrante del meridiano terrestre** (la distancia del Polo Norte al Ecuador, pasando por París).
+- **1792-1798**: los astrónomos **Delambre y Méchain** miden por triangulación el arco de meridiano entre Dunkerque y Barcelona. La participación española y la medición en Cataluña forman parte de esta historia.
+- **1799**: se depositan en los Archivos de la República los patrones de platino del metro y del kilogramo (el *mètre des Archives* y el *kilogramme des Archives*). El **kilogramo** se definió como la masa de un decímetro cúbico de agua destilada a la temperatura de su máxima densidad (unos 4 °C), y el **litro** como el volumen de un decímetro cúbico. Así, longitud, capacidad y masa quedaban relacionadas de forma sencilla.
+- **1849**: **España adopta el Sistema Métrico Decimal** mediante la Ley de Pesas y Medidas de 19 de julio de 1849, aunque su implantación efectiva en la vida cotidiana fue lenta y se prolongó durante décadas.
+- **1875**: diecisiete países, entre ellos España, firman en París la **Convención del Metro**, que crea la Oficina Internacional de Pesas y Medidas (BIPM, en Sèvres) y la Conferencia General de Pesas y Medidas (CGPM). En 1889 se sancionan los nuevos prototipos internacionales de platino iridiado.
+
+Las ventajas del SMD, que conviene explicar al alumnado, son: (1) es **decimal**, coherente con nuestro sistema de numeración, por lo que las conversiones se reducen a multiplicar o dividir por potencias de 10; (2) usa **prefijos comunes** para todas las magnitudes (kilo-, hecto-, deca-, deci-, centi-, mili-); (3) relaciona longitud, capacidad y masa; y (4) es **universal**.
+
+**Prefijos del SMD (uso en Primaria):**
+
+| Prefijo | Símbolo | Factor | Origen |
+|---|---|---|---|
+| kilo- | k | 1 000 | griego (mil) |
+| hecto- | h | 100 | griego (cien) |
+| deca- | da | 10 | griego (diez) |
+| — (unidad) | — | 1 | — |
+| deci- | d | 0,1 | latín (décima) |
+| centi- | c | 0,01 | latín (centésima) |
+| mili- | m | 0,001 | latín (milésima) |
+
+Una regla mnemotécnica útil: los prefijos **griegos multiplican** y los **latinos dividen**. En el tercer ciclo pueden mencionarse también mega- (10⁶), giga- (10⁹), tera- (10¹²) y micro- (10⁻⁶), muy presentes en el lenguaje tecnológico (megabytes, gigabytes, micras).
+
+### 3.3. El Sistema Internacional de Unidades (SI)
+
+El **Sistema Internacional de Unidades (SI)** fue adoptado por la **XI Conferencia General de Pesas y Medidas en 1960** como evolución y ampliación del sistema métrico. Es hoy el sistema legal en España y en la práctica totalidad de los países. En España, la **Ley 3/1985, de 18 de marzo, de Metrología** declara el SI como sistema legal de unidades de medida, desarrollado por el **Real Decreto 2032/2009, de 30 de diciembre**, que establece las unidades legales de medida.
+
+El SI consta de **siete unidades básicas**:
+
+| Magnitud | Unidad | Símbolo |
+|---|---|---|
+| Longitud | metro | m |
+| Masa | kilogramo | kg |
+| Tiempo | segundo | s |
+| Intensidad de corriente eléctrica | amperio | A |
+| Temperatura termodinámica | kelvin | K |
+| Cantidad de sustancia | mol | mol |
+| Intensidad luminosa | candela | cd |
+
+A partir de ellas se definen las **unidades derivadas** (metro cuadrado, metro cúbico, metro por segundo, newton, julio, vatio, radián...). Se aceptan además unidades de uso común fuera del SI: litro, minuto, hora, día, grado sexagesimal, hectárea, tonelada o grado Celsius (unidad derivada con nombre especial).
+
+Las definiciones han evolucionado hacia **constantes de la naturaleza**: desde **1983** el metro se define como la longitud recorrida por la luz en el vacío durante 1/299 792 458 de segundo; y desde la **revisión del SI aprobada en 2018 por la XXVI CGPM y en vigor desde el 20 de mayo de 2019**, todas las unidades básicas se definen a partir de constantes físicas fijadas (el kilogramo, mediante la constante de Planck), abandonándose el prototipo material del kilogramo. Este dato, aunque excede el currículo de Primaria, muestra al tribunal actualización científica y permite transmitir al alumnado que **las unidades son acuerdos humanos que se perfeccionan**.
+
+**Normas de escritura del SI** (errores muy frecuentes, también en libros de texto): los símbolos no son abreviaturas, se escriben sin punto final (salvo fin de frase), no tienen plural («5 km», nunca «5 kms»), van en minúscula salvo los derivados de nombres propios (K, A, N) y el litro, que admite «l» o «L»; se deja un espacio entre el número y el símbolo («20 °C», «3 m»); y en España el separador decimal es la **coma**, aunque se admite el punto, y los millares se separan con un espacio fino, no con punto (12 345).
+
+> **Idea clave:** SMD y SI no son lo mismo. El SMD es el sistema decimal histórico de unidades (metro, litro, gramo, área); el SI es el sistema legal actual, basado en 7 unidades básicas definidas a partir de constantes universales.
+
+## 4. Las magnitudes del currículo: unidades, equivalencias e instrumentos
+
+### 4.1. Longitud
+
+La **longitud** es la magnitud que expresa la distancia entre dos puntos o la extensión de un objeto en una dimensión. Es la primera magnitud que se trabaja, porque es la más perceptible, la que se conserva antes y la que permite visualizar mejor la iteración de la unidad. Sus diferentes manifestaciones (largo, ancho, alto, grosor, profundidad, distancia, perímetro, contorno) deben nombrarse explícitamente, ya que el alumnado no siempre reconoce que «altura» y «anchura» son la misma magnitud.
+
+**Unidades**: la unidad principal es el **metro (m)**. Múltiplos: decámetro (dam), hectómetro (hm), kilómetro (km). Submúltiplos: decímetro (dm), centímetro (cm), milímetro (mm). Cada unidad es **10 veces** mayor que la inmediata inferior.
+
+km → hm → dam → **m** → dm → cm → mm (cada paso: ×10 hacia la derecha, ÷10 hacia la izquierda)
+
+Unidades de uso cotidiano a destacar: el **kilómetro** para distancias entre localidades (Sevilla–Córdoba, unos 140 km por carretera), el **centímetro** y el **milímetro** para objetos pequeños. Pueden mencionarse unidades no métricas presentes en la vida diaria: la **pulgada** (tamaño de pantallas, ≈ 2,54 cm), la **milla** (≈ 1,6 km) o la **milla náutica** (1 852 m).
+
+**Instrumentos**: regla graduada, cinta métrica de costura, metro de carpintero (plegable), flexómetro, cinta métrica de agrimensor, rueda de medir (odómetro o «rueda métrica»), calibre o pie de rey (para el tercer ciclo), cuentakilómetros, podómetro y aplicaciones digitales de medición con realidad aumentada.
+
+**Errores típicos con la regla**: empezar a medir en el 1 en lugar de en el 0, no alinear el cero con el extremo del objeto, contar las marcas en lugar de los intervalos, no considerar la parte de la regla anterior al cero o leer mal los milímetros. Un buen ejercicio es medir con una **regla rota** (que empieza en el 3), lo que obliga a comprender que la medida es la **diferencia** entre las lecturas de los extremos y no el número en el que termina el objeto.
+
+### 4.2. Masa y peso
+
+Es imprescindible distinguir, al menos en el profesorado y progresivamente en el alumnado del tercer ciclo:
+
+- **Masa**: cantidad de materia de un cuerpo. Es una magnitud escalar, **invariable** con la posición del cuerpo. Su unidad en el SI es el **kilogramo (kg)**. Se mide con **balanzas** (de platillos, de Roberval, romana), que comparan masas y darían el mismo resultado en la Luna.
+- **Peso**: fuerza con que la Tierra atrae a un cuerpo (P = m · g). Es una magnitud **vectorial** que **varía** con la gravedad: un astronauta de 70 kg de masa pesa en la Luna aproximadamente la sexta parte que en la Tierra, aunque su masa es la misma. Su unidad en el SI es el **newton (N)**. Se mide con **dinamómetros**, que funcionan mediante un muelle.
+
+En el lenguaje cotidiano decimos «peso 30 kilos» y las básculas de baño, que son en realidad dinamómetros calibrados, marcan kilogramos. El currículo de Primaria, por razones de funcionalidad, admite el uso coloquial de «pesar» para referirse a la masa; pero el docente debe usar con rigor los términos y, en el tercer ciclo, en conexión con el área de Conocimiento del Medio Natural, Social y Cultural (fuerzas y movimiento), puede plantear la diferencia con ejemplos del espacio.
+
+**Unidades**: gramo como unidad de referencia del SMD; kilogramo como unidad básica del SI (curiosamente, la única unidad básica con prefijo). Múltiplos y submúltiplos: kg, hg, dag, **g**, dg, cg, mg. Además, la **tonelada métrica (t) = 1 000 kg** y el **quintal métrico (q) = 100 kg**, muy útiles en contextos agrícolas andaluces (producción de aceituna o de aceite, cosecha de fresas). Unidades cotidianas: medio kilo, cuarto de kilo (250 g), cuarto y mitad (375 g), expresiones que conectan la medida con las **fracciones**.
+
+**Instrumentos**: balanza de dos platillos (permite trabajar la **comparación** y la **igualdad**, base también del pensamiento algebraico), balanza de Roberval, romana, báscula de baño, balanza de cocina analógica y digital, balanza de precisión, dinamómetro.
+
+### 4.3. Capacidad y volumen
+
+- **Volumen**: espacio que ocupa un cuerpo. Es una magnitud derivada de la longitud (longitud³). Unidad SI: **metro cúbico (m³)**.
+- **Capacidad**: espacio **interior** de un recipiente, es decir, la cantidad de sustancia (líquida o granulada) que puede contener. Es, en rigor, el volumen del hueco del recipiente. Unidad usual: **litro (L)**.
+
+Didácticamente se trabajan por separado porque su percepción es distinta: la capacidad se asocia a **llenar y vaciar** recipientes (trasvases), mientras que el volumen se asocia a **ocupar espacio** (construir con cubos, sumergir objetos). La conservación del volumen es, además, la más tardía.
+
+**Unidades de capacidad**: kl, hl, dal, **L**, dl, cl, ml. En la vida cotidiana se usan sobre todo el litro, el medio litro, el cuarto de litro, el centilitro (latas de 33 cl) y el mililitro (medicamentos, jeringas). El hectolitro aparece en la producción de vino o aceite.
+
+**Unidades de volumen**: km³, hm³, dam³, **m³**, dm³, cm³, mm³. Cada unidad es **1 000 veces** mayor que la inmediata inferior, porque cada «cubo» contiene 10 × 10 × 10 cubos de la unidad siguiente. El hectómetro cúbico es la unidad empleada para la capacidad de los embalses, dato habitual en las noticias sobre sequía en Andalucía.
+
+**Equivalencias fundamentales entre volumen, capacidad y masa (para agua destilada a unos 4 °C):**
+
+| Volumen | Capacidad | Masa (agua) |
+|---|---|---|
+| 1 m³ | 1 000 L = 1 kl | 1 000 kg = 1 t |
+| 1 dm³ | 1 L | 1 kg |
+| 1 cm³ | 1 ml | 1 g |
+
+Esta tabla resume la **coherencia del SMD** y debe construirse experimentalmente: llenar de agua o arroz un cubo de 1 dm de arista hecho con cartulina, comprobar que cabe exactamente una botella de 1 L y pesar el agua.
+
+**Instrumentos**: recipientes graduados (jarras medidoras de cocina), probetas, vasos de precipitados, pipetas, jeringas sin aguja, cucharas medidoras, cuentagotas, contadores de agua; y para el volumen, los bloques multibase y los cubos encajables de 1 cm³.
+
+### 4.4. Superficie
+
+La **superficie** es la extensión de una figura en dos dimensiones; el **área** es la medida de esa superficie. (Aunque con frecuencia se usan como sinónimos, conviene distinguir la magnitud —superficie— de su medida —área—.) Es una magnitud derivada (longitud²).
+
+**Unidades**: km², hm², dam², **m²**, dm², cm², mm². Cada unidad es **100 veces** mayor que la inmediata inferior (un dm² contiene 10 × 10 = 100 cm²). **Unidades agrarias**: **hectárea (ha) = 1 hm² = 10 000 m²**, **área (a) = 1 dam² = 100 m²** y **centiárea (ca) = 1 m²**. La hectárea es muy útil para contextualizar: un campo de fútbol reglamentario tiene aproximadamente 0,7 ha; el Parque Nacional de Doñana supera las 50 000 ha.
+
+**Construcción didáctica**: antes de las fórmulas, el alumnado debe **recubrir** superficies con unidades no convencionales (folios, baldosas, post-it, plantillas de cuadrados o triángulos), contar cuadrados en una cuadrícula o en el geoplano, y comprobar la **conservación de la superficie** mediante tangram o puzles de descomposición. Del recubrimiento con cuadrados en filas y columnas surge de forma natural la fórmula del área del rectángulo (base × altura) como **producto cartesiano** (tantas filas de tantos cuadrados).
+
+Es fundamental trabajar la **independencia entre perímetro y área**: figuras con el mismo perímetro pueden tener áreas distintas, y viceversa (con 12 cuadraditos pueden formarse rectángulos de 1 × 12, 2 × 6 o 3 × 4, con perímetros de 26, 16 y 14 unidades). Es uno de los errores conceptuales más persistentes, incluso en la Educación Secundaria (Del Olmo, Moreno y Gil, 1989).
+
+**Instrumentos**: no existe un instrumento directo de uso escolar; se mide indirectamente midiendo longitudes. Recursos: geoplano, papel cuadriculado y milimetrado, plantillas transparentes cuadriculadas, tangram, baldosas del aula o del patio y, en el tercer ciclo, aplicaciones como GeoGebra o visores cartográficos (SIGPAC, visor de la Junta de Andalucía) que calculan áreas sobre mapas.
+

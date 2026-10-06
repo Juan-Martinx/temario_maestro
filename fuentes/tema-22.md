@@ -173,3 +173,70 @@ Actividades clave:
 - **Composición con tarjetas de valor posicional** (*arrow cards*): superponer 300 + 40 + 7 para formar 347.
 
 > **Idea clave:** el sistema decimal es **posicional, de base 10, con cero** y aditivo-multiplicativo. Su comprensión se construye agrupando y desagrupando materiales, practicando **descomposiciones canónicas y no canónicas** y contrastándolo con sistemas aditivos (egipcio, romano) y con otras bases.
+
+## 4. Números naturales, fraccionarios y decimales
+
+### 4.1. Los números naturales
+
+El conjunto de los **números naturales** (ℕ = {0, 1, 2, 3...}, incluyendo o no el cero según el convenio) es el primero que se construye. Matemáticamente puede fundamentarse por dos vías que tienen su reflejo didáctico:
+
+- **Vía cardinal** (Cantor, Frege, Russell): el número es la propiedad común a todos los conjuntos coordinables (equipotentes) entre sí. Didácticamente: correspondencia término a término, comparación de colecciones.
+- **Vía ordinal** (axiomas de **Peano**, 1889): el 0 (o el 1) es natural; todo natural tiene un siguiente; no hay dos naturales con el mismo siguiente; el 0 no es siguiente de ninguno; principio de inducción. Didácticamente: la serie numérica, el "uno más", el conteo.
+
+Propiedades relevantes en Primaria: ℕ es **infinito** (siempre hay un siguiente), **discreto** (entre dos naturales consecutivos no hay otro), **totalmente ordenado** y tiene **primer elemento**. Estas propiedades contrastan con las de las fracciones y decimales (densidad), lo que origina errores típicos (véase 8.6).
+
+Contenidos de Primaria: lectura y escritura, orden y comparación (signos <, >, =), anterior y posterior, series ascendentes y descendentes, redondeo, números ordinales (hasta el vigésimo o el trigésimo, en el lenguaje cotidiano), números romanos, números grandes (millones) en contextos reales (población de Andalucía, distancias, presupuestos), y potencias.
+
+### 4.2. Los números fraccionarios: significados de la fracción
+
+La fracción es uno de los contenidos con mayor fracaso escolar. La razón principal es que bajo una misma notación **a/b** se esconden **significados distintos**. **Kieren** (1976, 1988) identificó los **subconstructos** del número racional, recogidos y ampliados por Behr, Lesh, Post y Silver (1983) y, en España, por **Llinares y Sánchez** (*Fracciones*, 1988):
+
+| Significado | Descripción | Ejemplo de Primaria |
+|---|---|---|
+| **Parte-todo** | Un todo (continuo o discreto) se divide en partes **iguales** y se toman algunas | 3/4 de pizza; 2/5 de los 25 alumnos llevan gafas |
+| **Cociente (reparto)** | Resultado de una división de a entre b | Repartir 3 pizzas entre 4 niños: cada uno recibe 3/4 |
+| **Razón** | Comparación entre dos cantidades (no necesariamente parte-todo) | Por cada 2 chicas hay 3 chicos (2:3); receta: 2 de harina por 1 de azúcar |
+| **Operador** | Transformación que actúa sobre una cantidad (multiplicar por a y dividir por b) | 2/3 de 60 € = 40 €; reducir una foto a 1/2 |
+| **Medida** | Número que mide una magnitud tomando como unidad 1/b; punto en la recta numérica | La cinta mide 3/4 de metro; situar 5/4 en la recta |
+
+El **parte-todo** es el significado de entrada, el más intuitivo y el que se trabaja más en los libros de texto, pero un abuso exclusivo de él dificulta comprender fracciones mayores que la unidad (¿cómo tomo 5 partes si hay 4?), la fracción como número y las operaciones. La **medida** y la **recta numérica** son claves para entender la fracción como un número más, con un lugar entre los demás (Siegler y otros, 2010, la consideran prioritaria).
+
+Secuencia didáctica de las fracciones:
+
+1. **Experiencias de reparto equitativo** y fraccionamiento real (doblar papel, partir frutas, repartir chocolatinas): mitad, tercio, cuarto. Énfasis en que las partes deben ser **iguales** (en superficie, no necesariamente en forma).
+2. **Vocabulario**: numerador (cuántas partes se toman, "numera") y denominador (en cuántas partes iguales se divide la unidad, "denomina" o da nombre). Lectura: medios, tercios, cuartos... décimos, onceavos...
+3. **Representaciones múltiples**: regiones (círculos, rectángulos), conjuntos discretos, longitudes (regletas, tiras de fracciones), recta numérica. Conviene usar **tiras o muros de fracciones** (*fraction wall*).
+4. **Comparación**: con igual denominador; con igual numerador (1/3 > 1/5: cuantas más partes, más pequeñas); con la unidad; mediante fracciones de referencia (1/2); mediante equivalencias.
+5. **Fracciones equivalentes**: por manipulación (dos cuartos ocupan lo mismo que un medio), amplificación y simplificación, productos cruzados. Fracción irreducible.
+6. **Fracción de una cantidad** (operador): 3/5 de 40.
+7. **Operaciones**: suma y resta con igual denominador (segundo ciclo) y con distinto denominador mediante equivalencias o mínimo común múltiplo (tercer ciclo); multiplicación de fracción por natural; iniciación a producto y cociente de fracciones según la concreción curricular.
+8. **Relación fracción–decimal–porcentaje**: 1/2 = 0,5 = 50 %; 1/4 = 0,25 = 25 %; 3/4 = 0,75 = 75 %; 1/10 = 0,1 = 10 %.
+
+### 4.3. Los números decimales
+
+Los **números decimales** son una forma de expresar fracciones decimales (de denominador potencia de 10) aprovechando el principio posicional: 3,25 = 3 + 2/10 + 5/100 = 325/100. Se introducen en Primaria a partir del **dinero** (euros y céntimos) y de la **medida** (metros y centímetros, kilogramos y gramos), contextos muy significativos pero con una limitación: inducen a ver el decimal como "dos números naturales separados por una coma" (3,25 € = "3 euros y 25 céntimos").
+
+Contenidos: décimas, centésimas y milésimas; lectura y escritura ("tres unidades y veinticinco centésimas" o, coloquialmente, "tres coma veinticinco"); orden y comparación; representación en la recta; redondeo a las décimas o centésimas; las cuatro operaciones; multiplicación y división por la unidad seguida de ceros; relación con fracciones y porcentajes.
+
+Errores más frecuentes (Resnick y otros, 1989; Steinle y Stacey):
+
+- **"Cuanto más largo, mayor"**: 2,125 > 2,5 (regla del número natural aplicada a la parte decimal).
+- **"Cuanto más largo, menor"**: 2,4 < 2,35 porque "las milésimas son más pequeñas".
+- **Ignorar el cero**: 0,05 = 0,5.
+- **Falsa densidad**: creer que entre 1,3 y 1,4 no hay ningún número.
+- **"Multiplicar siempre aumenta, dividir siempre disminuye"**: falso con decimales menores que 1 (5 × 0,5 = 2,5).
+- Colocación errónea de la coma en los algoritmos.
+
+Recursos: **recta numérica** con zoom (ampliar el tramo entre 2 y 3 para ver las décimas), **cuadrícula de 100** (cada cuadradito es una centésima), multibase reinterpretado (el bloque como unidad, la placa como décima...), cintas métricas, tiques de compra, básculas de cocina, cronómetros (atención: los minutos no son decimales).
+
+### 4.4. Los porcentajes
+
+El **porcentaje** es una razón de consecuente 100 (n % = n/100). Su enseñanza en tercer ciclo se vincula a contextos de **educación financiera** y del consumo: descuentos, IVA, intereses, encuestas, composición nutricional de los alimentos (porcentaje de azúcar en etiquetas, en conexión con **Creciendo en Salud**), estadísticas de la población andaluza.
+
+Estrategias didácticas: partir de porcentajes de referencia (50 % = la mitad, 25 % = la cuarta parte, 10 % = la décima parte, 1 %); calcular el 10 % y componer (el 15 % es el 10 % más la mitad del 10 %); cuadrícula 10 × 10 coloreada; doble recta numérica (0 %–100 % frente a 0–precio); uso de la calculadora (tecla %).
+
+### 4.5. Los números enteros en contexto
+
+Aunque los números enteros (ℤ) se sistematizan en Secundaria, el currículo de Primaria contempla su **iniciación en contextos** cotidianos en el tercer ciclo: temperaturas bajo cero (Sierra Nevada en invierno), plantas de un edificio y sótanos, altitud y profundidad (nivel del mar), saldo bancario, goles a favor y en contra, líneas del tiempo históricas (a. C. / d. C.). Se trabajan su lectura, su representación en la recta numérica (simétrica respecto del cero) y la comparación, sin entrar en el formalismo de las operaciones.
+
+> **Idea clave:** la fracción tiene **cinco significados** (parte-todo, cociente, razón, operador y medida; Kieren, Behr y otros, Llinares y Sánchez). El decimal es la extensión del sistema posicional a la derecha de la unidad. Fracción, decimal y porcentaje son **tres representaciones** del mismo número que deben conectarse continuamente.

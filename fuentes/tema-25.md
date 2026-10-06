@@ -189,7 +189,7 @@ Un gráfico estadístico es una representación visual que permite **captar de u
 
 ### 5.2. Tipos de gráficos y cuándo usar cada uno
 
-**a) Pictograma.** Representa las frecuencias mediante dibujos o iconos alusivos a la variable, todos del mismo tamaño y alineados. Cada icono puede valer una unidad (primer ciclo) o varias (segundo ciclo: "cada ⚽ representa 2 alumnos"), lo que exige interpretar fracciones de icono (medio balón = 1 alumno) y conecta con la multiplicación y la división. Es el primer gráfico que se enseña por su carácter concreto. Error típico: dibujar iconos de distinto tamaño o espaciado, lo que distorsiona la comparación.
+**a) Pictograma.** Representa las frecuencias mediante dibujos o iconos alusivos a la variable, todos del mismo tamaño y alineados. Cada icono puede valer una unidad (primer ciclo) o varias (segundo ciclo: "cada balón dibujado representa 2 alumnos"), lo que exige interpretar fracciones de icono (medio balón = 1 alumno) y conecta con la multiplicación y la división. Es el primer gráfico que se enseña por su carácter concreto. Error típico: dibujar iconos de distinto tamaño o espaciado, lo que distorsiona la comparación.
 
 **b) Diagrama de barras.** Barras de igual anchura y separadas entre sí, cuya **altura (longitud) es proporcional a la frecuencia**. Adecuado para variables **cualitativas** y **cuantitativas discretas**. Puede ser vertical u horizontal (este último útil cuando las etiquetas son largas). Variantes: **barras agrupadas** o dobles (comparar dos grupos, por ejemplo chicos y chicas o dos cursos) y **barras apiladas**. Es el gráfico más versátil y el más presente en Primaria. Sus precursores manipulativos son las torres de cubos encajables y los "gráficos humanos".
 
@@ -237,3 +237,64 @@ El ejemplo muestra por qué **ningún promedio es "el correcto" en abstracto**: 
 Secuenciación orientativa en Primaria: moda desde el primer ciclo de manera intuitiva ("lo que más hay"); moda, rango y media como reparto en el segundo ciclo; media, mediana, moda y rango con cálculo y elección razonada en el tercer ciclo, con apoyo de calculadora y hoja de cálculo.
 
 > **Idea clave:** cada gráfico responde a un tipo de variable y a una pregunta. Barras (comparar categorías), sectores (parte-todo), líneas (evolución temporal), histograma (continua agrupada), diagrama de puntos (forma de la distribución). La media es reparto equitativo; la mediana, el valor central robusto; la moda, el más frecuente; el rango, la variabilidad.
+
+## 6. Interpretación de tablas y gráficos estadísticos
+
+### 6.1. Niveles de comprensión de gráficos
+
+Leer un gráfico es una actividad cognitiva compleja. **Frances Curcio (1987, 1989)** estableció tres **niveles de comprensión** de gráficos que se han convertido en referencia, ampliados después por Friel, Curcio y Bright (2001) y por Shaughnessy:
+
+| Nivel | Descripción | Pregunta ejemplo sobre un gráfico de "mascotas de la clase" |
+|---|---|---|
+| **1. Leer los datos** (*reading the data*) | Lectura literal de la información explícita: títulos, ejes, valores concretos | ¿Cuántos alumnos tienen perro? |
+| **2. Leer entre los datos** (*reading between the data*) | Comparar, relacionar, operar con los datos; interpretar e integrar | ¿Cuántos más tienen perro que gato? ¿Qué mascota es la moda? |
+| **3. Leer más allá de los datos** (*reading beyond the data*) | Extrapolar, predecir, inferir información no presente en el gráfico | Si preguntáramos a todo el colegio, ¿qué mascota crees que ganaría? ¿Por qué? |
+
+**Shaughnessy, Garfield y Greer (1996)** y posteriormente **Aoyama (2007)** añadieron un cuarto nivel, **leer detrás de los datos** (*reading behind the data*): valorar críticamente cómo se obtuvieron los datos, la fiabilidad de la fuente, la representatividad de la muestra y la validez de las conclusiones. Es el nivel que conecta con la alfabetización estadística de Gal y con la competencia ciudadana.
+
+**Arteaga, Batanero, Díaz y Contreras** (Universidad de Granada, 2009-2011) estudiaron además los **niveles de complejidad semiótica** en los gráficos que construyen futuros maestros, inspirándose en el EOS: (1) representar solo datos individuales, (2) representar un listado de datos sin formar la distribución, (3) representar la distribución de frecuencias de una variable y (4) representar varias distribuciones en un mismo gráfico. La investigación muestra que muchos estudiantes, incluidos futuros docentes, se quedan en los primeros niveles, lo que alerta sobre la necesidad de enseñar explícitamente el concepto de distribución.
+
+### 6.2. Componentes de la lectura de una tabla o un gráfico
+
+Siguiendo a Friel, Curcio y Bright (2001), comprender un gráfico requiere:
+
+1. **Reconocer los componentes estructurales**: título, ejes, escalas, etiquetas, leyenda, fuente, especificadores (barras, puntos, sectores).
+2. **Apreciar la relación entre esos componentes** y la escala (qué representa una unidad, si empieza en cero).
+3. **Comprender el efecto de la escala** en la apariencia del gráfico.
+4. **Conocer el contexto** y relacionar el gráfico con la situación real.
+
+Una rutina útil en el aula es la guía de lectura en cuatro preguntas: **¿De qué trata?** (título, variables, fuente) → **¿Qué veo?** (datos concretos) → **¿Qué relaciones encuentro?** (comparaciones, máximos, tendencias) → **¿Qué me pregunto / qué puedo concluir?** (predicciones, crítica). Esta rutina se asemeja a las rutinas de pensamiento del Proyecto Zero de Harvard (Ritchhart, Church y Morrison, 2011), como "Veo, pienso, me pregunto", y puede incorporarse al Proyecto Lingüístico de Centro como estrategia de lectura de textos discontinuos.
+
+### 6.3. Tablas y gráficos como textos discontinuos
+
+En los marcos de evaluación de **PISA** y **PIRLS**, las tablas, gráficos, mapas e infografías son **textos discontinuos**. Su lectura forma parte tanto de la competencia en comunicación lingüística como de la matemática. Las pruebas de evaluación de diagnóstico de Andalucía y las evaluaciones de diagnóstico previstas en la LOMLOE en 4.º de Primaria (art. 21 LOE) incluyen habitualmente ítems de interpretación de gráficos. Trabajarlos de forma coordinada con el área de Lengua Castellana y Literatura (programa **ComunicA**, PLC) es una buena práctica.
+
+### 6.4. Gráficos engañosos y lectura crítica de datos en los medios
+
+Un mismo conjunto de datos puede representarse de formas que transmiten mensajes muy diferentes. Ya en 1954 **Darrell Huff** publicó *How to Lie with Statistics* (*Cómo mentir con estadísticas*), un clásico que enumera trucos todavía vigentes. **Edward Tufte** (*The Visual Display of Quantitative Information*, 1983) propuso el **"factor de mentira"** (*lie factor*): cociente entre el tamaño del efecto mostrado en el gráfico y el tamaño del efecto en los datos, que debería ser próximo a 1.
+
+Principales manipulaciones que el alumnado del tercer ciclo puede aprender a detectar:
+
+| Truco | En qué consiste | Pregunta crítica |
+|---|---|---|
+| **Eje vertical que no empieza en cero** | En barras, exagera diferencias pequeñas (52 % frente a 48 % parece el doble) | ¿Dónde empieza la escala? |
+| **Escala irregular o comprimida/estirada** | Intervalos desiguales o ejes alargados que acentúan o aplanan tendencias | ¿Son iguales las divisiones del eje? |
+| **Pictogramas que crecen en dos o tres dimensiones** | Si la cantidad se duplica y se duplican alto y ancho del dibujo, el área se cuadruplica | ¿Se compara la altura o el área? |
+| **Gráficos en 3D y perspectiva** | Los sectores delanteros parecen mayores | ¿Qué porcentaje real tiene cada parte? |
+| **Sectores que no suman 100 %** | Mezcla de respuestas múltiples en un gráfico circular | ¿Suman el total? |
+| **Selección de un periodo interesado** (*cherry picking*) | Mostrar solo los años que confirman la tesis | ¿Qué pasa antes y después? |
+| **Omitir la fuente, la muestra o el tamaño** | "9 de cada 10 dentistas recomiendan..." | ¿A cuántos se preguntó? ¿Quién paga el estudio? |
+| **Confundir correlación con causalidad** | Dos variables que crecen a la vez no implican que una cause la otra | ¿Hay otra explicación? |
+| **Valores absolutos frente a relativos** | Comparar casos totales entre ciudades de distinta población | ¿Y en porcentaje o por cada 1.000 habitantes? |
+| **Promedio inadecuado** | Usar la media cuando hay valores extremos | ¿Qué diría la mediana? |
+
+Actividades de aula para la lectura crítica:
+
+- **"Detectives de gráficos"**: recopilar gráficos de prensa, publicidad o redes sociales y analizarlos con una lista de control (título, fuente, escala, muestra, mensaje).
+- **"Gráfico honesto / gráfico tramposo"**: con los mismos datos de la clase, un grupo elabora un gráfico que exagere las diferencias y otro uno honesto; se comparan y se debate.
+- **Analizar titulares**: "El paro se dispara" frente a la tabla del IECA o del SEPE con la variación real.
+- **Publicidad**: "Elimina el 99,9 % de los gérmenes", "el 80 % de los usuarios lo recomienda": ¿qué muestra hay detrás?
+
+Este trabajo conecta con la **competencia digital** (búsqueda y evaluación crítica de la información, desinformación), la **competencia ciudadana** y la **educación para el consumo responsable**, y con el descriptor STEM4 del perfil de salida (interpretar y transmitir información científica y matemática de forma clara y rigurosa), así como con CD1 (búsqueda guiada y valoración de la fiabilidad de la información).
+
+> **Idea clave:** Curcio: leer los datos → leer entre los datos → leer más allá de los datos (+ leer detrás de los datos). La lectura crítica de gráficos engañosos (Huff, 1954; Tufte, 1983) es alfabetización ciudadana: el eje que no empieza en cero es el truco más común.

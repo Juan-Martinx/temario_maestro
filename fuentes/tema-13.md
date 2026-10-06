@@ -766,3 +766,221 @@ Según el RD 157/2022, el Decreto 101/2023 y la Orden de 30 de mayo de 2023, la 
 | **CC** (ciudadana) | Respeto a la diversidad cultural, patrimonio, igualdad, análisis crítico de la publicidad |
 | **CE** (emprendedora) | Creatividad, proyectos artísticos, difusión de producciones |
 
+> **Idea clave:** el marco normativo sitúa los lenguajes artísticos en el **área de Educación Artística** (Educación Plástica y Visual + Música y Danza), con la **CCEC** como competencia nuclear, pero también en **Educación Física** (expresión corporal) y **Lengua** (dramatización). En Andalucía se añade la obligación de integrar la **cultura andaluza** y el **flamenco**, y de atender a la diversidad mediante el **DUA** y las medidas de la Orden de 30 de mayo de 2023.
+
+## 9. Aplicación didáctica en el aula andaluza
+
+### 9.1. Criterios para programar los lenguajes artísticos
+
+Al programar, el maestro debe garantizar que, a lo largo del ciclo, el alumnado **recorra todos los lenguajes** y una **variedad de técnicas** (bidimensionales y tridimensionales, analógicas y digitales; canto, instrumento, audición, movimiento y danza; juego dramático, títeres, mimo), evitando que la Plástica se reduzca a "manualidades" de fechas señaladas o que la expresión dramática quede relegada a la función de fin de curso. Para ello conviene:
+
+- **Secuenciar los elementos** de cada lenguaje en espiral (Bruner): punto, línea y color primario en el 1.er ciclo; textura, forma, volumen, mezclas y composición en el 2.º; perspectiva, luz, proporción y lenguaje audiovisual en el 3.º. En música, del pulso y el sonido-silencio a la lectura de figuras, la forma y la polifonía sencilla.
+- **Vincular cada situación de aprendizaje a un reto con destinatario real** (exposición, concierto, representación, publicación digital), según el principio de funcionalidad.
+- **Coordinarse con el especialista de Música** (y, en su caso, de Educación Física) a través del equipo de ciclo (Decreto 328/2010) para diseñar situaciones de aprendizaje compartidas.
+- **Aprovechar los planes y programas del centro**: *Vivir y Sentir el Patrimonio*, *AulaDcine*, *ComunicA*, *Aldea*, *Creciendo en Salud*, Plan de Igualdad, Plan de Lectura y Bibliotecas, Transformación Digital Educativa (TDE).
+- **Contextualizar en Andalucía**: patrimonio monumental (Alhambra, Mezquita de Córdoba, Itálica, conjunto dolménico de Antequera, Baeza y Úbeda), artistas andaluces (Velázquez, Murillo, Valdés Leal, Luisa Roldán «La Roldana», Picasso, Julio Romero de Torres, Carmen Laffón, Guillermo Pérez Villalta), músicos (Manuel de Falla, Joaquín Turina, Paco de Lucía, Camarón), artes escénicas (Federico García Lorca y La Barraca, títeres de cachiporra, Centro Andaluz de Teatro), artesanía (cerámica de Triana y Úbeda, taracea granadina, alfarería, guadamecí cordobés) y fiestas (Cruces de Mayo, carnaval de Cádiz con sus chirigotas y comparsas).
+
+### 9.2. Situación de aprendizaje: "Sombras de Al-Ándalus: un teatro de sombras sonorizado"
+
+**Contextualización.** CEIP de una localidad de la provincia de Granada, grupo de **4.º de Primaria (2.º ciclo)**, 24 alumnos y alumnas, entre ellos un alumno con **TEA** (nivel 1, con necesidad de anticipación y sensibilidad auditiva), una alumna con **discapacidad visual** (baja visión) y dos alumnos de incorporación reciente con escaso dominio del español. El centro participa en *Vivir y Sentir el Patrimonio* y en el programa *ComunicA*. La situación se desarrolla en el **segundo trimestre**, coordinada entre el tutor (Educación Plástica y Visual, Lengua) y la especialista de Música.
+
+**Reto o producto final.** Tras visitar (presencial o virtualmente) la Alhambra, el alumnado recibe una carta del Patronato (simulada) que pide "dar vida" a una leyenda de la Alhambra para el alumnado de Infantil del centro. El grupo creará y representará un **teatro de sombras sonorizado** a partir de una de los *Cuentos de la Alhambra* (Washington Irving, 1832), adaptado (p. ej., *La leyenda del gallo de veleta* o *Las tres hermosas princesas*), con siluetas y decorados inspirados en el arte nazarí, una banda sonora creada en clase y una parte de **sombra corporal**. La función se grabará y se publicará, con consentimiento de las familias, en el blog del centro.
+
+**Justificación.** Integra de forma natural los **cuatro lenguajes del tema**: el **plástico** (siluetas, recortado, calado, color con acetatos, composición de decorados con lacería y atauriques), el **visual** (luz y sombra, encuadre, plano y tamaño, montaje de escenas), el **musical** (paisaje sonoro, ostinatos, instrumentos escolares, melodía pentatónica o en modo frigio, forma) y el **dramático y corporal** (personaje, conflicto, voz, sombra corporal, coordinación escénica).
+
+**Elementos curriculares (Educación Artística, 2.º ciclo; referencias del RD 157/2022 y de la Orden de 30 de mayo de 2023).**
+
+| Elemento | Concreción |
+|---|---|
+| **Competencias específicas** | **CE1** (descubrir propuestas artísticas mediante la recepción activa: arte nazarí, teatro de sombras de distintas culturas —wayang javanés, Karagöz—); **CE2** (investigar manifestaciones culturales y su contexto: leyendas y arte de Al-Ándalus); **CE3** (expresar y comunicar creativamente con la imagen, el sonido y el cuerpo); **CE4** (participar en el diseño, elaboración y difusión de una producción colectiva asumiendo roles) |
+| **Criterios de evaluación** | Los criterios del 2.º ciclo asociados a cada competencia específica: distinguir y describir propuestas artísticas de diferentes culturas con curiosidad y respeto (CE1); buscar y seleccionar información sobre manifestaciones artísticas y su contexto con diversos medios (CE2); producir obras propias utilizando con intención los elementos y técnicas de los lenguajes plástico, musical y corporal-dramático (CE3); participar de manera activa en un proyecto colectivo, asumiendo funciones y valorando el proceso y el resultado (CE4) |
+| **Saberes básicos** | **A. Recepción y análisis**: arte y patrimonio andaluz, estrategias de recepción activa, vocabulario específico. **B. Creación e interpretación**: fases del proceso creativo, roles en producciones colectivas. **C. Artes plásticas, visuales y audiovisuales**: elementos del lenguaje visual (línea, forma, color, luz), técnicas de recorte y calado, imagen en movimiento, herramientas digitales de registro. **D. Música y artes escénicas**: cualidades del sonido, instrumentos escolares, paisaje sonoro, ostinato, voz y cuerpo como medios expresivos, dramatización |
+| **Descriptores operativos** | CCEC1, CCEC2, CCEC3, CCEC4; CCL1 (expresión oral en la narración); CD2 (creación de contenidos digitales); CPSAA3 (trabajo cooperativo); STEM2 (exploración de la luz y la sombra) |
+| **Conexión con otras áreas** | **Lengua Castellana y Literatura** (lectura y adaptación del texto, guion, lectura expresiva); **Conocimiento del Medio** (Al-Ándalus, la luz y las sombras como fenómeno físico); **Educación Física** (expresión corporal, sombras corporales); **Matemáticas** (simetría y giros en la lacería nazarí) |
+
+**Temporalización.** Siete sesiones de 60-90 minutos (unas tres semanas), más el ensayo general y la representación.
+
+**Secuencia de actividades.**
+
+| Fase | Sesión | Actividades | Lenguajes / técnicas |
+|---|---|---|---|
+| **Activación** | 1 | Lectura del reto. Visita virtual a la Alhambra y observación de **yeserías, alicatados y celosías** con la rutina *Veo, pienso, me pregunto*. Juego de sombras con linterna: ¿qué ocurre si acerco o alejo la mano al foco? Hipótesis y registro en el cuaderno de artista | Lectura de imágenes; luz y sombra; recepción activa |
+| **Exploración** | 2 | Visionado de fragmentos de teatro de sombras de diferentes culturas y de *Las aventuras del príncipe Achmed* (Lotte Reiniger, 1926), pionera del cine de animación con siluetas. Lectura dramatizada de la leyenda elegida y división en **escenas** (planteamiento, nudo, desenlace) | Imagen en movimiento; estructura dramática |
+| **Creación plástica** | 3-4 | Diseño de **personajes y decorados**: boceto, silueta en cartulina negra, **calado** con punzón y tijera (celosías con motivos geométricos nazaríes: estrellas de ocho puntas por simetría), "vidrieras" con **papel de seda y acetatos de colores**, articulaciones con encuadernadores y varillas. Talleres rotatorios en pequeño grupo | Línea, forma, color, textura; recorte, calado, construcción |
+| **Creación musical** | 4-5 | Con la especialista de Música: construcción del **paisaje sonoro** de cada escena (agua de las fuentes, viento, pasos, palacio) con objetos y pequeña percusión; **ostinatos** rítmicos con pandero y crótalos; melodía sencilla en láminas sobre escala pentatónica o modo frigio (evocación andalusí y flamenca); leitmotiv para cada personaje; musicograma de la obra | Cualidades del sonido, timbre, ritmo, melodía, forma; instrumental Orff |
+| **Creación dramática y corporal** | 5-6 | Calentamiento y juegos de **expresión corporal**: espejos, estatuas, movimiento lento y rápido; creación de una escena de **sombra corporal** tras una tela blanca; ensayo de la manipulación de siluetas, de la **voz** (narradores, diálogos) y de la coordinación con la música. Reparto de **roles**: manipuladores, narradores, músicos, técnicos de luz, regidor | Personaje, conflicto, espacio, tiempo; voz y cuerpo; roles técnicos |
+| **Comunicación** | 7 | Ensayo general, grabación en vídeo con tableta (encuadre fijo, cuidado de la luz) y **representación** para el alumnado de Infantil y las familias. Publicación en el blog del centro | Difusión; arte digital; destinatario real |
+| **Reflexión** | 7 | Autoevaluación y coevaluación con diana; asamblea de "lo que aprendimos"; visionado crítico de la grabación; carta de respuesta al Patronato | Metacognición; valoración del proceso |
+
+**Recursos.** Retablo de sombras construido con caja de cartón grande y papel vegetal o tela blanca; foco LED (o retroproyector) y linternas; cartulina negra, papel de seda, acetatos, encuadernadores, varillas de madera, punzones y almohadillas, tijeras de punta redonda; instrumental Orff y objetos sonoros; tabletas para la grabación; edición digital de la leyenda; pictogramas ARASAAC.
+
+**Evaluación.** Formativa y continua, centrada en el proceso y el producto, y vinculada a los criterios de evaluación:
+
+| Instrumento | Qué recoge | Criterios (CE) |
+|---|---|---|
+| **Cuaderno de artista / portfolio** | Bocetos, hipótesis sobre la luz, reflexiones de cada sesión | CE1, CE2, CE3 |
+| **Rúbrica analítica** compartida desde la sesión 1 | Uso intencional de forma, color y luz en siluetas; ajuste rítmico y expresivo de la sonorización; expresividad vocal y corporal; colaboración en el rol asumido | CE3, CE4 |
+| **Lista de control** y registro anecdótico | Participación, respeto de turnos, cuidado de materiales y normas de seguridad | CE4 |
+| **Diana de autoevaluación y coevaluación** | Implicación, aportación de ideas, escucha | CE4 |
+| **Grabación de la representación** | Valoración del producto final y autoevaluación del grupo | CE3, CE4 |
+
+Ejemplo de **rúbrica** (fragmento):
+
+| Indicador | Iniciado (1) | En desarrollo (2) | Adquirido (3) | Avanzado (4) |
+|---|---|---|---|---|
+| Diseño de la silueta | Silueta poco reconocible, sin calados | Silueta reconocible con algún calado | Silueta expresiva con calados y color | Silueta original, articulada, con calados y color con intención narrativa |
+| Sonorización | Produce sonidos sin relación con la escena | Sonidos adecuados, poco ajustados en el tiempo | Sonidos y ostinatos ajustados a la acción | Crea y propone recursos sonoros nuevos y coordinados |
+| Expresión dramática y corporal | Participa con inhibición | Usa la voz o el cuerpo con poca variación | Voz y cuerpo expresivos y adecuados al personaje | Caracteriza con riqueza y ayuda a sus compañeros |
+| Trabajo en equipo | Necesita ayuda constante para asumir su rol | Cumple su rol con recordatorios | Cumple su rol de forma autónoma | Asume su rol y coordina al grupo |
+
+**Atención a la diversidad y DUA** (Orden de 30 de mayo de 2023; Instrucciones de 8 de marzo de 2017; pautas CAST):
+
+- **Múltiples formas de implicación**: elección de rol (manipulador, músico, narrador, técnico), reto con destinatario real, agrupamientos heterogéneos con roles definidos, metas a corto plazo.
+- **Múltiples formas de representación**: leyenda en texto, audio, vídeo y **pictogramas**; agenda visual de cada sesión; modelos manipulables; vocabulario clave en español y en la lengua de origen del alumnado recién llegado.
+- **Múltiples formas de acción y expresión**: posibilidad de participar mediante imagen, sonido o movimiento; herramientas adaptadas (tijeras de muelle, plantillas de silueta); grabación como alternativa a la exposición en directo.
+- **Alumno con TEA**: anticipación con agenda visual, rol estable (técnico de luz o percusión), cascos de reducción de ruido en los ensayos, zona de calma.
+- **Alumna con baja visión**: alto contraste (siluetas negras sobre pantalla iluminada favorecen la percepción), siluetas con contorno en relieve, rol preferente en la sonorización y la narración, ubicación cercana al retablo; coordinación con el **equipo de la ONCE**.
+- **Alumnado recién llegado**: roles en que la lengua no es barrera (música, sombra corporal), frases-modelo para la narración, compañero tutor.
+- **Alumnado con altas capacidades**: profundización (diseño de un efecto de color o de movimiento más complejo, composición del leitmotiv, dirección escénica de una escena).
+
+### 9.3. Otras propuestas breves por ciclos
+
+| Ciclo | Propuesta | Lenguajes y técnicas |
+|---|---|---|
+| **1.er ciclo** | "Pintamos la música": pintura gestual con ceras y témperas mientras se escucha *El amor brujo* (*Danza ritual del fuego*, Falla) y una pieza lenta; comparación de líneas y colores | Línea, color, gesto; audición activa; movimiento |
+| **1.er ciclo** | "Mi barrio suena": paseo sonoro por el entorno, registro con tableta y creación de un mapa sonoro con símbolos inventados (grafía no convencional) | Paisaje sonoro (Schafer); notación no convencional; Aldea |
+| **2.º ciclo** | "Mosaicos que se mueven": teselados inspirados en la Alhambra y Escher, con plantillas y simetrías; animación *stop-motion* de las piezas | Forma, color, composición; imagen en movimiento; STEAM |
+| **2.º ciclo** | "Pregones y romances": dramatización de romances tradicionales y pregones de oficios andaluces, con títeres de guante | Voz, personaje, títere; patrimonio oral |
+| **3.er ciclo** | "Mujeres que crean": exposición y pódcast sobre artistas andaluzas (Carmen Laffón, la bailaora Matilde Coral, Luisa Roldán *La Roldana*), con retratos en técnica mixta | Plan de Igualdad; retrato; lenguaje radiofónico |
+| **3.er ciclo** | "Corto de aula": guion, *storyboard*, rodaje y montaje de un cortometraje de 2-3 minutos sobre la convivencia, para el programa *AulaDcine* | Lenguaje audiovisual: plano, ángulo, montaje; Creciendo en Salud |
+| **3.er ciclo** | "Compás de 12": iniciación al compás de soleá y bulería con palmas sordas y claras, cajón y movimiento; creación de una pequeña coreografía | Ritmo, acento, amalgama; danza; flamenco (Orden de 7 de mayo de 2014) |
+
+## 10. Conclusión
+
+Los lenguajes **plástico-visual, musical, dramático y corporal** son sistemas de comunicación con **elementos** y **técnicas** propios —el punto, la línea y el color; el sonido, el ritmo y la melodía; el cuerpo, el personaje y el conflicto— que el maestro de Primaria debe conocer con rigor para guiar al alumnado desde la exploración espontánea hasta la **expresión intencional y creativa**. Lejos de ser un adorno, la educación artística es, como sostienen Read, Lowenfeld, Gardner o Eisner, una **forma de conocimiento** que desarrolla la percepción, la imaginación, el pensamiento divergente, la educación emocional y la identidad cultural.
+
+La LOMLOE y su desarrollo andaluz (RD 157/2022, Decreto 101/2023, Orden de 30 de mayo de 2023) refuerzan este planteamiento al situar la **competencia en conciencia y expresión culturales** en el perfil de salida, organizar el área en torno a la **recepción y análisis** y la **creación e interpretación**, y exigir **situaciones de aprendizaje** contextualizadas, inclusivas (DUA) y conectadas con la **cultura andaluza** y el **flamenco**. La práctica docente debe traducirse en un **aula-taller** segura y estimulante, metodologías activas (ABP, pedagogías musicales activas, juego dramático), un **clima creativo** sin modelos estereotipados y una **evaluación formativa** que valore el proceso, el producto y la reflexión.
+
+En definitiva, como recordaba Eisner, las artes enseñan que **los problemas pueden tener más de una solución** y que **no todo lo que sabemos puede decirse con palabras**: un aprendizaje imprescindible para formar ciudadanos sensibles, críticos y creativos.
+
+## 11. Bibliografía y webgrafía
+
+### 11.1. Bibliografía básica
+
+- Arnheim, R. (1954). *Arte y percepción visual. Psicología del ojo creador*. Madrid: Alianza (ed. esp. revisada).
+- Cañas, J. (1992). *Didáctica de la expresión dramática. Una aproximación a la dinámica teatral en el aula*. Barcelona: Octaedro.
+- Dondis, D. A. (1973). *La sintaxis de la imagen. Introducción al alfabeto visual*. Barcelona: Gustavo Gili.
+- Eisner, E. W. (2004). *El arte y la creación de la mente*. Barcelona: Paidós (orig. 2002).
+- Gardner, H. (1994). *Educación artística y desarrollo humano*. Barcelona: Paidós.
+- Hargreaves, D. J. (1998). *Música y desarrollo psicológico*. Barcelona: Graó (orig. 1986).
+- Kandinsky, W. (1926/1995). *Punto y línea sobre el plano*. Barcelona: Labor/Paidós.
+- Lowenfeld, V. y Brittain, W. L. (1980). *Desarrollo de la capacidad creadora*. Buenos Aires: Kapelusz.
+- Marín Viadel, R. (coord.) (2003). *Didáctica de la educación artística para Primaria*. Madrid: Pearson.
+- Motos, T. y Tejedo, F. (1987). *Prácticas de dramatización*. Barcelona: Humanitas.
+- Paynter, J. (1999). *Sonido y estructura*. Madrid: Akal.
+- Read, H. (1943/1982). *Educación por el arte*. Barcelona: Paidós.
+- Rodari, G. (1973). *Gramática de la fantasía*. Barcelona: Planeta/Del Bronce.
+- Schafer, R. M. (1969). *El compositor en el aula*. Buenos Aires: Ricordi.
+- Swanwick, K. (1991). *Música, pensamiento y educación*. Madrid: Morata.
+- Acaso, M. (2009). *La educación artística no son manualidades*. Madrid: Catarata.
+- Torrance, E. P. (1977). *Educación y capacidad creativa*. Madrid: Marova.
+- Wallas, G. (1926). *The Art of Thought*. Nueva York: Harcourt.
+
+### 11.2. Normativa
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).
+- Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de las escuelas infantiles de segundo grado, colegios de Educación Primaria, colegios de Educación Infantil y Primaria y centros públicos específicos de Educación Especial.
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de la Educación Primaria en Andalucía.
+- Orden de 30 de mayo de 2023, desarrollo del currículo de Educación Primaria en Andalucía, atención a la diversidad, evaluación y tránsito.
+- Orden de 7 de mayo de 2014, medidas para la inclusión del flamenco en el sistema educativo andaluz.
+- Instrucciones de 8 de marzo de 2017, protocolo de detección e identificación del alumnado con NEAE y organización de la respuesta educativa.
+- Reglamento (UE) 2016/679 (RGPD) y Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales.
+
+### 11.3. Webgrafía
+
+- BOE: https://www.boe.es · BOJA: https://www.juntadeandalucia.es/eboja
+- Portal de Educación de la Junta de Andalucía (currículo, planes y programas, flamenco en el aula): https://www.juntadeandalucia.es/educacion/portals/web/ced
+- INTEF y Procomún (recursos educativos abiertos): https://intef.es · https://procomun.intef.es
+- CAST, pautas DUA: https://udlguidelines.cast.org
+- Museo del Prado, colección en línea: https://www.museodelprado.es · Google Arts & Culture: https://artsandculture.google.com
+- Patronato de la Alhambra y Generalife (área educativa): https://www.alhambra-patronato.es
+- Instituto Andaluz del Flamenco y Centro Andaluz de Documentación del Flamenco (Junta de Andalucía).
+- ARASAAC (pictogramas): https://arasaac.org
+
+## 12. Esquema-resumen para memorizar
+
+**1. Lenguajes artísticos**: sistemas de signos con función estética y expresiva (Jakobson), códigos abiertos (Eco), sensoriales; espaciales (plástica) o temporales (música, teatro, danza). Elementos comunes: ritmo, forma, textura, contraste, equilibrio (Kandinsky, Klee).
+
+| Lenguaje | Elementos básicos | Técnicas principales |
+|---|---|---|
+| **Plástico** | Punto, línea, plano, color (primarios, secundarios, complementarios, cálidos/fríos; tono, saturación, luminosidad), textura, forma, volumen, composición, espacio, luz | Dibujo, pintura (témpera, acuarela, ceras), collage, estampación y grabado, modelado, talla, construcciones |
+| **Visual y audiovisual** | Encuadre, plano, ángulo, luz, secuencia, montaje | Lectura de imágenes, fotografía, cómic, cartel, cine, animación (*stop-motion*), arte digital |
+| **Musical** | Cualidades del sonido (altura, duración, intensidad, timbre), ritmo (pulso, acento, compás), melodía, armonía, textura, forma (AB, ABA, rondó, canon), notación | Canto, instrumental Orff y flauta, audición activa (musicograma), danza, creación; flamenco (compás, palos) |
+| **Dramático** | Personaje, conflicto, acción, espacio, tiempo, argumento, tema | Juego dramático, dramatización, teatro, títeres, mimo |
+| **Corporal** | Cuerpo, espacio, tiempo, energía, relación (Laban) | Expresión corporal, danza, relajación, sombra corporal |
+
+**2. Creatividad**: Guilford (1950: pensamiento divergente; fluidez, flexibilidad, originalidad, elaboración); Wallas (1926: preparación, incubación, iluminación, verificación); Torrance (1966); Rhodes (4 P); Amabile (motivación intrínseca); Csikszentmihalyi (flujo); Gardner (IM); De Bono; Rodari. Técnicas: *brainstorming*, SCAMPER, binomio fantástico, sinéctica, restricciones, *design thinking*.
+
+**3. Desarrollo evolutivo**: Lowenfeld (garabateo, preesquemática, esquemática 7-9, realismo 9-12, pseudonaturalista 12-14); Luquet (realismo fortuito, fallido, intelectual, visual); Kellogg; Swanwick y Tillman (espiral musical: materiales, expresión, forma, valor); dramático: juego simbólico → reglado → dramatización estructurada.
+
+**4. Intervención**: aprendizaje vivencial; DBAE (producción, crítica, historia, estética); globalización y STEAM; cooperativo; DUA; patrimonio; TIC. Métodos musicales: Dalcroze, Orff, Kodály, Willems, Martenot, Suzuki, Wuytack, Schafer, Paynter. Aula-taller (Freinet, Reggio Emilia). Seguridad: UNE-EN 71, punta redonda, alergias, RGPD.
+
+**5. Evaluación**: global, continua, formativa; criterios ↔ competencias específicas ↔ descriptores operativos; proceso + producto + reflexión; rúbricas, portfolio, grabaciones, autoevaluación y coevaluación.
+
+**6. Normativa**: LOE-LOMLOE (art. 17.j, art. 18); RD 157/2022 (4 CE de Educación Artística; bloques A-D; CCEC1-4); LEA (cultura andaluza); Decreto 101/2023; Orden 30/05/2023; Orden 7/05/2014 (flamenco); Decreto 328/2010; Instrucciones 8/03/2017.
+
+**7. Aplicación**: SA "Sombras de Al-Ándalus" (4.º): teatro de sombras sonorizado que integra los cuatro lenguajes; programas Vivir y Sentir el Patrimonio, AulaDcine, ComunicA, Aldea, Creciendo en Salud, Plan de Igualdad.
+
+## 13. Preguntas de autoevaluación
+
+1. **¿Qué rasgos diferencian los lenguajes artísticos del lenguaje verbal?** Predominio de la función estética y expresiva, códigos abiertos y polisémicos, carácter sensorial y emocional, y simultaneidad (imagen) o temporalidad (música, teatro, danza).
+2. **Enumera los elementos básicos del lenguaje plástico.** Punto, línea, plano, color, textura, forma, volumen, composición, espacio y luz.
+3. **¿Qué son los colores complementarios y para qué se usan en el aula?** Los que se sitúan opuestos en el círculo cromático (p. ej., rojo-verde, azul-naranja, amarillo-violeta); generan máximo contraste y se emplean para destacar elementos o producir vibración visual.
+4. **Diferencia entre técnicas aditivas y sustractivas en tridimensional.** El modelado añade o modifica materia blanda (arcilla, plastilina); la talla la elimina de un bloque (jabón, escayola, poliestireno).
+5. **¿Cuáles son las cuatro cualidades del sonido y su parámetro físico?** Altura (frecuencia), duración (tiempo de vibración), intensidad (amplitud) y timbre (armónicos o forma de onda).
+6. **Diferencia entre pulso, acento y ritmo.** El pulso es la unidad regular de tiempo; el acento, el pulso que se destaca periódicamente y origina el compás; el ritmo, la organización de duraciones diferentes sobre el pulso.
+7. **Cita tres métodos de pedagogía musical activa y su aportación principal.** Dalcroze (rítmica corporal), Orff (palabra-música-movimiento e instrumental escolar), Kodály (canto, fononimia, solfeo relativo y folclore).
+8. **¿Qué elementos componen la estructura dramática?** Personaje, conflicto, acción, espacio, tiempo, argumento y tema.
+9. **Diferencia entre juego dramático, dramatización y teatro.** El juego dramático es espontáneo y centrado en el proceso; la dramatización da forma teatral a un texto o situación con intención educativa; el teatro busca un producto ante un público con convenciones escénicas.
+10. **¿Qué indicadores de creatividad propuso Guilford?** Fluidez, flexibilidad, originalidad y elaboración.
+11. **Describe la etapa esquemática de Lowenfeld.** De 7 a 9 años: esquema estable de figura humana, línea de base y de cielo, abatimiento, transparencias, mezcla de tiempos, exageración de lo significativo y color objetivo.
+12. **¿Qué es el modelo DBAE?** Modelo de educación artística (Getty Center, Eisner) que integra producción, crítica, historia del arte y estética.
+13. **¿Cuáles son las cuatro competencias específicas de Educación Artística en el RD 157/2022?** Descubrir propuestas artísticas (recepción), investigar manifestaciones culturales y su contexto, expresar y comunicar creativamente produciendo obras propias, y participar en producciones colectivas.
+14. **¿Qué norma andaluza regula la inclusión del flamenco en el sistema educativo?** La Orden de 7 de mayo de 2014, en coherencia con el art. 68 del Estatuto de Autonomía y la LEA.
+15. **Señala tres medidas de seguridad en el aula-taller.** Materiales no tóxicos con marcado CE (UNE-EN 71), tijeras de punta redonda y herramientas cortantes bajo supervisión, control de alergias (p. ej., harina en pasta de sal) y consentimiento familiar para la difusión de imágenes.
+
+## 14. Consejos para defender este tema en el examen
+
+**Distribución del tiempo (prueba de unas 2 horas):**
+
+| Bloque | Tiempo orientativo | Contenido mínimo |
+|---|---|---|
+| Índice e introducción | 10 min | Índice numerado; justificación con Read/Eisner/Gardner y art. 17.j LOE-LOMLOE |
+| Concepto y rasgos comunes | 5-10 min | Tabla de lenguajes y elementos comunes |
+| Lenguaje plástico y visual | 25 min | Elementos (con círculo cromático), técnicas 2D/3D, imagen fija y en movimiento |
+| Lenguaje musical | 20 min | Cualidades del sonido, ritmo, melodía, forma, voz, instrumentos, flamenco |
+| Lenguaje dramático y corporal | 15 min | Elementos, juego dramático-dramatización-teatro, títeres, mimo, expresión corporal (Laban) |
+| Creatividad y desarrollo evolutivo | 15 min | Guilford, Wallas, Lowenfeld, Luquet, Swanwick |
+| Intervención y evaluación | 10-15 min | Principios, métodos musicales activos, aula-taller, seguridad, rúbrica |
+| Normativa, aplicación y conclusión | 10 min | RD 157/2022 (4 CE), Decreto 101/2023, Orden 30/05/2023, ejemplo de SA resumido |
+
+**Autores y referencias que "puntúan"**: Read (1943), Lowenfeld (1947), Arnheim (1954), Dondis (1973), Kandinsky (1926), Guilford (1950), Wallas (1926), Torrance, Gardner (1983), Eisner (2002), Swanwick, los métodos Dalcroze-Orff-Kodály-Willems, Schafer (paisaje sonoro), Laban (factores del movimiento), Rodari (1973), y entre los españoles Marín Viadel, María Acaso (*La educación artística no son manualidades*, 2009), Tomás Motos y Jesús Cañas para la dramatización.
+
+**Errores frecuentes**:
+
+- Convertir el tema en el **Tema 12** (el área de Educación Artística): este tema se centra en **elementos y técnicas** de cada lenguaje y en la **creatividad**; la normativa debe aplicarse, no ocupar la mitad del desarrollo.
+- Olvidar el **lenguaje dramático y corporal**, o tratarlo en dos líneas: es parte explícita del título.
+- Confundir **altura e intensidad**, **pulso y ritmo**, o **modelado y talla**.
+- Usar terminología derogada (**competencias básicas**, objetivos de área, estándares de aprendizaje) sin explicar la equivalencia LOMLOE.
+- Inventar artículos, años o citas textuales: mejor formular de manera general.
+- Presentar la plástica como "manualidades" con modelo único o ignorar la **atención a la diversidad**.
+
+**Cómo personalizarlo**:
+
+- Abrir con un ejemplo andaluz (cuevas de Ardales o de los Letreros, la Alhambra, Falla, Lorca) y cerrar con una cita o idea de Eisner.
+- Incluir **dibujos sencillos** en el examen: círculo cromático, esquema de las etapas de Lowenfeld, tabla de cualidades del sonido, musicograma breve.
+- Resumir en 8-10 líneas la **situación de aprendizaje** (curso, CE, criterios, producto final, evaluación, DUA) y conectarla con un programa de la Junta.
+- Aportar experiencia propia (aula-taller, coro escolar, teatro del centro, prácticas) y vincular el tema con el Plan de Centro y el trabajo del equipo de ciclo.
+- Cuidar la **presentación**: índice inicial, epígrafes numerados, tablas, subrayado de conceptos clave y una conclusión que retome la idea central: los lenguajes artísticos como forma de conocimiento, expresión y creatividad.

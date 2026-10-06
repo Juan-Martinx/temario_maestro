@@ -780,3 +780,157 @@ Al mismo tiempo, el tema nos recuerda que el ser humano tiene una **capacidad am
 
 La escuela andaluza dispone de un marco normativo (RD 157/2022, Decreto 101/2023, Orden de 30 de mayo de 2023) que sitúa la **conciencia ecosocial** en el núcleo del área de Conocimiento del Medio Natural, Social y Cultural y del Perfil de salida, y de programas consolidados como **Aldea**, **Ecoescuelas** o **Ecohuerto**. Corresponde al maestro o la maestra convertir el patio, el huerto y el entorno en laboratorios vivos donde el alumnado **conozca, viva y actúe**, siguiendo la triple dimensión de la educación ambiental: educación **sobre**, **en** y **para** el medio ambiente. Como recordaba el lema atribuido al movimiento ecologista, se trata de "pensar globalmente y actuar localmente": formar hoy a niños y niñas capaces de cuidar mañana el único planeta que tenemos.
 
+## 12. Bibliografía y webgrafía
+
+### 12.1. Ecología y medio ambiente
+
+- Carson, R. (1962). *Primavera silenciosa*. Barcelona: Crítica (ed. en castellano).
+- Margalef, R. (1974). *Ecología*. Barcelona: Omega.
+- Odum, E. P. y Barrett, G. W. (2006). *Fundamentos de ecología* (5.ª ed.). México: Thomson.
+- Begon, M., Townsend, C. R. y Harper, J. L. (2006). *Ecology: From Individuals to Ecosystems* (4.ª ed.). Oxford: Blackwell.
+- Hardin, G. (1968). "The Tragedy of the Commons". *Science*, 162.
+- Meadows, D. H. et al. (1972). *Los límites del crecimiento*. Informe al Club de Roma. México: FCE.
+- Comisión Mundial sobre el Medio Ambiente y el Desarrollo (1987). *Nuestro futuro común* (Informe Brundtland). Madrid: Alianza.
+- Crutzen, P. J. y Stoermer, E. F. (2000). "The Anthropocene". *IGBP Newsletter*, 41.
+- Rockström, J. et al. (2009). "A safe operating space for humanity". *Nature*, 461.
+- IPCC (2021-2023). *Sexto Informe de Evaluación* (AR6). Ginebra: IPCC.
+
+### 12.2. Educación ambiental y didáctica
+
+- UNESCO-PNUMA (1977). *Declaración de la Conferencia Intergubernamental de Tbilisi sobre Educación Ambiental*.
+- Ministerio de Medio Ambiente (1999). *Libro Blanco de la Educación Ambiental en España*. Madrid.
+- Novo, M. (1998). *La educación ambiental: bases éticas, conceptuales y metodológicas*. Madrid: Universitas/UNESCO.
+- Sauvé, L. (2004). "Una cartografía de corrientes en educación ambiental". En M. Sato y I. Carvalho (comps.), *A pesquisa em educação ambiental*. Porto Alegre: Artmed.
+- Hart, R. (1992). *Children's Participation: From Tokenism to Citizenship*. Florencia: UNICEF.
+- Tonucci, F. (1996). *La ciudad de los niños*. Madrid: Fundación Germán Sánchez Ruipérez.
+- Louv, R. (2005). *Last Child in the Woods*. Chapel Hill: Algonquin Books (ed. castellana: *Los últimos niños en el bosque*, 2018).
+- Freire, H. (2011). *Educar en verde. Ideas para acercar a niños y niñas a la naturaleza*. Barcelona: Graó.
+- Harlen, W. (ed.) (2010). *Principios y grandes ideas de la educación en ciencias*. Hatfield: ASE.
+- Leach, J., Driver, R., Scott, P. y Wood-Robinson, C. (1996). "Children's ideas about ecology". *International Journal of Science Education*, 18.
+- Cañal, P., García, J. E. y Porlán, R. (1981). *Ecología y escuela. Teoría y práctica de la educación ambiental*. Barcelona: Laia.
+- Comisión Europea (2022). *GreenComp: el marco europeo de competencias sobre sostenibilidad*. Luxemburgo: Oficina de Publicaciones de la UE.
+- UNESCO (2020). *Educación para el desarrollo sostenible: hoja de ruta (EDS para 2030)*. París: UNESCO.
+
+### 12.3. Normativa
+
+- LO 2/2006, de 3 de mayo, de Educación, modificada por la LO 3/2020, de 29 de diciembre (LOMLOE).
+- Real Decreto 157/2022, de 1 de marzo, ordenación y enseñanzas mínimas de la Educación Primaria.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de la Educación Primaria en Andalucía.
+- Orden de 30 de mayo de 2023, desarrollo del currículo de Educación Primaria en Andalucía.
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de las escuelas infantiles de segundo grado, colegios de educación primaria, colegios de educación infantil y primaria y centros públicos específicos de educación especial.
+- Ley 42/2007, del Patrimonio Natural y de la Biodiversidad; Ley 7/2021, de cambio climático y transición energética; Ley 7/2022, de residuos y suelos contaminados para una economía circular; Ley 2/1989, de Inventario de Espacios Naturales Protegidos de Andalucía; Ley 8/2018, de medidas frente al cambio climático en Andalucía.
+
+### 12.4. Webgrafía
+
+- BOE: https://www.boe.es · BOJA: https://www.juntadeandalucia.es/boja
+- Portal de Innovación Educativa de la Junta de Andalucía (Programa Aldea y demás programas): https://www.juntadeandalucia.es/educacion/portals/web/innovacion-educativa
+- Consejería competente en Sostenibilidad y Medio Ambiente, Junta de Andalucía (RENPA, Red de Información Ambiental de Andalucía, REDIAM): https://www.juntadeandalucia.es/medioambiente
+- Centro Nacional de Educación Ambiental (CENEAM), MITECO: https://www.miteco.gob.es/es/ceneam
+- Ecoescuelas, ADEAC: https://www.adeac.es
+- INTEF y Procomún (recursos educativos abiertos): https://intef.es
+- Agenda 2030 y ODS (Naciones Unidas): https://www.un.org/sustainabledevelopment/es
+- Ciencia ciudadana y biodiversidad: SEO/BirdLife (https://seo.org) y plataformas de observación de especies.
+
+## 13. Esquema-resumen para memorizar
+
+**Bloque 1. Conceptos**
+
+| Concepto | Idea esencial |
+|---|---|
+| Medio ambiente | Sistema de elementos naturales y sociales en interacción |
+| Ecología | Haeckel (1866): relaciones de los seres vivos entre sí y con su medio |
+| Ecosistema | Tansley (1935): biocenosis + biotopo + interacciones |
+| Niveles | Individuo → población → comunidad → ecosistema → bioma → biosfera |
+| Sostenibilidad | Brundtland (1987): satisfacer necesidades presentes sin comprometer las futuras |
+
+**Bloque 2. Funcionamiento del ecosistema**
+
+| Elemento | Claves |
+|---|---|
+| Factores abióticos | Luz, temperatura, agua, suelo, pH; ley del mínimo (Liebig) y de la tolerancia (Shelford) |
+| Relaciones intraespecíficas | Familiares, gregarias, coloniales, estatales; competencia |
+| Relaciones interespecíficas | Depredación, parasitismo, competencia, mutualismo/simbiosis, comensalismo, inquilinismo |
+| Niveles tróficos | Productores → consumidores (1.º, 2.º, 3.º) → descomponedores |
+| Energía | Flujo **unidireccional**; regla del 10 % (Lindeman, 1942); pirámides |
+| Materia | Ciclo **cerrado**: agua, carbono, nitrógeno, fósforo |
+| Dinámica | Autorregulación (Lotka-Volterra), sucesión primaria/secundaria, clímax |
+| Biodiversidad | Genética, de especies, de ecosistemas; *hotspot* mediterráneo |
+
+**Bloque 3. Deterioro y regeneración**
+
+| Deterioro | Regeneración / gestión |
+|---|---|
+| Contaminación (aire, agua, suelo, plásticos) | Depuración, economía circular, regla de las R (reducir, reutilizar, reciclar) |
+| Deforestación e incendios | Reforestación con autóctonas, Plan INFOCA, sucesión secundaria |
+| Erosión y desertificación | Restauración de suelos, cubierta vegetal |
+| Cambio climático | Mitigación y adaptación; Acuerdo de París (2015) |
+| Especies invasoras | Catálogo (RD 630/2013), erradicación |
+| Sobreexplotación | Gestión sostenible, vedas, cuotas |
+| Pérdida de biodiversidad | Espacios protegidos (RENPA, Red Natura 2000), cría en cautividad (lince ibérico) |
+
+**Bloque 4. Ser humano y naturaleza**: cazador-recolector → revolución neolítica → revolución industrial → Antropoceno. Hitos: Carson (1962) · Estocolmo (1972) · Club de Roma (1972) · Brundtland (1987) · Río (1992) · Kioto (1997) · Agenda 2030 (2015) · París (2015).
+
+**Bloque 5. Intervención educativa**
+
+- EA: **sobre / en / para** el medio ambiente (Lucas, 1972). Tbilisi (1977): conciencia, conocimientos, actitudes, aptitudes, participación.
+- Currículo: CMNSC, CE2, CE5, CE6; saberes A.2, C.1, C.4; descriptores STEM5 y CC4.
+- Andalucía: Decreto 101/2023, Orden 30/05/2023; Programa **Aldea** (Ecohuerto, EducAves, Pleamar, Terral, Recapacicla), **Ecoescuelas** (7 pasos, Bandera Verde).
+- Metodología: ideas previas, indagación, entorno próximo, huerto, salidas, ciencia ciudadana, acción real, DUA.
+- SA modelo: "Misión Refugio" (5.º): ecoauditoría → red trófica → salida → diseño → acción → exposición pública.
+
+## 14. Preguntas de autoevaluación
+
+1. **¿Qué diferencia hay entre flujo de energía y ciclo de la materia?** La energía entra como luz solar, se transfiere entre niveles tróficos perdiéndose como calor y no se recicla (flujo unidireccional); la materia se recicla continuamente gracias a los descomponedores (ciclo cerrado).
+2. **¿Quién acuñó el término ecosistema y qué incluye?** Tansley (1935): el conjunto formado por la biocenosis, el biotopo y las relaciones entre ambos.
+3. **Explica la regla del 10 %.** Formulada a partir de Lindeman (1942): de cada nivel trófico solo pasa al siguiente, aproximadamente, un 10 % de la energía; por eso las cadenas tróficas son cortas y los superdepredadores escasos.
+4. **Diferencia mutualismo, comensalismo y parasitismo.** Mutualismo: ambas especies se benefician (+/+); comensalismo: una se beneficia y la otra no se ve afectada (+/0); parasitismo: una se beneficia a costa de la otra (+/−).
+5. **¿Qué es la sucesión ecológica secundaria? Pon un ejemplo andaluz.** La recolonización de un área donde existía un ecosistema que fue alterado pero conserva el suelo; p. ej. la regeneración de un pinar o un matorral mediterráneo tras un incendio en Sierra Bermeja.
+6. **Cita cinco factores de deterioro de los ecosistemas.** Contaminación, deforestación y cambio de usos del suelo, incendios forestales, erosión y desertificación, cambio climático, especies exóticas invasoras, sobreexplotación de recursos.
+7. **¿Qué es la RENPA y qué figuras incluye?** La Red de Espacios Naturales Protegidos de Andalucía: parques nacionales, parques naturales, parajes y reservas naturales, monumentos naturales, parques periurbanos, paisajes protegidos y espacios de la Red Natura 2000, entre otros.
+8. **Define desarrollo sostenible.** Según el Informe Brundtland (1987), el que satisface las necesidades del presente sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas; integra las dimensiones ambiental, social y económica.
+9. **¿Qué tres dimensiones tiene la educación ambiental?** Educación sobre el medio (conocimientos), en el medio (el entorno como recurso) y para el medio (valores y acción) (Lucas, 1972).
+10. **¿Por qué es fundamental la Conferencia de Tbilisi (1977)?** Es el documento fundacional de la EA: fijó su naturaleza, objetivos y principios (enfoque global, interdisciplinar, permanente, participativo, de lo local a lo global).
+11. **¿Qué descriptores operativos del Perfil de salida se vinculan con este tema?** Sobre todo STEM5 (preservar el medio ambiente y los seres vivos, consumo responsable) y CC4 (interdependencia, ecodependencia y estilo de vida sostenible).
+12. **¿Qué competencias específicas de CMNSC desarrollan el tema?** Principalmente CE5 (relaciones entre elementos del medio y conservación del patrimonio natural) y CE6 (consecuencias de la intervención humana y estilos de vida sostenibles), apoyadas en CE2 (indagación).
+13. **¿Qué es el Programa Aldea?** Programa de educación ambiental de la Junta de Andalucía (consejerías de educación y de medio ambiente), integrado en los Programas para la Innovación Educativa, con un proyecto integral (incluye Ecoescuelas) y proyectos temáticos como Ecohuerto, EducAves, Pleamar, Terral o Recapacicla.
+14. **Enumera los pasos de la metodología Ecoescuelas.** Comité ambiental, ecoauditoría, plan de acción, control y evaluación, trabajo curricular, información y comunicación, ecocódigo; culmina con la Bandera Verde.
+15. **Cita dos ideas previas erróneas del alumnado sobre ecología y cómo abordarlas.** "Las plantas se alimentan de la tierra" (experiencias de fotosíntesis y crecimiento con y sin luz) y "la energía se recicla" (pirámides y juegos de simulación de transferencia de energía); en ambos casos, provocar el conflicto cognitivo y el cambio conceptual.
+
+## 15. Consejos para defender este tema en el examen
+
+**Distribución del tiempo (prueba de unas 2 horas):**
+
+| Parte | Tiempo orientativo | Contenido |
+|---|---|---|
+| Índice e introducción | 10 min | Índice numerado; justificación con Antropoceno, Agenda 2030 y LOMLOE |
+| Conceptos y ecosistema | 35 min | Definiciones con autores (Haeckel, Tansley, Lindeman), relaciones, flujo/ciclos, sucesión, biodiversidad |
+| Deterioro y regeneración | 20 min | Tabla factor de deterioro → medida de regeneración, con ejemplos andaluces |
+| Acción humana y sostenibilidad | 15 min | Evolución histórica, hitos (1962-2015), Brundtland, ODS |
+| Intervención educativa y normativa | 25 min | EA (Tbilisi, sobre/en/para), currículo LOMLOE y andaluz, Aldea, SA resumida |
+| Conclusión y bibliografía | 10 min | Conclusión personal y 5-6 referencias bien citadas |
+| Revisión | 5 min | Ortografía, numeración, tildes |
+
+**Lo que "puntúa":**
+
+- Citar con año a los autores clave: **Haeckel (1866)**, **Tansley (1935)**, **Lindeman (1942)**, **Margalef**, **Odum**, **Carson (1962)**, **Hardin (1968)**, **Brundtland (1987)**, **Crutzen (2000)**, **Rockström (2009)** y, en didáctica, **Tbilisi (1977)**, **Lucas (1972)**, **Novo (1998)**, **Hart (1992)**, **Louv (2005)**.
+- **Contextualizar en Andalucía**: Doñana, Sierra Nevada, la dehesa, Cabo de Gata-Níjar, el lince ibérico, la RENPA, el Plan INFOCA, el Programa Aldea. Un tribunal andaluz valora mucho que el opositor conozca su entorno.
+- **Incluir tablas y esquemas** (relaciones interespecíficas, deterioro/regeneración, hitos): ordenan la exposición y facilitan la lectura al tribunal.
+- Utilizar con precisión la **terminología LOMLOE** (competencias específicas, descriptores operativos, saberes básicos, situaciones de aprendizaje) y explicar que el antiguo "Conocimiento del medio" es hoy **Conocimiento del Medio Natural, Social y Cultural**.
+- Cerrar la intervención educativa con una **situación de aprendizaje breve pero completa** (curso, reto, CE, criterios, actividades, producto final, evaluación, DUA).
+
+**Errores frecuentes que conviene evitar:**
+
+- Decir que la energía "se recicla" o que las flechas de una cadena trófica indican "quién se come a quién" en sentido inverso.
+- Confundir **biotopo** y **hábitat**, o **ecosistema** y **bioma**.
+- Confundir **conservación** (uso racional) con **preservación** (no intervención).
+- Limitar el tema a la ecología y olvidar la "intervención educativa" del título, o al revés, convertirlo en un tema solo didáctico sin rigor científico.
+- Citar normativa derogada (LOE sin LOMLOE, Decreto 97/2015 u Orden de 15 de enero de 2021 como vigentes) o inventar números de artículos.
+- Presentar una visión catastrofista: el tema pide también la **capacidad positiva** del ser humano y ejemplos de regeneración.
+
+**Cómo personalizarlo:**
+
+- Referirse a un espacio natural de **tu provincia** y a una especie emblemática local.
+- Aludir a una experiencia real (huerto escolar, participación en Aldea o Ecoescuelas, una salida a un Aula de Naturaleza).
+- Conectar con la actualidad (sequía, episodios de calor extremo en las aulas, naturalización de patios, situación de Doñana) sin perder el tono académico.
+- Terminar con una idea-fuerza propia, por ejemplo: *"educar para la sostenibilidad no es enseñar a tener miedo al futuro, sino enseñar a cuidarlo"*.
