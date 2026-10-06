@@ -630,7 +630,7 @@ En definitiva, como recordaba Pennac, el verbo leer no soporta el imperativo: la
 
 **Didáctica de la literatura y educación literaria**
 
-- Bierwisch, M. (1965). "Poetik und Linguistik". En la tradición de la competencia literaria por analogía con la competencia lingüística.
+- Bierwisch, M. (1965). "Poetik und Linguistik" (artículo en el que formula el concepto de competencia literaria por analogía con la competencia lingüística).
 - Cerrillo, P. C. (2007). *Literatura Infantil y Juvenil y educación literaria. Hacia una nueva enseñanza de la literatura*. Barcelona: Octaedro.
 - Cerrillo, P. C. (2016). *El lector literario*. México: Fondo de Cultura Económica.
 - Cervera, J. (1984). *La literatura infantil en la educación básica*. Madrid: Cincel.
@@ -645,7 +645,7 @@ En definitiva, como recordaba Pennac, el verbo leer no soporta el imperativo: la
 
 **Géneros, folclore y creatividad**
 
-- Cerrillo, P. C. (2005). *Lírica popular española de tradición infantil*. Cuenca: Ediciones de la UCLM.
+- Cerrillo, P. C. (2005). Estudios y antología del cancionero popular infantil español (lírica popular de tradición infantil). Cuenca: Ediciones de la Universidad de Castilla-La Mancha.
 - Cervera, J. (1981). *Cómo practicar la dramatización con niños de 4 a 14 años*. Madrid: Cincel.
 - Pelegrín, A. (1996). *La flor de la maravilla. Juegos, recreos, retahílas*. Madrid: Fundación Germán Sánchez Ruipérez.
 - Propp, V. (1928). *Morfología del cuento* (trad. esp.). Madrid: Fundamentos/Akal.
@@ -842,7 +842,7 @@ En una prueba de unas dos horas, una distribución orientativa es:
 
 - Incluir **experiencias propias**: una tertulia dialógica realizada, el club de lectura del centro, la organización de la biblioteca con colores, un proyecto de radio escolar o un encuentro con un autor.
 - Adaptar los autores andaluces a la **provincia** del opositor (poetas, ilustradores o leyendas locales) y mencionar la **biblioteca municipal** de la localidad como aliada.
-- Vincular el tema con otros del temario: Tema 12 o 13 (lectura y escritura, comprensión lectora), Tema 14 (lectoescritura), Tema 15 (literatura infantil, si el tribunal lo relaciona) y temas de atención a la diversidad y TIC.
+- Vincular el tema con otros del temario: Tema 14 (el área de Lengua Castellana y Literatura), Tema 15 (reflexión sobre la lengua y adquisición de la lectoescritura), Tema 17 (desarrollo del lenguaje y comunicación oral) y los temas de atención a la diversidad y de tecnologías de la información.
 - Cerrar con una **frase memorable** propia o de referencia (Pennac: "el verbo leer no soporta el imperativo") y con una idea de compromiso docente: el maestro como lector y mediador.
 
 > **Idea clave:** el tema se gana demostrando que se sabe **por qué** (fundamentación teórica), **qué** (currículo y normativa), **dónde** (biblioteca de aula y de centro), **cuándo** (tiempo diario, plan de lectura) y **cómo** (estrategias, situación de aprendizaje y evaluación) se forma un lector literario en un colegio andaluz.

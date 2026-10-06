@@ -670,3 +670,113 @@ Los centros que completan el proceso pueden obtener el galardón de la **Bandera
 | Cambio climático | Ley 7/2021 (estatal); Ley 8/2018 (Andalucía) |
 | Residuos | Ley 7/2022, de residuos y suelos contaminados para una economía circular |
 | Europa | Directiva Hábitats 92/43/CEE; Directiva Aves 2009/147/CE; Directiva Marco del Agua 2000/60/CE |
+
+## 10. Intervención educativa (II): aplicación didáctica en el aula andaluza
+
+### 10.1. Principios metodológicos para enseñar ecología y sostenibilidad
+
+La intervención educativa sobre el entorno y su conservación debe traducir los principios de la EA (sección 8) y los principios pedagógicos del Decreto 101/2023 a decisiones concretas de aula. Los más relevantes son:
+
+| Principio | Concreción en el tema |
+|---|---|
+| **Partir de las ideas previas** (Ausubel, 1963; Driver, 1985) | Detectar las concepciones alternativas del alumnado antes de enseñar (dibujos, preguntas abiertas, mapas conceptuales) |
+| **Aprendizaje por indagación** (Harlen, 2010; enfoque IBSE) | Preguntas investigables sobre el entorno: ¿qué animales viven en el patio?, ¿por qué hay menos golondrinas? |
+| **Aprendizaje situado y orientado a la acción** | Problemas reales del centro y del barrio; el producto final mejora el entorno |
+| **Del entorno próximo al lejano** | Del patio al parque, al río, a la comarca, a Andalucía y al planeta ("piensa globalmente, actúa localmente") |
+| **Contacto directo con la naturaleza** (Louv, 2005; Freire, 2011) | Salidas, huerto, patio naturalizado; prevención del "déficit de naturaleza" |
+| **Participación real del alumnado** (Hart, 1992; Tonucci, 1996) | Comité ambiental, asambleas, decisiones compartidas en la ecoauditoría |
+| **Enfoque sistémico y complejo** (Morin; Novo, 1998) | Relaciones, interdependencias y consecuencias en cadena |
+| **Pensamiento crítico y alfabetización mediática** | Análisis de noticias, bulos ambientales y publicidad "verde" (*greenwashing*) |
+| **DUA** (CAST) | Múltiples formas de representación, acción-expresión e implicación |
+
+**Ideas previas frecuentes del alumnado** sobre ecología (recogidas en investigaciones como las de Leach, Driver, Scott y Wood-Robinson, 1996), que el docente debe conocer para provocar el **cambio conceptual** (Posner et al., 1982):
+
+- "Las plantas se alimentan de la tierra" (desconocen que fabrican su materia orgánica mediante la fotosíntesis).
+- "La energía se recicla en el ecosistema como la materia" (confunden flujo de energía y ciclo de materia).
+- Las flechas de una cadena trófica se interpretan como "quién se come a quién" en sentido inverso al convenido (la flecha indica la dirección de la materia y la energía).
+- Los **descomponedores** se olvidan o se consideran "suciedad"; los depredadores se ven como "malos" y prescindibles.
+- Un cambio en una población solo afecta a su presa o depredador directo (falta de pensamiento en red).
+- "Si algo es natural, no contamina" o "los problemas ambientales los causan otros, lejos".
+
+**Recursos y estrategias** especialmente útiles: el **huerto escolar** (ciclo de la materia, fotosíntesis, compostaje, estaciones, alimentación saludable), el **compostador y el vermicompostador** (descomponedores en acción), **cajas nido y hoteles de insectos** (biodiversidad urbana, polinizadores), **terrarios y acuarios** (ecosistemas en miniatura y autorregulación), **itinerarios didácticos** con cuaderno de campo, **ciencia ciudadana** (censos de aves, observaciones en plataformas de biodiversidad, seguimiento de la fenología), **claves dicotómicas** sencillas y apps de identificación, **sensores** de temperatura, humedad o ruido (Programa STEAM), **juegos de simulación** (la red de la vida con un ovillo de lana, el juego de la pesca sostenible para comprender la "tragedia de los comunes" de Hardin, 1968), **ecoauditorías** y **campañas** de sensibilización dirigidas a la comunidad.
+
+> **Idea clave:** el producto final de una situación de aprendizaje ambiental no debe ser solo un mural, sino una **acción con impacto real** en el entorno (un refugio de biodiversidad, un ecocódigo aprobado, una reducción medida de residuos), coherente con la educación "para" el medio ambiente.
+
+### 10.2. Situación de aprendizaje: "Misión Refugio: convertimos el patio en un ecosistema vivo"
+
+**Contextualización.** CEIP de una localidad de la campiña andaluza adherido al **Programa Aldea** (proyecto integral, red **Ecoescuelas**) y a la línea **Ecohuerto**. El patio es casi todo hormigón, sin sombra, y en verano alcanza temperaturas muy elevadas. El alumnado de **5.º de Primaria (tercer ciclo)** detecta en una asamblea que "en el patio no hay vida" y que las golondrinas y los vencejos que anidaban en el edificio antiguo han desaparecido tras la reforma. El reto: **diseñar y poner en marcha un refugio de biodiversidad** (huerto, zona de plantas autóctonas, charca, hoteles de insectos y cajas nido) y presentarlo al Consejo Escolar y al Ayuntamiento.
+
+**Temporalización:** 12 sesiones de 60 minutos a lo largo del segundo trimestre (febrero-marzo, coincidiendo con la siembra de primavera y con el **Día Mundial de la Vida Silvestre**, 3 de marzo, y el **Día Internacional de los Bosques**, 21 de marzo), con continuidad en el tercer trimestre para el mantenimiento y el seguimiento.
+
+**Vinculación curricular (formulación resumida a partir del RD 157/2022 y la Orden de 30 de mayo de 2023):**
+
+| Elemento | Concreción |
+|---|---|
+| **Competencias específicas de CMNSC** | CE2 (indagación científica), CE5 (relaciones entre elementos del medio y conservación del patrimonio natural), CE6 (intervención humana y estilos de vida sostenibles) |
+| **Criterios de evaluación** | Formular preguntas e hipótesis y realizar indagaciones con instrumentos adecuados (CE2); establecer relaciones entre los elementos de un ecosistema y analizar su organización (CE5); valorar y proteger el patrimonio natural mediante propuestas y acciones (CE5); identificar problemas ecosociales, proponer soluciones y poner en práctica estilos de vida sostenibles, expresando los cambios positivos y negativos causados por la acción humana (CE6) |
+| **Saberes básicos** | A.1 Iniciación en la actividad científica; A.2 La vida en nuestro planeta (ecosistemas, relaciones tróficas, biodiversidad, especies del entorno andaluz); C.1 Retos del mundo actual (cambio climático, ODS); C.4 Conciencia ecosocial |
+| **Descriptores operativos** | STEM1, STEM2, STEM5, CC4, CPSAA3, CD1, CCL1, CE1 |
+| **Áreas relacionadas** | Lengua (textos expositivos y argumentativos, exposición oral), Matemáticas (medida, superficie, estadística, presupuesto), Educación Artística (diseño del refugio, señalética), Educación Física (itinerario por el entorno) |
+| **ODS** | 4 (educación de calidad, meta 4.7), 11 (ciudades sostenibles), 13 (acción por el clima), 15 (vida de ecosistemas terrestres) |
+
+**Secuencia de actividades:**
+
+| Fase | Sesión | Actividades |
+|---|---|---|
+| **Activación y diagnóstico** | 1 | Asamblea a partir de dos fotografías (patio actual / patio naturalizado de otro centro). Rutina de pensamiento *Veo-Pienso-Me pregunto*. Detección de ideas previas: dibujo individual de "la red de la vida del patio". Formulación de la pregunta guía: *¿Cómo podemos devolver la vida a nuestro patio?* |
+| | 2 | **Ecoauditoría** del patio por equipos cooperativos: superficie de suelo permeable e impermeable (medición), temperatura al sol y a la sombra con termómetros o sensores, inventario de seres vivos (plantas, insectos, aves) con lupas y claves dicotómicas sencillas, residuos encontrados. Registro en tablas |
+| **Investigación** | 3 | Análisis de datos: gráficos de barras de seres vivos y temperaturas. Conclusiones: poca biodiversidad, "isla de calor", ausencia de productores y refugios |
+| | 4 | ¿Qué es un ecosistema? Componentes bióticos y abióticos del patio. Construcción de **cadenas y redes tróficas** con especies reales del entorno (encina, pulgón, mariquita, gorrión, cernícalo, lombriz, hongos). Juego de la **red de la vida con un ovillo**: ¿qué ocurre si desaparece una especie? |
+| | 5 | **Salida** a un espacio natural cercano o a un **Aula de Naturaleza** (p. ej. una dehesa o un parque periurbano): cuaderno de campo, comparación con el patio, observación de estratos de vegetación y de nidos. Entrevista a un agente de medio ambiente |
+| | 6 | Factores de deterioro: ¿por qué faltan las aves insectívoras? Investigación documental en pequeños grupos (pérdida de hábitat, pesticidas, reformas de edificios, cambio climático). Puesta en común con un organizador gráfico causa-consecuencia |
+| **Diseño** | 7 | Diseño del refugio: plano a escala del patio, selección de **plantas autóctonas mediterráneas** (romero, lavanda, lentisco, tomillo, acebuche) adaptadas a la sequía, ubicación del huerto, la charca y el compostador. Presupuesto con folleto de precios (Matemáticas) |
+| | 8 | Construcción de **hoteles de insectos** y **cajas nido** para vencejos y carboneros con ayuda de las familias (taller intergeneracional). Instalación del **compostador** con restos de fruta del recreo (Plan de Consumo de Fruta) |
+| **Acción** | 9 | Plantación participativa y siembra del **huerto ecológico** (Ecohuerto), con calendario de riego por goteo. Organización de turnos de cuidado y de "patrullas verdes" |
+| | 10 | Redacción del **ecocódigo** del patio (metodología Ecoescuelas) y de cartelería con códigos QR que enlazan a fichas de especies elaboradas por el alumnado (Transformación Digital Educativa, ComunicA) |
+| **Comunicación y evaluación** | 11 | **Producto final**: presentación oral del proyecto al Consejo Escolar y a un representante municipal, con propuesta de mejora del entorno del centro. Difusión en la web del centro y en un podcast escolar |
+| | 12 | Evaluación y metacognición: nuevo dibujo de "la red de la vida del patio" y comparación con el inicial; diana de autoevaluación; coevaluación del trabajo en equipo; diario de aprendizaje. Plan de **seguimiento**: censo mensual de visitantes del refugio (ciencia ciudadana) |
+
+**Evaluación.** Criterial, continua, formativa e integradora (Orden de 30 de mayo de 2023), con técnicas e instrumentos variados:
+
+| Instrumento | Qué evalúa | Agente |
+|---|---|---|
+| Rúbrica de indagación (4 niveles) | Formulación de preguntas, registro de datos, conclusiones (CE2) | Docente |
+| Comparación de dibujos inicial y final de la red trófica | Cambio conceptual sobre relaciones en el ecosistema (CE5) | Docente y alumnado |
+| Cuaderno de campo y portfolio | Observación, uso de claves, vocabulario científico | Docente |
+| Lista de cotejo del diseño del refugio | Adecuación de especies, coherencia ecológica, presupuesto (CE5, CE6) | Docente |
+| Rúbrica de exposición oral | Comunicación del proyecto y argumentación (CCL) | Docente, coevaluación |
+| Diana de autoevaluación y diario de aprendizaje | Implicación, cooperación, compromiso ecosocial (CPSAA, CC4) | Alumnado |
+| Escala de observación | Actitudes de cuidado y responsabilidad en las patrullas verdes | Docente |
+
+La calificación se obtiene a partir de los **criterios de evaluación** ponderados según lo acordado en el centro, y el nivel de desempeño se expresa en los términos establecidos por la normativa andaluza (insuficiente, suficiente, bien, notable, sobresaliente).
+
+**Atención a la diversidad y DUA:**
+
+- **Representación:** fichas de especies con pictogramas e imágenes reales, vídeos subtitulados, claves dicotómicas visuales simplificadas, glosario ilustrado; textos en lectura fácil para el alumnado que lo precise.
+- **Acción y expresión:** el alumnado puede demostrar lo aprendido mediante un mapa conceptual, una maqueta, un audio, una presentación digital o una exposición oral; roles diferenciados en los equipos (responsable de datos, de materiales, portavoz, coordinador).
+- **Implicación:** elección de la especie a investigar, reto auténtico con impacto visible, refuerzo de la autonomía y celebración de los logros.
+- **Medidas concretas:** para un alumno con **TEA**, anticipación con agenda visual de la salida y del cambio de rutina, rol estructurado (fotógrafo o registrador de datos) y espacio de calma; para alumnado con **altas capacidades**, enriquecimiento con el cálculo de la huella de carbono del centro o un pequeño estudio sobre los polinizadores; para alumnado con **dificultades motoras**, accesibilidad del itinerario y de los bancales elevados del huerto; para alumnado de incorporación tardía, apoyo de un compañero tutor y vocabulario visual bilingüe.
+- Coordinación con el **PT/AL** y con las familias, conforme a las **Instrucciones de 8 de marzo de 2017** y a las medidas generales de atención a la diversidad de la Orden de 30 de mayo de 2023.
+
+**Elementos transversales y planes:** Programa **Aldea** (proyecto integral y Ecohuerto), **Ecoescuelas** (ecoauditoría, comité ambiental, ecocódigo), **Creciendo en Salud** (alimentación saludable), **ComunicA** (exposición oral, textos), **Transformación Digital Educativa** (QR, podcast, sensores), **Plan de Igualdad** (referentes como Wangari Maathai o Jane Goodall), **cultura andaluza** (vegetación mediterránea, dehesa, tradición agrícola de la campiña).
+
+### 10.3. Otras propuestas por ciclos
+
+| Ciclo | Propuesta | Contenidos clave |
+|---|---|---|
+| **Primer ciclo** (1.º-2.º) | "Los bichitos del patio": observación con lupas, terrario de caracoles o isópodos, cuidado de una planta | Seres vivos e inertes, necesidades de los seres vivos, respeto a los animales |
+| | "¿Qué tiramos?": separación de residuos en el aula con contenedores de colores | Las 3R, hábitos responsables |
+| **Segundo ciclo** (3.º-4.º) | "Diario de un río": salida al río o arroyo cercano, observación de bioindicadores sencillos (macroinvertebrados) y del bosque de ribera | Ecosistema acuático, contaminación del agua, ciclo del agua |
+| | "Detectives de la energía": auditoría del consumo de luz y agua en el centro | Recursos naturales, ahorro, estilos de vida sostenibles |
+| **Tercer ciclo** (5.º-6.º) | "Doñana en peligro": estudio de caso sobre el acuífero, la agricultura y la conservación; debate con roles (agricultor, científico, vecino, turista) | Conflictos ambientales, gestión sostenible, ciudadanía |
+| | "Somos reforestadores": participación en la línea de reforestación de Aldea tras un incendio forestal de la comarca | Sucesión ecológica, regeneración, prevención de incendios |
+| | "Nuestra huella": cálculo sencillo de la huella ecológica familiar y plan de mejora | Consumo responsable, cambio climático, ODS 12 y 13 |
+
+## 11. Conclusión
+
+El entorno y su conservación es uno de los temas que mejor condensan el sentido de la escuela del siglo XXI. Comprender cómo funciona un **ecosistema** —sus factores bióticos y abióticos, las relaciones intra e interespecíficas, el **flujo unidireccional de energía** y el **ciclo de la materia**, la autorregulación y la sucesión ecológica— es la base científica imprescindible para entender por qué los ecosistemas se **deterioran** (contaminación, deforestación, incendios, desertificación, cambio climático, especies invasoras, sobreexplotación) y cómo pueden **regenerarse** mediante la sucesión natural, la restauración ecológica y una gestión sostenible y protegida, como la que ejemplifica la RENPA en Andalucía.
+
+Al mismo tiempo, el tema nos recuerda que el ser humano tiene una **capacidad ambivalente** de actuar sobre la naturaleza: la misma especie que ha provocado la crisis ecológica del Antropoceno ha sido capaz de recuperar al lince ibérico, de proteger Doñana o de acordar la Agenda 2030. El **desarrollo sostenible**, en la formulación del Informe Brundtland (1987), y la educación para la sostenibilidad y la ciudadanía mundial que impulsa la **LOMLOE** dan sentido a esa capacidad positiva.
+
+La escuela andaluza dispone de un marco normativo (RD 157/2022, Decreto 101/2023, Orden de 30 de mayo de 2023) que sitúa la **conciencia ecosocial** en el núcleo del área de Conocimiento del Medio Natural, Social y Cultural y del Perfil de salida, y de programas consolidados como **Aldea**, **Ecoescuelas** o **Ecohuerto**. Corresponde al maestro o la maestra convertir el patio, el huerto y el entorno en laboratorios vivos donde el alumnado **conozca, viva y actúe**, siguiendo la triple dimensión de la educación ambiental: educación **sobre**, **en** y **para** el medio ambiente. Como recordaba el lema atribuido al movimiento ecologista, se trata de "pensar globalmente y actuar localmente": formar hoy a niños y niñas capaces de cuidar mañana el único planeta que tenemos.
+
