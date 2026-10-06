@@ -586,3 +586,216 @@ Los resultados se vinculan a los criterios de evaluación de las competencias es
 - **Alumnado con NEAE** (según las Instrucciones de 8 de marzo de 2017 y la Orden de 30 de mayo de 2023): adaptación de la ficha de fuentes a 3 preguntas, apoyo del profesorado especialista (PT/AL) dentro del aula, tareas de **ampliación** para altas capacidades (comparar el Estatuto de 1981 y el de 2007, o investigar el andalucismo histórico de Ronda y Córdoba).
 
 > **Idea clave:** esta situación de aprendizaje integra **todas las categorías temporales** (sucesión, simultaneidad, duración, intervalos, causalidad, cambio y continuidad, pasado-presente-futuro), el **método histórico** con fuentes primarias orales y escritas, la **cultura andaluza** y la **educación democrática**, que es exactamente lo que pide la CE 7 del área.
+
+### 8.5. Integración en los planes, programas y documentos del centro
+
+Las situaciones de aprendizaje anteriores no son actividades aisladas: cobran sentido cuando se insertan en la **planificación del centro** y en los **planes y programas educativos** de la Junta de Andalucía.
+
+| Plan / documento | Aportación concreta al aprendizaje del tiempo histórico |
+|---|---|
+| **Proyecto Educativo** (Decreto 328/2010) | Acuerdos de ciclo sobre la secuencia de categorías temporales (vocabulario común, tipo de línea de tiempo por curso, uso de siglos en números romanos desde 3.º-4.º) y sobre la presencia del patrimonio local en las programaciones |
+| **Proyecto Lingüístico de Centro (PLC)** y **ComunicA** | Géneros discursivos propios de la Historia: relato cronológico, biografía, entrevista, noticia, texto expositivo con conectores temporales y causales; exposiciones orales y pódcast |
+| **Programa Vivir y Sentir el Patrimonio** | Adopción de un monumento o yacimiento cercano, rutas patrimoniales, guías elaboradas por el alumnado |
+| **Plan de Igualdad entre Hombres y Mujeres en Educación** | Biografías de mujeres andaluzas y españolas, análisis de su ausencia en las fuentes y en los manuales, historia de la vida cotidiana |
+| **Plan de Transformación Digital Educativa** | Líneas de tiempo digitales, mapas interactivos, audioguías con códigos QR, búsqueda crítica en archivos y hemerotecas digitales, ciudadanía digital |
+| **Escuela: Espacio de Paz** | Memoria democrática, valores constitucionales, empatía histórica y resolución dialogada de conflictos |
+| **Aldea** | Evolución del paisaje (dehesa, regadíos, salinas, marismas) como cambio y continuidad en la relación sociedad-naturaleza |
+| **Biblioteca escolar** y **Aula de Cine** | Novela histórica infantil, cómic, cine con guía de análisis de anacronismos |
+
+La **efeméride del 28 de febrero**, el **Día de la Constitución** (6 de diciembre), el **Día Internacional de los Museos** (18 de mayo) o el **8 de marzo** son momentos idóneos para proyectos interciclos. Del mismo modo, la colaboración con **ayuntamientos, archivos municipales, museos provinciales, conjuntos arqueológicos** de la Junta y asociaciones de mayores convierte la localidad en un auténtico laboratorio de Historia, en coherencia con el principio de apertura del centro a su entorno.
+
+## 9. Conclusión
+
+La noción de tiempo histórico es la **columna vertebral** del aprendizaje de la Historia en la Educación Primaria. A lo largo del tema se ha mostrado que no es una noción que se perciba ni que madure por sí sola: es una **construcción cognitiva y cultural** que avanza del **tiempo vivido** al **tiempo percibido** y al **tiempo concebido** (Hannoun, 1977), apoyada en la coordinación de **sucesión y duración** que describió Piaget (1946), pero que puede y debe estimularse desde los primeros cursos mediante la **narración** (Calvani, 1988; Egan), la **experiencia personal y familiar** y el **trabajo con fuentes** (Cooper, Prats). La didáctica actual —Pagès, Santisteban, Trepat y Comes— ha desplazado el foco desde la memorización de fechas hacia la comprensión de **categorías temporales** (cambio y continuidad, causalidad, simultaneidad, ritmo, periodización) y hacia la **conciencia histórica** que relaciona pasado, presente y futuro.
+
+Las **fuentes históricas** son el puente entre el pasado y el aula: permiten que el alumnado no solo reciba relatos ya elaborados, sino que se pregunte **cómo sabemos lo que sabemos**, aprenda a distinguir hechos de interpretaciones y desarrolle un **pensamiento crítico** imprescindible en la sociedad de la información. Los **recursos y estrategias** —líneas de tiempo, historia personal y oral, arqueología escolar, museos, dramatización, literatura, cine, TIC y juegos— solo son eficaces si se integran en **situaciones de aprendizaje** significativas, con un reto real, un producto final y una evaluación criterial.
+
+El marco LOMLOE, concretado en Andalucía por el **Decreto 101/2023** y la **Orden de 30 de mayo de 2023**, ofrece un contexto muy favorable: la **competencia específica 7** del área de Conocimiento del Medio Natural, Social y Cultural pide precisamente comprender **continuidades y cambios** y analizar relaciones de **causalidad, simultaneidad y sucesión**, y la presencia transversal de la **cultura andaluza** y del **patrimonio** permite partir de lo cercano —Orce, Antequera, Itálica, Medina Azahara, la Alhambra, el 28F— para llegar a lo universal.
+
+En definitiva, enseñar tiempo histórico es formar **ciudadanos y ciudadanas con memoria y con proyecto**: personas que entienden que el presente es el resultado de decisiones humanas tomadas en el pasado y que, por ello, el futuro también depende de lo que hagan hoy. Esa es, quizá, la contribución más valiosa de la Historia escolar al **Perfil de salida** del alumnado.
+
+> **Idea clave:** cerrar el tema con la triple idea **construcción (psicología) – método (fuentes) – conciencia histórica (finalidad ciudadana)**, y con la referencia a la CE 7 y a la cultura andaluza.
+
+## 10. Bibliografía y webgrafía
+
+### 10.1. Bibliografía clásica (psicología del tiempo)
+
+- **Piaget, J.** (1946). *Le développement de la notion de temps chez l'enfant*. París: PUF (trad. esp.: *El desarrollo de la noción de tiempo en el niño*. México: Fondo de Cultura Económica).
+- **Fraisse, P.** (1957). *Psychologie du temps*. París: PUF.
+- **Hannoun, H.** (1977). *El niño conquista el medio*. Buenos Aires: Kapelusz.
+- **Bruner, J.** (1986). *Actual Minds, Possible Worlds*. Cambridge (Mass.): Harvard University Press (trad. esp.: *Realidad mental y mundos posibles*. Barcelona: Gedisa).
+- **Braudel, F.** (1949). *La Méditerranée et le monde méditerranéen à l'époque de Philippe II*. París: Armand Colin (trad. esp. en Fondo de Cultura Económica).
+
+### 10.2. Didáctica de la Historia y del tiempo histórico
+
+- **Calvani, A.** (1988). *Il bambino, il tempo, la storia*. Florencia: La Nuova Italia.
+- **Carretero, M., Pozo, J. I. y Asensio, M.** (comps.) (1989). *La enseñanza de las Ciencias Sociales*. Madrid: Visor.
+- **Pagès, J.** (1989). «Aproximación a un currículum sobre el tiempo histórico». En J. Rodríguez Frutos (ed.), *Enseñar historia. Nuevas propuestas*. Barcelona: Laia.
+- **Trepat, C. A. y Comes, P.** (1998). *El tiempo y el espacio en la didáctica de las ciencias sociales*. Barcelona: Graó.
+- **Egan, K.** (1994). *Fantasía e imaginación: su poder en la enseñanza*. Madrid: Morata.
+- **Prats, J.** (2001). *Enseñar historia: notas para una didáctica renovadora*. Mérida: Junta de Extremadura.
+- **Cooper, H.** (2002). *Didáctica de la historia en la educación infantil y primaria*. Madrid: Morata.
+- **Pagès, J. y Santisteban, A.** (2010). «La enseñanza y el aprendizaje del tiempo histórico en la educación primaria». *Cadernos CEDES*, 30 (82).
+- **Santisteban, A. y Pagès, J.** (coords.) (2011). *Didáctica del Conocimiento del Medio Social y Cultural en la Educación Primaria*. Madrid: Síntesis.
+- **Prats, J.** (coord.) (2011). *Didáctica de la Geografía y la Historia*. Barcelona: Graó.
+- **Feliu, M. y Hernàndez, F. X.** (2011). *12 ideas clave. Enseñar y aprender historia*. Barcelona: Graó.
+- **Seixas, P. y Morton, T.** (2013). *The Big Six Historical Thinking Concepts*. Toronto: Nelson Education.
+- **Domínguez, J.** (2015). *Pensamiento histórico y evaluación de competencias*. Barcelona: Graó.
+
+### 10.3. Normativa
+
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).
+- Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria.
+- Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+- Ley 20/2022, de 19 de octubre, de Memoria Democrática.
+- Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía (LEA).
+- Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía.
+- Ley 2/2017, de 28 de marzo, de Memoria Histórica y Democrática de Andalucía.
+- Decreto 328/2010, de 13 de julio, por el que se aprueba el Reglamento Orgánico de las escuelas infantiles de segundo grado, de los colegios de educación primaria, de los colegios de educación infantil y primaria y de los centros públicos específicos de educación especial.
+- Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.
+- Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas.
+- Instrucciones de 8 de marzo de 2017, de la Dirección General de Participación y Equidad, por las que se actualiza el protocolo de detección, identificación del alumnado con necesidades específicas de apoyo educativo y organización de la respuesta educativa.
+- Orden ECI/592/2007, de 12 de marzo (temario de oposiciones al Cuerpo de Maestros).
+
+### 10.4. Webgrafía
+
+- **BOE** (Boletín Oficial del Estado): www.boe.es
+- **BOJA** (Boletín Oficial de la Junta de Andalucía): www.juntadeandalucia.es/boja
+- **Portal de Educación de la Junta de Andalucía** (currículo, planes y programas): www.juntadeandalucia.es/educacion
+- **INTEF** y repositorio **Procomún** de recursos educativos abiertos: intef.es
+- **Instituto Andaluz del Patrimonio Histórico (IAPH)** y su **Guía Digital del Patrimonio Cultural de Andalucía**: www.iaph.es
+- **Centro de Estudios Andaluces** (recursos sobre historia de Andalucía): www.centrodeestudiosandaluces.es
+- **PARES**, Portal de Archivos Españoles: pares.cultura.gob.es
+- **Hemeroteca Digital de la Biblioteca Nacional de España**: hemerotecadigital.bne.es
+- **Biblioteca Virtual de Prensa Histórica** (Ministerio de Cultura): prensahistorica.mcu.es
+- **Museo Arqueológico Nacional**: www.man.es, y webs de los **conjuntos arqueológicos y monumentales** de la Junta de Andalucía (Itálica, Medina Azahara, Dólmenes de Antequera, Baelo Claudia).
+- **Patronato de la Alhambra y Generalife**: www.alhambra-patronato.es
+
+## 11. Esquema-resumen para memorizar
+
+**1. Tipos de tiempo (Trepat y Comes, 1998)** → personal/vivido · físico/cronológico · social/convencional · histórico (+ familiar/generacional como puente).
+
+**2. Tres duraciones de Braudel** → acontecimiento (corta) · coyuntura (media) · estructura (larga duración).
+
+**3. Categorías temporales** (Pagès, Santisteban, Trepat, Carretero):
+
+| Instrumentales (tiempo cronológico) | Comprensivas (tiempo histórico) |
+|---|---|
+| Sucesión/orden · duración · intervalo · cronología y datación (a.C./d.C., siglos) | Simultaneidad · ritmo · cambio y continuidad · causalidad · periodización · relación pasado-presente-futuro |
+
+**4. Autores clave en una línea:**
+
+| Autor (año) | Aportación |
+|---|---|
+| Piaget (1946) | El tiempo se construye: sucesión + encajamiento de duraciones → medida; tiempo intuitivo (2-7) / operatorio (7-11) / abstracto (11+) |
+| Fraisse (1957) | Psicología de la percepción y estimación del tiempo; adaptación a cambios y duraciones |
+| Hannoun (1977) | Tiempo **vivido** → **percibido** → **concebido** |
+| Calvani (1988) | Crítica a Piaget: la **narración** permite comprender la Historia antes del pensamiento formal |
+| Carretero, Pozo y Asensio (1989) | Evidencia empírica: personalismo y monocausalidad; dificultades con la cronología |
+| Trepat y Comes (1998) | Tipos de tiempo y progresión didáctica |
+| Pagès y Santisteban (1999, 2010) | Tiempo histórico como eje de la **conciencia histórica**; cambio y continuidad |
+| Prats (2001), Cooper (2002) | Método del historiador en el aula; trabajo con fuentes desde Infantil y Primaria |
+| Seixas | Seis conceptos del pensamiento histórico |
+
+**5. Progresión por ciclos:**
+
+- **1.º ciclo**: tiempo vivido; rutinas, calendario, reloj, historia personal, antes/ahora.
+- **2.º ciclo**: tiempo percibido; historia familiar y local, década/siglo, líneas a escala, fuentes orales y materiales, Prehistoria y Edad Antigua.
+- **3.er ciclo**: hacia el tiempo concebido; edades de la Historia, a.C./d.C., simultaneidad, causalidad múltiple, España y Andalucía contemporáneas.
+
+**6. Fuentes** → por origen: primarias / secundarias (terciarias) · por soporte: materiales, escritas, orales, iconográficas, audiovisuales, digitales, estadísticas-cartográficas · por intención: voluntarias / involuntarias · el patrimonio como fuente viva. Análisis: **¿qué es? ¿quién, cuándo, para qué? ¿qué nos dice? ¿es fiable? ¿qué no dice?**
+
+**7. Método histórico en el aula** → pregunta → hipótesis → búsqueda y análisis de fuentes → contraste → conclusiones → comunicación.
+
+**8. Recursos** → líneas de tiempo y frisos (a escala, paralelos) · historia personal y familiar · historia oral · arqueología escolar · museos y patrimonio · narración, dramatización y empatía · cómic, literatura, cine y prensa · TIC · juegos.
+
+**9. Normativa** → LOMLOE (art. 17) · RD 157/2022: **CE 7** (continuidades y cambios; causalidad, simultaneidad y sucesión) y bloque C «Sociedades y territorios» → «Sociedades en el tiempo» · LEA · Decreto 101/2023 · Orden 30/05/2023 · Decreto 328/2010 · Leyes de patrimonio y memoria democrática · Planes: Igualdad, ComunicA, PLC, Vivir y Sentir el Patrimonio, TDE.
+
+**10. Errores del alumnado** → presentismo/anacronismo · compresión de magnitudes · año-siglo y a.C. · visión lineal-progresista · personalismo y monocausalidad · invisibilidad de las mujeres · concepciones alternativas (dinosaurios y humanos coetáneos).
+
+## 12. Preguntas de autoevaluación
+
+1. **¿Por qué se dice que el tiempo histórico es un «constructo»?**
+   Porque no se percibe directamente: es una elaboración cultural (sistemas de datación, periodizaciones) y cognitiva (coordinación de sucesión y duración) que el niño construye progresivamente con ayuda de la intervención educativa.
+
+2. **Enumere los tipos de tiempo y su orden de enseñanza.**
+   Personal o vivido, físico o cronológico, social o convencional e histórico; el tiempo familiar o generacional actúa como puente entre el personal y el histórico.
+
+3. **¿Cuáles son las tres operaciones que, según Piaget, componen la noción de tiempo?**
+   El orden de sucesión, el encajamiento de duraciones y la medida del tiempo, que sintetiza las dos anteriores.
+
+4. **¿Qué conclusión didáctica se derivó de Piaget y por qué se ha superado?**
+   Que la Historia no podría enseñarse hasta el pensamiento formal. Calvani, Egan, Cooper y Pagès mostraron que la narración, la experiencia y las fuentes permiten comprender el pasado desde los primeros cursos, aunque con límites en las operaciones más abstractas.
+
+5. **Explique la secuencia de Hannoun.**
+   Tiempo vivido (experiencia subjetiva, Infantil y 1.º ciclo), tiempo percibido (exterior, observable y medible, 2.º ciclo) y tiempo concebido (abstracto y conceptual, desde el final de la etapa).
+
+6. **Diferencie tiempo cronológico y tiempo histórico.**
+   El cronológico es instrumental (medida, orden, datación); el histórico es comprensivo (cambio y continuidad, causalidad, ritmos, periodización, conciencia histórica). El primero es necesario, pero no suficiente.
+
+7. **¿Qué son las tres duraciones de Braudel? Ponga un ejemplo de cada una.**
+   Acontecimiento (corta duración: la toma de Granada de 1492), coyuntura (media: la crisis del siglo XVII) y estructura (larga duración: el cultivo del olivo en Andalucía).
+
+8. **¿Qué dificultades detectaron Carretero, Pozo y Asensio?**
+   Explicaciones personalistas y monocausales, errores con la cronología convencional y dificultad para comprender duraciones largas y conceptos históricos abstractos.
+
+9. **Clasifique las fuentes históricas según su origen y su soporte.**
+   Primarias y secundarias (y terciarias); materiales, escritas, orales, iconográficas, audiovisuales, digitales y estadístico-cartográficas.
+
+10. **¿Qué preguntas debe hacerse el alumnado ante una fuente?**
+    Qué es, quién la produjo, cuándo, para qué, qué información aporta, si es fiable, qué no dice y cómo se contrasta con otras fuentes.
+
+11. **¿Qué competencia específica del área se vincula directamente con el tema?**
+    La CE 7 de Conocimiento del Medio Natural, Social y Cultural: comprender e interpretar continuidades y cambios del medio social y cultural, analizando relaciones de causalidad, simultaneidad y sucesión.
+
+12. **¿En qué bloque de saberes básicos se encuentra el tiempo histórico?**
+    En el bloque C «Sociedades y territorios», apartado «Sociedades en el tiempo».
+
+13. **Cite tres recursos para trabajar la simultaneidad en 3.er ciclo.**
+    Frisos cronológicos con franjas paralelas (Andalucía, España, mundo), cuadros comparativos de civilizaciones coetáneas y líneas de tiempo digitales con varias capas.
+
+14. **¿Por qué es valiosa la historia oral en Primaria?**
+    Porque conecta el tiempo personal con el histórico a través del familiar, convierte al alumnado en investigador, desarrolla la comunicación oral (ComunicA, PLC) y permite contrastar memoria y documentos.
+
+15. **¿Qué normativa andaluza obliga a incluir la cultura y la historia de Andalucía en el currículo?**
+    La Ley 17/2007 de Educación de Andalucía, el Decreto 101/2023 y la Orden de 30 de mayo de 2023, en el marco del Estatuto de Autonomía y de la Ley 14/2007 del Patrimonio Histórico de Andalucía.
+
+## 13. Consejos para defender el tema en el examen
+
+**Distribución del tiempo (prueba de unas 2 horas):**
+
+| Bloque | Tiempo orientativo | Contenido mínimo |
+|---|---|---|
+| Índice e introducción | 10-15 min | Índice numerado que reproduzca los epígrafes del título; justificación (tiempo como coordenada del conocimiento social) y referencia a CE 7 |
+| Construcción de la noción | 30-35 min | Tipos de tiempo, categorías temporales (tabla), Piaget-Hannoun-Calvani-Pagès, progresión por ciclos y dificultades |
+| Fuentes | 15-20 min | Concepto, clasificación (tabla), criterios de uso y método histórico |
+| Recursos y estrategias | 15-20 min | Al menos 6 recursos con ejemplo andaluz concreto |
+| Intervención educativa | 20-25 min | Normativa, equivalencias terminológicas y una situación de aprendizaje sintetizada |
+| Conclusión y bibliografía | 10 min | Idea de conciencia histórica + 5-6 referencias bien citadas |
+
+**Lo que «puntúa»:**
+
+- Citar con año a **Piaget (1946)**, **Hannoun (1977)**, **Calvani (1988)**, **Carretero, Pozo y Asensio (1989)**, **Trepat y Comes (1998)** y **Pagès y Santisteban**; mencionar a **Braudel** para las duraciones y a **Seixas** para el pensamiento histórico.
+- Usar la terminología LOMLOE con precisión: **competencia específica 7**, **saberes básicos «Sociedades en el tiempo»**, **descriptores operativos**, **situaciones de aprendizaje**, **DUA**.
+- Explicar la **equivalencia** entre el título de 2007 (LOE original) y el currículo vigente.
+- Incluir **tablas** (tipos de tiempo, categorías, fuentes, progresión por ciclos): ordenan el discurso y facilitan la lectura del tribunal.
+- Aportar **ejemplos andaluces** concretos y variados (Orce, Antequera, Los Millares, Itálica, Medina Azahara, Alhambra, Constitución de Cádiz, 28F).
+
+**Errores frecuentes que conviene evitar:**
+
+- Reducir el tema a Piaget o presentar sus estadios como límites rígidos sin citar la crítica posterior.
+- Confundir **tiempo histórico** con **cronología** o con una lista de edades de la Historia.
+- Desarrollar en exceso el contenido histórico (la historia de España) a costa de la dimensión didáctica: el tema es de **didáctica**, no de Historia.
+- Olvidar el epígrafe de **intervención educativa** o resolverlo con generalidades sin situación de aprendizaje.
+- Inventar artículos o números de criterios de evaluación: es preferible formularlos de forma general.
+- Errores cronológicos propios (el siglo de un año, el año 0, el inicio y fin de las edades): restan credibilidad.
+
+**Cómo personalizarlo:**
+
+- Adaptar los ejemplos a la **provincia y la localidad** donde se oposita (yacimiento, museo o archivo cercano).
+- Mencionar experiencias reales de aula (prácticas, interinidades) con líneas del tiempo, entrevistas o visitas.
+- Vincular el tema con otros del temario (tema de Conocimiento del Medio, de ciudadanía y derechos humanos, de desarrollo psicoevolutivo) para mostrar visión global.
+- Cerrar con una reflexión propia sobre la **finalidad ciudadana** de la Historia: formar personas críticas, con memoria democrática y capaces de proyectar el futuro.
+
+> **Idea clave:** el tribunal valora que el opositor demuestre **saber cómo aprende el niño el tiempo**, **cómo se enseña con fuentes** y **cómo se concreta en el aula andaluza** según la normativa vigente. Estructura clara, autores con año, tablas y una situación de aprendizaje bien trabada son la fórmula de un tema «de 10».
