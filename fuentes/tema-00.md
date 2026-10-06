@@ -587,3 +587,182 @@ El calendario siguiente está pensado para unas pruebas a partir de junio. Ajust
 2. Programación y SA (sin ellas no se puede superar la segunda prueba).
 3. Temas: asegurar un número suficiente para que la probabilidad de que salga al menos uno dominado sea alta, y tener esquemas del resto. Calcula la probabilidad con el número de bolas de tu convocatoria.
 
+## 9. Glosario LOMLOE
+
+| Término | Definición operativa |
+|---|---|
+| **Competencias clave** | Desempeños considerados imprescindibles para que el alumnado progrese con garantías y afronte los principales retos y desafíos globales y locales. Son ocho: competencia en comunicación lingüística (CCL), plurilingüe (CP), matemática y en ciencia, tecnología e ingeniería (STEM), digital (CD), personal, social y de aprender a aprender (CPSAA), ciudadana (CC), emprendedora (CE) y en conciencia y expresión culturales (CCEC). Se inspiran en la Recomendación del Consejo de la UE de 22 de mayo de 2018 |
+| **Perfil de salida** | Concreción de los principios y fines del sistema educativo referidos a la enseñanza básica: identifica y define las competencias clave que el alumnado debe haber desarrollado al finalizarla. Es el referente último del currículo |
+| **Descriptores operativos** | Concreciones de cada competencia clave (p. ej., CCL1-CCL5, STEM1-STEM5) que indican el nivel de desempeño esperado al final de la etapa; conectan el Perfil de salida con las competencias específicas |
+| **Competencias específicas** | Desempeños que el alumnado debe poder desplegar en actividades o situaciones cuyo abordaje requiere los saberes básicos de cada área; son el elemento de conexión entre el Perfil de salida y los saberes básicos y criterios de evaluación |
+| **Criterios de evaluación** | Referentes que indican los niveles de desempeño esperados en las situaciones o actividades a las que se refieren las competencias específicas de cada área en un momento determinado del proceso de aprendizaje. En Andalucía se formulan por ciclos |
+| **Saberes básicos** | Conocimientos, destrezas y actitudes que constituyen los contenidos propios de un área y cuyo aprendizaje es necesario para adquirir las competencias específicas |
+| **Situaciones de aprendizaje** | Situaciones y actividades que implican el despliegue por parte del alumnado de actuaciones asociadas a competencias clave y específicas y que contribuyen a su adquisición y desarrollo |
+| **Mapa de relaciones curriculares** | Tabla que vincula descriptores operativos, competencias específicas, criterios de evaluación y saberes básicos; facilita la coherencia de la programación |
+| **DUA (Diseño Universal para el Aprendizaje)** | Marco de diseño curricular (CAST) que anticipa la variabilidad del alumnado ofreciendo múltiples formas de implicación, de representación y de acción y expresión; principio pedagógico de la LOMLOE |
+| **Inclusión educativa** | Principio que garantiza la presencia, participación y aprendizaje de todo el alumnado, eliminando barreras y adoptando medidas organizativas, metodológicas y curriculares |
+| **NEAE** | Alumnado con necesidad específica de apoyo educativo: necesidades educativas especiales, retraso madurativo, trastornos del desarrollo del lenguaje y la comunicación, trastornos de atención o de aprendizaje, desconocimiento grave de la lengua de aprendizaje, vulnerabilidad socioeducativa, altas capacidades intelectuales, incorporación tardía o condiciones personales o de historia escolar (categorías de la LOE-LOMLOE; Andalucía las organiza en sus Instrucciones) |
+| **NEE** | Alumnado que afronta barreras que limitan su acceso, presencia, participación o aprendizaje, derivadas de discapacidad o trastornos graves de conducta, de la comunicación y del lenguaje, por un periodo o a lo largo de toda la escolarización |
+| **Evaluación formativa** | Evaluación orientada a mejorar el aprendizaje durante el proceso, con retroalimentación (Scriven, 1967; Black y Wiliam, 1998) |
+| **Evaluación de diagnóstico** | Evaluación de las competencias alcanzadas por el alumnado en 4.º de Primaria, con finalidad formativa y orientadora para los centros |
+| **Informe final de etapa** | Documento que recoge, al final de 6.º, el grado de adquisición de las competencias y, en su caso, las medidas de refuerzo, para facilitar el tránsito a la ESO |
+| **Programa de refuerzo del aprendizaje** | En Andalucía, programa de atención a la diversidad para alumnado con dificultades o que no supera áreas; se desarrolla dentro del horario lectivo |
+| **Programa de profundización** | En Andalucía, programa para alumnado especialmente motivado o con altas capacidades que enriquece el currículo sin avanzar contenidos de cursos superiores |
+| **Adaptación curricular significativa (ACS)** | Medida específica para alumnado con NEE que modifica los elementos del currículo (incluidos criterios de evaluación); requiere informe de evaluación psicopedagógica |
+| **ACAI** | Adaptación curricular para el alumnado con altas capacidades intelectuales (de ampliación o de enriquecimiento) |
+| **Plan de Centro** | Documento de autonomía de los centros andaluces formado por el proyecto educativo, el reglamento de organización y funcionamiento (ROF) y el proyecto de gestión (LEA y Decreto 328/2010) |
+| **Proyecto educativo** | Documento que define los objetivos particulares del centro y concreta el currículo, la atención a la diversidad, la acción tutorial, la convivencia, la evaluación, entre otros aspectos |
+| **POAT** | Plan de Orientación y Acción Tutorial, integrado en el proyecto educativo |
+| **Plan de convivencia** | Documento del proyecto educativo que concreta normas, medidas de prevención y actuación ante conflictos |
+| **Coordinador/a de bienestar y protección** | Figura prevista por la LOPIVI en todos los centros que imparten enseñanzas a menores: promueve planes de formación, el buen trato, la detección precoz y la comunicación de situaciones de violencia, y actúa como referente |
+| **Agenda 2030 / ODS** | Diecisiete Objetivos de Desarrollo Sostenible aprobados por la ONU en 2015; la LOMLOE incorpora la educación para el desarrollo sostenible y la ciudadanía mundial |
+| **Tránsito** | Conjunto de actuaciones de coordinación entre etapas (Infantil–Primaria y Primaria–ESO) regulado en Andalucía por la Orden de 30 de mayo de 2023 |
+| **Séneca / iPASEN** | Sistema de gestión de la Junta de Andalucía para el profesorado y los centros, y su aplicación para la comunicación con familias |
+
+## 10. Autores clave de pedagogía y psicología
+
+| Autor/a (año de referencia) | Aportación | Dónde citarlo |
+|---|---|---|
+| **Jean Piaget** (1896-1980) | Epistemología genética; estadios del desarrollo cognitivo (sensoriomotor, preoperacional, operaciones concretas, operaciones formales); asimilación, acomodación, equilibración; desarrollo moral heterónomo-autónomo | Desarrollo 6-12 años, matemáticas, ciencias |
+| **Lev S. Vygotsky** (1896-1934) | Origen social de las funciones psicológicas superiores; **Zona de Desarrollo Próximo**; mediación; lenguaje y pensamiento | Aprendizaje cooperativo, andamiaje, lenguaje |
+| **Jerome Bruner** (1915-2016) | Aprendizaje por descubrimiento; currículo en espiral; representación enactiva, icónica y simbólica; **andamiaje** (Wood, Bruner y Ross, 1976) | Metodología, matemáticas, SA |
+| **David P. Ausubel** (1918-2008) | **Aprendizaje significativo** (1963, 1968): relación sustantiva con los conocimientos previos; organizadores previos | Conocimientos previos, metodología |
+| **Joseph D. Novak** | Mapas conceptuales como herramienta del aprendizaje significativo | Técnicas de estudio, evaluación |
+| **Howard Gardner** | Teoría de las **inteligencias múltiples** (*Frames of Mind*, 1983) | Diversidad, metodología |
+| **Albert Bandura** | Aprendizaje social u observacional (1977); autoeficacia | Modelado, convivencia |
+| **B. F. Skinner** | Condicionamiento operante; refuerzo; enseñanza programada | Modificación de conducta, TDAH |
+| **Lawrence Kohlberg** | Estadios del desarrollo moral (preconvencional, convencional, posconvencional) | Valores, Educación en Valores Cívicos y Éticos |
+| **Erik Erikson** | Desarrollo psicosocial; en 6-12 años, **laboriosidad frente a inferioridad** | Desarrollo afectivo, autoestima |
+| **Urie Bronfenbrenner** | Modelo **ecológico** del desarrollo (1979): micro, meso, exo y macrosistema | Familia-escuela, tutoría |
+| **John Dewey** | Escuela activa, aprender haciendo, educación y democracia (1916) | Metodologías activas, ciudadanía |
+| **William H. Kilpatrick** | **Método de proyectos** (1918) | ABP, SA |
+| **Maria Montessori** | Ambiente preparado, material autocorrectivo, autonomía | Primer ciclo, matemáticas manipulativas |
+| **Ovide Decroly** | Centros de interés, globalización | Globalización, SA |
+| **Célestin Freinet** | Técnicas Freinet: imprenta escolar, texto libre, correspondencia, asamblea | Lengua, convivencia, cooperación |
+| **Paulo Freire** | Pedagogía crítica y dialógica (*Pedagogía del oprimido*, 1970) | Equidad, ciudadanía |
+| **Benjamin Bloom** | Taxonomía de objetivos (1956), revisada por Anderson y Krathwohl (2001); aprendizaje para el dominio | Diseño de actividades, evaluación |
+| **Michael Scriven** | Distinción entre evaluación formativa y sumativa (1967) | Evaluación |
+| **Paul Black y Dylan Wiliam** | *Inside the Black Box* (1998): evaluación para el aprendizaje | Evaluación formativa |
+| **John Hattie** | *Visible Learning* (2009): síntesis de metaanálisis sobre factores que influyen en el aprendizaje; importancia de la retroalimentación | Evaluación, metodología |
+| **Carol Dweck** | Mentalidad de crecimiento (*Mindset*, 2006) | Motivación, feedback |
+| **Daniel Goleman; Salovey y Mayer** | Inteligencia emocional (Salovey y Mayer, 1990; Goleman, 1995) | Educación emocional, tutoría |
+| **David y Roger Johnson; Spencer Kagan; Pere Pujolàs** | Aprendizaje cooperativo: interdependencia positiva, responsabilidad individual, interacción, habilidades sociales, procesamiento grupal; estructuras cooperativas | Metodología, inclusión |
+| **David H. Rose y Anne Meyer (CAST)** | **Diseño Universal para el Aprendizaje** (2002) | Atención a la diversidad |
+| **Joseph Renzulli** | Modelo de los **tres anillos** de la superdotación (1978): capacidad por encima de la media, compromiso con la tarea y creatividad | Altas capacidades |
+| **Reuven Feuerstein** | Modificabilidad cognitiva estructural, experiencia de aprendizaje mediado | NEAE, mediación |
+| **Robert Sternberg** | Teoría triárquica de la inteligencia | Diversidad, altas capacidades |
+| **Philippe Perrenoud; Antoni Zabala y Laia Arnau** | Enfoque por competencias; *11 ideas clave: cómo aprender y enseñar competencias* (Zabala y Arnau, 2007) | Programación, SA |
+| **César Coll** | Concepción constructivista de la enseñanza; currículo; aprendizaje significativo y funcional | Currículo, programación |
+| **Lawrence Stenhouse** | Currículo como proceso; profesor como investigador | Práctica reflexiva |
+| **Grant Wiggins y Jay McTighe** | Diseño inverso (*Understanding by Design*, 1998) | Programación, SA |
+| **Jacques Delors** | Informe a la UNESCO *La educación encierra un tesoro* (1996): cuatro pilares (aprender a conocer, a hacer, a vivir juntos, a ser) | Fines de la educación, introducciones |
+| **Edgar Morin** | *Los siete saberes necesarios para la educación del futuro* (1999) | Introducciones, conclusiones |
+| **Emilia Ferreiro y Ana Teberosky** | Sistemas de escritura en el desarrollo del niño (1979): niveles de adquisición de la escritura | Lectoescritura |
+| **George Pólya** | *Cómo plantear y resolver problemas* (1945): cuatro fases | Matemáticas, supuestos |
+| **Dan Olweus** | Definición y estudio del acoso escolar (bullying) | Convivencia, supuestos |
+| **Anatol Pikas** | Método de preocupación compartida ante el acoso | Convivencia, supuestos |
+| **Jacob L. Moreno** | Sociometría y sociograma | Tutoría, cohesión grupal |
+| **Donald Meichenbaum** | Entrenamiento en autoinstrucciones | TDAH, autorregulación |
+
+> **Idea clave:** cita a pocos autores pero **bien aplicados**: "Siguiendo a Vygotsky, organizo parejas heterogéneas para que el alumnado trabaje en su Zona de Desarrollo Próximo" vale más que una lista de diez nombres.
+
+## 11. Conclusión
+
+Aprobar la oposición de Maestro/a de Educación Primaria en Andalucía requiere integrar **tres saberes**: el **saber** (temario y normativa), el **saber hacer** (supuesto práctico, programación, situaciones de aprendizaje) y el **saber estar y comunicar** (defensa oral, gestión del tiempo, presencia ante el tribunal). Las tres dimensiones comparten un mismo eje: el modelo educativo de la LOMLOE y de su desarrollo andaluz —competencial, inclusivo, coeducativo, sostenible y digital—, que no debe recitarse, sino **mostrarse** en cada decisión.
+
+La preparación eficaz es planificada, activa y evaluada: estudia con recuperación y repaso espaciado, escribe y corrige, ensaya en voz alta, y revisa siempre la **convocatoria vigente del BOJA**, que es la que manda en tiempos, número de temas, formatos y ponderaciones. Con constancia y método, la oposición es también la mejor formación para el ejercicio docente que viene después.
+
+## 12. Bibliografía, normativa y webgrafía
+
+**Normativa.**
+
+- Constitución Española de 1978.
+- Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.
+- Ley Orgánica 2/2006, de 3 de mayo, de Educación, modificada por la Ley Orgánica 3/2020, de 29 de diciembre.
+- Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
+- Real Decreto 276/2007, de 23 de febrero, Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes (modificado, entre otros, por el Real Decreto 270/2022, de 12 de abril).
+- Orden ECI/592/2007, de 12 de marzo, temarios del Cuerpo de Maestros.
+- Real Decreto 157/2022, de 1 de marzo, ordenación y enseñanzas mínimas de la Educación Primaria.
+- Ley 17/2007, de 10 de diciembre, de Educación de Andalucía.
+- Decreto 328/2010, de 13 de julio, Reglamento Orgánico de los colegios de educación infantil y primaria, entre otros.
+- Orden de 20 de agosto de 2010, organización y funcionamiento de esos centros.
+- Orden de 20 de junio de 2011, convivencia y protocolos de actuación.
+- Instrucciones de 8 de marzo de 2017, protocolo de detección e identificación del alumnado con NEAE.
+- Decreto 101/2023, de 9 de mayo, ordenación y currículo de la Educación Primaria en Andalucía.
+- Orden de 30 de mayo de 2023, desarrollo del currículo, atención a la diversidad, evaluación y tránsito en Educación Primaria en Andalucía.
+- II Plan Estratégico de Igualdad de Género en Educación.
+
+**Bibliografía.**
+
+- Ausubel, D. P., Novak, J. D. y Hanesian, H. (1983). *Psicología educativa: un punto de vista cognoscitivo*. Trillas.
+- CAST (2018). *Universal Design for Learning Guidelines*. CAST.
+- Coll, C. (1987). *Psicología y currículum*. Laia.
+- Delors, J. (1996). *La educación encierra un tesoro*. UNESCO/Santillana.
+- Gardner, H. (1983). *Frames of Mind: The Theory of Multiple Intelligences*. Basic Books.
+- Hattie, J. (2009). *Visible Learning*. Routledge.
+- Johnson, D. W., Johnson, R. T. y Holubec, E. J. (1999). *El aprendizaje cooperativo en el aula*. Paidós.
+- Olweus, D. (1993). *Bullying at School*. Blackwell.
+- Pujolàs, P. (2008). *9 ideas clave. El aprendizaje cooperativo*. Graó.
+- Vygotsky, L. S. (1979). *El desarrollo de los procesos psicológicos superiores*. Crítica.
+- Wiggins, G. y McTighe, J. (1998). *Understanding by Design*. ASCD.
+- Zabala, A. y Arnau, L. (2007). *11 ideas clave: cómo aprender y enseñar competencias*. Graó.
+
+**Webgrafía.**
+
+- Boletín Oficial del Estado: boe.es
+- Boletín Oficial de la Junta de Andalucía: juntadeandalucia.es/eboja
+- Portal de la Consejería de Desarrollo Educativo y Formación Profesional (Junta de Andalucía), sección de oposiciones y de profesorado.
+- Portal de Recursos Educativos y Andalucía Educa (Junta de Andalucía).
+- INTEF (Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado): intef.es
+- CAST, pautas DUA: udlguidelines.cast.org
+
+## 13. Esquema-resumen para memorizar
+
+**Procedimiento (RD 276/2007 modificado por RD 270/2022).**
+
+- Concurso-oposición + fase de prácticas. Ponderación ordinaria: 2/3 oposición y 1/3 concurso.
+- **Prueba 1 (conocimientos)**: A) supuesto práctico; B) tema escrito entre varios extraídos al azar.
+- **Prueba 2 (aptitud pedagógica)**: defensa de la programación + exposición de una situación de aprendizaje.
+- Baremo (Anexo I): experiencia máx. 7, formación académica máx. 5, otros méritos máx. 2.
+- Prácticas: tutor/a, formación, informes, apto/no apto.
+- **Todo dato concreto (bolas, tiempos, formatos, mínimos) → convocatoria vigente del BOJA.**
+
+**Triángulo normativo andaluz.** LOE-LOMLOE + Decreto 101/2023 + Orden de 30 de mayo de 2023; organización: Decreto 328/2010; NEAE: Instrucciones de 8 de marzo de 2017; convivencia: Orden de 20 de junio de 2011; protección: LOPIVI (coordinador/a de bienestar).
+
+**Lógica curricular.** Perfil de salida → competencias clave (8) → descriptores operativos → competencias específicas → criterios de evaluación + saberes básicos → situaciones de aprendizaje → instrumentos de evaluación.
+
+**Situación de aprendizaje.** Contexto + reto + producto final + elementos curriculares + secuencia (activación, exploración, producción, difusión, reflexión) + DUA + evaluación por criterios.
+
+**Supuesto práctico.** Identificar → fundamentar (norma + teoría) → intervenir (alumno, grupo, equipo docente, familias, externos) → evaluar → concluir.
+
+**Tema escrito.** Índice fiel al título → introducción → desarrollo completo con autores, normativa y ejemplos → aplicación didáctica → conclusión → bibliografía → revisión.
+
+**Estudio.** Recuperación activa + repetición espaciada + intercalado + simulacros cronometrados + descanso.
+
+## 14. Preguntas de autoevaluación
+
+1. **¿Qué norma regula el reglamento de ingreso en los cuerpos docentes y cuál la modificó en 2022?** El RD 276/2007, de 23 de febrero, modificado por el RD 270/2022, de 12 de abril.
+2. **¿Qué partes tiene la prueba de conocimientos específicos?** Parte A, prueba práctica (supuesto práctico), y parte B, desarrollo por escrito de un tema elegido entre varios extraídos al azar.
+3. **¿Qué comprende la prueba de aptitud pedagógica?** La presentación y defensa de una programación didáctica y la preparación, exposición y defensa de una unidad didáctica/situación de aprendizaje.
+4. **¿Qué ponderación tienen las fases de oposición y concurso en el procedimiento ordinario?** Dos tercios la oposición y un tercio el concurso.
+5. **¿Dónde se comprueba el número de temas extraídos y los tiempos de las pruebas?** En la orden de convocatoria vigente publicada en el BOJA.
+6. **¿Qué normas forman el currículo de Primaria en Andalucía?** RD 157/2022 (enseñanzas mínimas), Decreto 101/2023 y Orden de 30 de mayo de 2023.
+7. **¿Cuáles son las ocho competencias clave?** CCL, CP, STEM, CD, CPSAA, CC, CE y CCEC.
+8. **¿Qué es el Perfil de salida?** La concreción de las competencias clave que el alumnado debe haber desarrollado al finalizar la enseñanza básica; referente último del currículo.
+9. **¿Qué norma andaluza regula el protocolo de detección de NEAE?** Las Instrucciones de 8 de marzo de 2017 de la Dirección General de Participación y Equidad.
+10. **¿Dónde se recogen los protocolos de actuación ante el acoso escolar en Andalucía?** En la Orden de 20 de junio de 2011.
+11. **¿Qué figura creó la LOPIVI en los centros educativos?** El coordinador o coordinadora de bienestar y protección del alumnado.
+12. **¿Cuándo se toman las decisiones de promoción en Primaria con la LOMLOE?** Al finalizar cada ciclo; la permanencia es excepcional y solo una vez en la etapa.
+13. **¿Qué elementos no pueden faltar en una situación de aprendizaje?** Contexto, reto, producto final, competencias específicas, criterios, saberes, secuencia de actividades, DUA y evaluación.
+14. **¿Por qué es incoherente calificar solo con porcentajes de instrumentos?** Porque con la LOMLOE el referente de la evaluación son los criterios de evaluación, no los instrumentos.
+15. **¿Qué dos técnicas de estudio tienen mayor respaldo empírico?** La práctica de recuperación (efecto test) y la repetición espaciada.
+
+## 15. Consejos finales para el día de las pruebas
+
+- **Lee la convocatoria completa** y los criterios del tribunal en cuanto se publiquen; anota requisitos formales de la programación y lo que se puede llevar a cada prueba.
+- **Documentación**: DNI y lo que exija la convocatoria; bolígrafos de repuesto del color permitido; reloj analógico si se permite.
+- **En la primera prueba**: lee el supuesto antes de elegir el tema (si el orden lo permite) para distribuir el tiempo; empieza por lo que mejor domines; reserva los últimos minutos para revisar.
+- **En la segunda prueba**: lleva la programación ensayada y todas las situaciones de aprendizaje preparadas; en el tiempo de preparación, prioriza un guion claro; durante la exposición, controla el reloj y deja la evaluación y la atención a la diversidad bien desarrolladas.
+- **En el debate**: escucha la pregunta completa, agradece, responde con normativa y ejemplo, y reconoce con naturalidad lo que no sepas, proponiendo cómo lo resolverías.
+- **Gestión emocional**: respiración, rutinas previas, descanso la noche anterior. El tribunal evalúa a un futuro compañero o compañera: muestra **seguridad, rigor y vocación**.
+- **Errores que suspenden**: no responder a todas las cuestiones del supuesto, dejar un tema a medias, incumplir el formato de la programación, normativa derogada, faltas de ortografía reiteradas, exposición leída sin contacto con el tribunal.

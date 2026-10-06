@@ -38,3 +38,14 @@ Junta de Andalucía, desarrollado tema a tema con el marco normativo LOMLOE y an
 | 23 | Magnitudes y su medida |
 | 24 | Percepción espacial y geometría |
 | 25 | Recogida, organización y representación de la información; estadística y azar |
+
+## Notas de revisión
+- Total: 26 PDF (≈1.180 páginas, ≈380.000 palabras). Cada tema incluye introducción, desarrollo de todos los
+  epígrafes, marco normativo estatal y andaluz, situación de aprendizaje, conclusión, bibliografía,
+  esquema-resumen, preguntas de autoevaluación y consejos para el examen.
+- Los títulos de los temas se redactaron sin acceso directo al BOE: contrasta la redacción literal con la
+  Orden ECI/592/2007 (BOE 15/03/2007).
+- Algunas referencias se citan de forma general a propósito (códigos de criterios andaluces, fechas de
+  instrucciones de la Consejería sobre lectura y razonamiento matemático, etc.). Comprueba en BOJA las fechas
+  señaladas en los temas 00, 14, 21, 22 y 25, y las condiciones concretas de la convocatoria vigente
+  (temas a sortear, tiempos, ponderaciones).
